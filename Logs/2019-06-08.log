@@ -1,0 +1,692 @@
+INFO 2019-06-08 12:37:39,333 [1]
++++++++++++++++++++++++++++++++++++++
+FreeWorship Version: 3.4.2 x64
+Windows OS Version:10 Home Single Language 64-bit
+Sys Mem:3969MB
+
+DEBUG2019-06-08 12:37:39,365 [1]
+Starting new Icon generation thread ThumbGen4430
+
+INFO 2019-06-08 12:37:41,130 [1]
+Created Win8.1/Win10 spell checker
+
+INFO 2019-06-08 12:37:47,001 [1]
+Succesfully started PowerPoint 2016
+
+DEBUG2019-06-08 12:37:47,747 [1]
+Presentation window's handle is 459942
+
+INFO 2019-06-08 12:37:51,745 [1]
+Loaded Chrome Embedded Framework
+
+INFO 2019-06-08 12:38:06,071 [1]
+Initialised Chrome Embedded Framework
+
+INFO 2019-06-08 12:38:06,855 [1]
+Failed to load the following font: No se puede convertir FontFamilyConverter desde System.String.
+
+INFO 2019-06-08 12:38:11,834 [1]
+Failed to load the following font:HelveticaNeueLT Std 
+
+INFO 2019-06-08 12:38:11,834 [1]
+Failed to load the following font:HelveticaNeueLT Std Blk 
+
+INFO 2019-06-08 12:38:11,834 [1]
+Failed to load the following font:HelveticaNeueLT Std Cn 
+
+INFO 2019-06-08 12:38:11,834 [1]
+Failed to load the following font:HelveticaNeueLT Std Lt 
+
+INFO 2019-06-08 12:38:17,093 [1]
+Loaded 179 fonts successfully and failed to load the following fonts:
+
+INFO 2019-06-08 12:38:17,175 [1]
+No errors to report
+
+INFO 2019-06-08 12:38:49,022 [1]
+Songs Database loaded with 545 items
+
+INFO 2019-06-08 12:38:50,247 [1]
+Bibles Database loaded with 3 items
+
+INFO 2019-06-08 12:38:50,248 [1]
+Slides Database loaded with 0 items
+
+INFO 2019-06-08 12:39:02,276 [1]
+Checked for updates in 3111 ms
+
+INFO 2019-06-08 12:39:02,276 [1]
+Result was NewUpdate
+
+DEBUG2019-06-08 12:40:40,542 [1]
+Opening folder '' in file browser
+
+DEBUG2019-06-08 12:40:40,544 [1]
+Opening folder '' in file browser
+
+DEBUG2019-06-08 12:40:40,546 [1]
+Opening folder 'C:\Users\Febe\Downloads' in file browser
+
+INFO 2019-06-08 12:40:41,419 [1]
+Notification Added: It looks like you haven't set up your screens correctly. Would you like FreeWorship to do it for you?
+
+DEBUG2019-06-08 12:40:56,900 [1]
+Changed selected service item
+Cleaned old item after 0ms
+New item is of type FreeWorship.ServiceList.SongServiceItem
+Generated new VM after 46ms
+Set new VM after 46ms
+Set background settings after 147ms
+Finished changing item after 147ms
+
+DEBUG2019-06-08 12:40:57,118 [10]
+Text creation 10 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 12:40:57,119 [11]
+Text creation 10 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 12:40:57,121 [16]
+Text creation 179 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 12:40:57,121 [5]
+Text creation 179 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 12:47:47,497 [1]
+Changed selected service item
+Cleaned old item after 3ms
+New item is of type FreeWorship.ServiceList.SongServiceItem
+Generated new VM after 3ms
+Set new VM after 3ms
+Set background settings after 3ms
+Finished changing item after 3ms
+
+DEBUG2019-06-08 12:47:47,521 [9]
+Text creation 26 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 12:47:47,521 [20]
+Text creation 26 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 12:47:47,526 [21]
+Text creation 164 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 12:47:47,526 [19]
+Text creation 164 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 12:53:32,042 [27]
+Text creation 25 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 12:53:32,047 [1]
+Changed selected service item
+Cleaned old item after 0ms
+New item is of type FreeWorship.ServiceList.SongServiceItem
+Generated new VM after 0ms
+Set new VM after 0ms
+Set background settings after 0ms
+Finished changing item after 0ms
+
+DEBUG2019-06-08 12:53:32,142 [25]
+Text creation 166 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 12:53:32,147 [28]
+Text creation 25 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 12:53:32,147 [26]
+Text creation 166 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 12:56:21,589 [1]
+Changed selected service item
+Cleaned old item after 0ms
+New item is of type FreeWorship.ServiceList.SongServiceItem
+Generated new VM after 0ms
+Set new VM after 0ms
+Set background settings after 0ms
+Finished changing item after 0ms
+
+DEBUG2019-06-08 12:56:21,594 [26]
+Text creation 19 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 12:56:21,594 [32]
+Text creation 19 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 12:56:21,634 [31]
+Text creation 232 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 12:56:21,669 [27]
+Text creation 232 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 12:57:33,801 [1]
+Changed selected service item
+Cleaned old item after 0ms
+New item is of type FreeWorship.ServiceList.SongServiceItem
+Generated new VM after 0ms
+Set new VM after 0ms
+Set background settings after 0ms
+Finished changing item after 0ms
+
+DEBUG2019-06-08 12:57:33,811 [30]
+Text creation 16 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 12:57:33,816 [28]
+Text creation 85 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 12:57:33,816 [23]
+Text creation 16 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 12:57:33,816 [29]
+Text creation 85 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:01:01,517 [1]
+Changed selected service item
+Cleaned old item after 0ms
+New item is of type FreeWorship.ServiceList.SongServiceItem
+Generated new VM after 0ms
+Set new VM after 0ms
+Set background settings after 0ms
+Finished changing item after 0ms
+
+DEBUG2019-06-08 13:01:01,532 [31]
+Text creation 16 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:01:01,537 [22]
+Text creation 125 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:01:01,537 [27]
+Text creation 16 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:01:01,537 [24]
+Text creation 125 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:05:03,172 [1]
+Changed selected service item
+Cleaned old item after 0ms
+New item is of type FreeWorship.ServiceList.SongServiceItem
+Generated new VM after 0ms
+Set new VM after 0ms
+Set background settings after 0ms
+Finished changing item after 0ms
+
+DEBUG2019-06-08 13:05:03,192 [26]
+Text creation 21 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:05:03,202 [22]
+Text creation 127 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:05:03,202 [9]
+Text creation 127 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:05:03,202 [27]
+Text creation 21 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:09:29,997 [1]
+Changed selected service item
+Cleaned old item after 0ms
+New item is of type FreeWorship.ServiceList.SongServiceItem
+Generated new VM after 0ms
+Set new VM after 0ms
+Set background settings after 0ms
+Finished changing item after 0ms
+
+DEBUG2019-06-08 13:09:30,012 [23]
+Text creation 18 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:09:30,012 [24]
+Text creation 116 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:09:30,017 [26]
+Text creation 18 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:09:30,017 [9]
+Text creation 116 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:09:44,353 [20]
+Text creation 116 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:09:44,353 [27]
+Text creation 116 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:09:52,666 [9]
+Text creation 120 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:09:52,666 [23]
+Text creation 120 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:10:27,425 [23]
+Text creation 116 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:10:27,425 [20]
+Text creation 116 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:10:45,526 [20]
+Text creation 116 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:10:45,531 [7]
+Text creation 116 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:11:00,269 [23]
+Text creation 108 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:11:00,274 [7]
+Text creation 108 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:16:54,650 [1]
+Changed selected service item
+Cleaned old item after 0ms
+New item is of type FreeWorship.ServiceList.SongServiceItem
+Generated new VM after 0ms
+Set new VM after 0ms
+Set background settings after 0ms
+Finished changing item after 0ms
+
+DEBUG2019-06-08 13:16:54,695 [16]
+Text creation 17 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:16:54,695 [10]
+Text creation 17 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:16:54,740 [5]
+Text creation 239 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:16:54,745 [17]
+Text creation 239 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:22:30,441 [1]
+Changed selected service item
+Cleaned old item after 0ms
+New item is of type FreeWorship.ServiceList.SongServiceItem
+Generated new VM after 0ms
+Set new VM after 0ms
+Set background settings after 0ms
+Finished changing item after 0ms
+
+DEBUG2019-06-08 13:22:30,451 [11]
+Text creation 25 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:22:30,451 [7]
+Text creation 25 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:22:30,451 [22]
+Text creation 57 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:22:30,451 [23]
+Text creation 57 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:22:44,194 [23]
+Text creation 213 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:22:44,194 [21]
+Text creation 213 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:29:19,393 [23]
+Text creation 10 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:29:19,393 [1]
+Changed selected service item
+Cleaned old item after 0ms
+New item is of type FreeWorship.ServiceList.SongServiceItem
+Generated new VM after 0ms
+Set new VM after 0ms
+Set background settings after 0ms
+Finished changing item after 0ms
+
+DEBUG2019-06-08 13:29:19,413 [22]
+Text creation 10 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:29:19,413 [16]
+Text creation 93 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:29:19,413 [20]
+Text creation 93 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:29:32,762 [22]
+Text creation 67 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:29:32,767 [20]
+Text creation 67 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:29:41,374 [20]
+Text creation 96 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:29:41,374 [19]
+Text creation 96 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:29:56,978 [1]
+Changed selected service item
+Cleaned old item after 0ms
+New item is of type FreeWorship.ServiceList.SongServiceItem
+Generated new VM after 0ms
+Set new VM after 0ms
+Set background settings after 0ms
+Finished changing item after 0ms
+
+DEBUG2019-06-08 13:30:00,402 [1]
+Changed selected service item
+Cleaned old item after 0ms
+New item is of type FreeWorship.ServiceList.SongServiceItem
+Generated new VM after 0ms
+Set new VM after 0ms
+Set background settings after 0ms
+Finished changing item after 0ms
+
+DEBUG2019-06-08 13:30:06,034 [1]
+Changed selected service item
+Cleaned old item after 0ms
+New item is of type FreeWorship.ServiceList.SongServiceItem
+Generated new VM after 0ms
+Set new VM after 0ms
+Set background settings after 0ms
+Finished changing item after 0ms
+
+DEBUG2019-06-08 13:30:09,519 [1]
+Changed selected service item
+Cleaned old item after 0ms
+New item is of type FreeWorship.ServiceList.SongServiceItem
+Generated new VM after 0ms
+Set new VM after 0ms
+Set background settings after 0ms
+Finished changing item after 0ms
+
+DEBUG2019-06-08 13:38:10,742 [24]
+Text creation 20 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:38:10,747 [1]
+Changed selected service item
+Cleaned old item after 0ms
+New item is of type FreeWorship.ServiceList.SongServiceItem
+Generated new VM after 0ms
+Set new VM after 0ms
+Set background settings after 0ms
+Finished changing item after 0ms
+
+DEBUG2019-06-08 13:38:10,757 [22]
+Text creation 20 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:38:10,787 [5]
+Text creation 198 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:38:10,792 [14]
+Text creation 198 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:38:15,320 [22]
+Text creation 195 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:38:15,325 [24]
+Text creation 195 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:38:19,041 [5]
+Text creation 156 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-06-08 13:38:19,041 [14]
+Text creation 156 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+

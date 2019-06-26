@@ -1,0 +1,65 @@
+INFO 2019-06-13 21:30:25,001 [1]
++++++++++++++++++++++++++++++++++++++
+FreeWorship Version: 3.4.2 x64
+Windows OS Version:10 Home Single Language 64-bit
+Sys Mem:3969MB
+
+DEBUG2019-06-13 21:30:25,298 [1]
+Starting new Icon generation thread ThumbGen4086
+
+INFO 2019-06-13 21:30:37,091 [1]
+Created Win8.1/Win10 spell checker
+
+INFO 2019-06-13 21:30:49,278 [1]
+Succesfully started PowerPoint 2016
+
+DEBUG2019-06-13 21:30:51,254 [1]
+Presentation window's handle is 66702
+
+ERROR2019-06-13 21:30:54,358 [1]
+System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\Users\Febe\Downloads\FreeWorshipPortable_3.4.2.171\settings.xml' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   en System.IO.FileStream..ctor(String path, FileMode mode)
+   en FreeWorship.DataStructures.Settings.ApplicationSettings.fileIsFW3Settings(String path)
+   en FreeWorship.DataStructures.Settings.ApplicationSettings.Load(String path)
+   en FreeWorship.Model.Model.LoadSettings()
+   en FreeWorship.FreeWorshipApp.OnStartup(StartupEventArgs e)
+
+INFO 2019-06-13 21:31:16,911 [1]
+Error handling is closing FreeWorship
+
+INFO 2019-06-13 21:31:17,938 [1]
+Songs Database loaded with 569 items
+
+INFO 2019-06-13 21:31:18,522 [1]
+Bibles Database loaded with 3 items
+
+INFO 2019-06-13 21:31:18,522 [1]
+Slides Database loaded with 0 items
+
+DEBUG2019-06-13 21:31:18,919 [1]
+Closing 0 open presentations
+
+DEBUG2019-06-13 21:31:18,919 [1]
+Finished closing all open presentations
+
+INFO 2019-06-13 21:31:18,963 [1]
+Closing PowerPoint
+
+INFO 2019-06-13 21:31:19,414 [1]
+FreeWorship closed
+-------------------------------------
+
+ERROR2019-06-13 21:31:20,447 [1]
+System.DllNotFoundException: Unable to load DLL 'libcef': No se puede encontrar el módulo especificado. (Exception from HRESULT: 0x8007007E)
+   at Xilium.CefGlue.Interop.cef_cookie_manager_t.get_global_manager(cef_completion_callback_t* callback)
+   at FreeWorship.Libraries.CefGlueManager.Shutdown()
+   at FreeWorship.FreeWorshipApp.Main(String[] args)
+
+INFO 2019-06-13 21:31:29,525 [1]
+Error handling is closing FreeWorship
+
+Reported - 2019-06-13 22:05:54Z
+

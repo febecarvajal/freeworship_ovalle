@@ -1,0 +1,593 @@
+From 3.5.0.180 to 3.5.0.181
+Enhancements
+- Moved custom bible options out of 'Extra' menu
+- Improved error reporting and telemetry
+
+---------------------------------------------------------------------------------
+
+From 3.5.0.179 to 3.5.0.180
+New Features
+- Added diagnostics tab for viewing license information
+
+---------------------------------------------------------------------------------
+
+From 3.4.3.178 to 3.5.0.179
+New Features
+- (Pro) Display Google Slides presentations within FreeWorship including sub-slides
+- New automatic error reporting system with customisable preferences
+
+Enhancements
+- Improved usability of timers
+- Added extra logging PowerPoint loading code 
+- Added extra logging for failed imports of Zephaniah bibles
+
+Bug Fixes
+- Fixed bug that occurred when checking for updates with an invalid activation key
+- Fixed bug where purchased bibles didn't appear as the default in certain scenarios
+- Fixed bug preventing certain purchased bibles from being set as default
+- Fixed bug that required multiple restarts of FW after purchasing a new plugin
+
+---------------------------------------------------------------------------------
+
+From 3.4.2.172 to 3.4.3.178
+Bug Fixes
+- Fixed bug where ordering of songs wasn't persisted after a rename
+- Fixed bug that caused Check for Updates operation to freeze application
+- Fixed bug where purchased bibles didn't work if you ignored FW updates
+- Fixed bug where alert basher wouldn't show alert when alerts were hidden
+- Fixed bug where Bible couldn't be selected from the Extras menu
+
+Enhancements
+- Added ability to start a song import by double clicking the song in the importer
+- Added ability to commit Service List changes by clicking in the empty space
+- Added progress messages while connecting to PayPal during bible purchase
+
+---------------------------------------------------------------------------------
+
+From 3.4.2.169 to 3.4.2.172
+Bug Fixes
+- Updated FW to work with CCLI's new reporting web page
+
+---------------------------------------------------------------------------------
+
+From 3.4.2.168 to 3.4.2.169
+Enhancements
+- Updated FW song downloader to be compatible with new SongSelect website
+
+---------------------------------------------------------------------------------
+
+From 3.4.2.164 to 3.4.2.168
+Bug Fixes
+- Fixed bug that caused song importer to freeze in certain circumstances
+
+---------------------------------------------------------------------------------
+
+From 3.4.1.162 to 3.4.2.164
+Bug Fixes
+- Fixed bug the caused song editor to crash on certin computers
+- Fixed bug where import window couldn't be opened withou crashing FW
+
+---------------------------------------------------------------------------------
+
+From 3.4.0.157 to 3.4.1.162
+Bug Fixes
+- Fixed bug that prevented purchased NIVs from being displayed in the database manager
+- Fixed bug where refreshing database prevented purchased bibles from being displayed
+
+---------------------------------------------------------------------------------
+
+From 3.3.3.154 to 3.4.0.157
+New Features
+- You can now purchase bibles form within FreeWorship
+
+Enhancements
+- Improved layout of the bible database manager
+
+---------------------------------------------------------------------------------
+
+From 3.3.0.148 to 3.3.3.154
+Enhancements
+- Improved bible loading code to prevent errors when reading ain invalid bible file
+
+Bug Fixes
+- Fixed bug that caused songs and bible passages to load slowly
+
+---------------------------------------------------------------------------------
+
+From 3.2.9.147 to 3.3.0.148
+Enhancements
+- Pro: Added a Google Slides demo feature
+
+Bug Fixes
+
+---------------------------------------------------------------------------------
+
+From 3.2.8.146 to 3.2.9.147
+Enhancements
+- Improve performance of web browser
+- Add feature to allow FW to configure your displays if necessary
+- Add preference to control whether FW shows the presentation screen on startup
+
+Bug Fixes
+
+---------------------------------------------------------------------------------
+
+From 3.2.7.145 to 3.2.8.146
+Enhancements
+- Improve font loading procedure
+
+Bug Fixes
+- Fix bug where songs took several minutes to load
+- Fix bug where exported service lists couldnt be open if they contained multiple copies of the same image
+- fix bug where songs took several minutes to load
+
+---------------------------------------------------------------------------------
+
+From 3.2.6.144 to 3.2.7.145
+Enhancements
+- Display items in the file browser faster
+
+Bug Fixes
+- Fix multiple errors with loading shortcuts in the file browser
+- Fix issues with deleting temporary files
+- Fix issue with renaming items
+- Fix multiple issues with loading thumbnails for items
+- Fix multiple issues with copying and pasting files
+- Fix issue with renaming slide sets
+- Fix issue with handling corrupted settings files
+- Fix issue with closing PPT
+- Fix issue with loading images
+- Fix issue with deleting videos from file browser
+- Fix issues with spaces in file browser path
+- Fix issue with song verse parts that begin with punctuation
+- Fix multiple issues with closing videos
+
+---------------------------------------------------------------------------------
+
+From 3.2.3.140 to 3.2.6.144
+Enhancements
+- Improve thumbnail load speed
+- Add diagnostic logging to the thumbnail load process
+
+Bug Fixes
+- Fix bug that caused FW to freeze when a thumbnail couldn't be loaded
+- Fix bug that deleted the first line of CCLI songs during the import process
+
+---------------------------------------------------------------------------------
+
+From 3.2.2.139 to 3.2.3.140
+Enhancements
+- Improve SongSelect feedback after song is downloaded
+- Update secure connections to FreeWorship servers to use TLS over SSL
+- Improve logging of some issues that occasionally occur
+- Add checkbox to remove all settings to uninstaller
+
+Bug Fixes
+- Fix issue with diagnostics table being editable
+- Fix issue with requiring DirectX 9
+
+---------------------------------------------------------------------------------
+
+From 3.1.8.136 to 3.2.0.137
+New Features
+- Pro: New paid additions to FreeWorship see our website for more details
+- Bible Search: (Pro only) Search bibles using keywords
+- Webpages: (Pro only) New service item to project webpages directly
+- SongSelect: (Pro only) Download song directly from CCLI SongSelect
+- CCL Report: (Pro only) Report the songs in your service list directly to CCLI
+- Child Lock: (Pro only) Hide settings from the interface so they can't be changed by accident
+- Video tweaking: (Pro only) Change the brightness and contrast of videos dynamically
+- Twitter: (Pro only) Search twitter and display them as alerts with tweet moderation
+- Drag & Drop: (Pro only) Drag and drop files onto the service list to add automatically add them
+
+Enhancements
+- Add MediaShout song importer
+- Show folder shortcuts in the browser
+- Add keyboard shortcuts to service list
+- Allow the display to be full screen over the control window so a single display setup can be used
+- Improve styling consistency
+
+Bug Fixes
+- Fix issue with OpenSong importer not adding any verses
+- Fix issue with Bible references causing error when book name doesn't match
+- Fix issue with searching songs for special character for example '\'
+- Fix issue with files updating in the file browser
+
+---------------------------------------------------------------------------------
+
+From 3.1.7.135 to 3.1.8.136
+Bug Fixes
+- Fixed issue with changing margins not updating text wrapping
+- Fixed issue with translations of tags in lyrics editor
+- Fixed issue to allow importing Junior Praise songs as Mission Praise songs
+- Fixed issue reading verse names without numbers in SongSelect import 
+- Fixed issue with clicking notifications causing minimise/maximise
+- Fixed issue with closing presentation window when PPT is being displayed and presentation window has focus
+- Fixed issue with scrollbar causing item to go live in single click mode
+- Fixed issue with single click mode and powerpoints
+
+---------------------------------------------------------------------------------
+
+From 3.1.6.134 to 3.1.7.135
+Bug Fixes
+- Fixed bug that caused FW to freeze when typing any of the following characters into a song "<", ">", "'", """, "&"
+
+---------------------------------------------------------------------------------
+
+From 3.1.5.133 to 3.1.6.134
+Bug Fixes
+- Fixed error that occured at startup if logged in but nothing purchased
+- Fixed issue with Bible verses text not updating when Bible is changed
+- Fixed bug that stopped PowerPoints being loaded from within the database sub-folders
+- Fixed VLC issue with YouTube videos which forced an advert to play not loading
+- Fixed bug where the working directory was changed stopping service lists to be opened from explorer
+
+---------------------------------------------------------------------------------
+
+From 3.1.4.132 to 3.1.5.133
+Bug Fixes
+- Fixed bug where downloaded Bibles are security locked and could not be loaded
+- Fixed bug where background of first slide in a slide set is always set to the default
+- Fixed issue with slide sets default time not saving to settings causing a 0s default
+- Fixed issue where notification automatically closed when user was still typing a message
+- Fixed issue where slide times aren't loaded correctly when service item is not selected
+- Fixed issue with looping slide sets not progressing if the selected item is the same as the live item
+
+---------------------------------------------------------------------------------
+
+From 3.1.3.131 to 3.1.4.132
+Bug Fixes
+- Fixed bug where displaying bible verses caused a crash if there was no bible caption
+
+---------------------------------------------------------------------------------
+
+From 3.1.3.130 to 3.1.3.131
+Bug Fixes
+- Fix issue with DPI scaling on Windows 10 causing monitor resolutions to be calculated wrong
+- Fix issue with label colour not changing with skin consistently
+
+---------------------------------------------------------------------------------
+
+From 3.1.0.128 to 3.1.2.130
+Bug Fixes
+- Fix issue with loading purchased bibles
+
+---------------------------------------------------------------------------------
+
+From 3.0.22.127 to 3.1.0.128
+New Features
+- Export service lists to self contained fwsx file
+- Add alert manager to create multiple alerts
+- Add preference to permanatly show time on screen (toggled by Ctrl+5)
+- Add new songs to default database
+- Allow import of purchased bibles
+
+Enhancements
+- Improve word wrapping so that a single word doesn't end on its own line
+- Style sliders to match the rest of the interface
+- Automatically set the screen to extend mode if not already
+- Update interface when PPT automatically changes slide
+- Improve checking of when items don't exist
+- Update file browser when changes are made
+- Add preference to change the default time slides are shown
+- Change the new service item list to allow for more service item types
+- Style message boxes to match other windows
+- Improve speed of loading font drop down
+- Improve managing multiple items in database simultaneously
+- Add chorus in italics option for songs
+- Improve speed of loading bibles
+
+Bug Fixes
+- Fixed bug occuring when deleting video items
+- Fixed issue when PPT fails to load
+- Fixed issue saving some Bible items
+- Fix dynamic reloading of songs
+- Fix issue with alert scaling based on resolution
+- Fix issues with saving and loading special characters in songs
+- Wrap song tag editor tags correctly
+- Fix issue clearing a search in the database manager
+
+---------------------------------------------------------------------------------
+
+From 3.0.21.126 to 3.0.22.127
+Bug Fixes
+- Fixed issue with background images and videos not being selected
+
+---------------------------------------------------------------------------------
+
+From 3.0.20.125 to 3.0.21.126
+Bug Fixes
+- Fixed issue with PowerPoint failing to respond
+
+---------------------------------------------------------------------------------
+
+From 3.0.19.124 to 3.0.20.125
+New Features
+
+Enhancements
+- Improved getting started guide
+
+Bug Fixes
+- Fixed bug that caused PowerPoint 2007 not to load multiple PowerPoints correctly
+- Fixed issue with remote clicker PgUp/PgDn when there is no live item
+- Fixed bug with progressing through blank PowerPoint items
+- Fixed issue with attempting to create text when font does not exist
+- Improved handling of PowerPoint communication failures
+- Fixed issue with renaming Slide Sets when directory already exists in the database
+- Fixed issue with typing spaces whilst selecting a Bible verse
+
+---------------------------------------------------------------------------------
+
+From 3.0.18.123 to 3.0.19.124
+New Features
+
+Enhancements
+
+Bug Fixes
+- Fixed bug that caused VLC videos not to loop
+- Fixed bug that caused FW to crash sometimes when importing a bible or a song
+- Fixed bug with logging in from the Help menu in the toolbar
+- Fixed bug with changing from video file to YouTube video
+- Fixed bug loading video thumbnails causing crash
+- Fixed bug closing PowerPoint when FW closes
+- Fixed bug stopping bible service items being copied
+- Fixed bug stopping items with video stream background being copied
+- Fixed bug selecting new database path from database manager
+- Fixed bug deleting slide set from database manager
+- Fixed bug when using clicker with an empty service list
+
+---------------------------------------------------------------------------------
+
+From 3.0.17.122 to 3.0.18.123
+New Features
+
+Enhancements
+
+Bug Fixes
+- Fixed bug that caused FW crash when saving service list to the same folder as a video
+
+---------------------------------------------------------------------------------
+
+From 3.0.16.121 to 3.0.17.122
+New Features
+
+Enhancements
+
+Bug Fixes
+- Fixed bug that caused FW crash when saving certain videos to service lsits
+
+---------------------------------------------------------------------------------
+
+From 3.0.15.120 to 3.0.16.121
+New Features
+
+Enhancements
+
+Bug Fixes
+- Fixed bug that prevented FW from finding updates
+
+---------------------------------------------------------------------------------
+
+From 3.0.14.119 to 3.0.15.120
+New Features
+
+Enhancements
+- Improved video performance by reducing the number of times a video is duplicated
+
+Bug Fixes
+- Fixed bug where video logos were loaded more times than necessary
+
+---------------------------------------------------------------------------------
+
+From 3.0.13.118 to 3.0.14.119
+New Features
+
+Enhancements
+- Updated CCLI Licence to CCL Licence as per licence terms (http://churches.uk.ccli.com/licences/ccl/)
+- Added F5 shortcut to reload the database
+- Improve the selection of multiple Bible verses in the central panel
+
+Bug Fixes
+- Fixed issue with overlapping checkboxes on general preferences page
+- Fixed issue with song service item not updating until a new one added when reloading the database
+- Fixed issue with Add Images button in slides causing an error and doing nothing
+- Fixed issue with Slides backgrounds showing black bars above and below them
+- Fixed issue with Background & Transition expander headers not showing when FW is started maximised
+
+---------------------------------------------------------------------------------
+
+From 3.0.12.117 to 3.0.13.118
+New Features
+
+Enhancements
+
+Bug Fixes
+- Fixed bug where bible styling was reset when preferences were saved
+
+---------------------------------------------------------------------------------
+
+From 3.0.11.116 to 3.0.12.117
+New Features
+- Error reporting and feedback window
+
+Enhancements
+- Added Enter and Backspace keyboard shortcuts to the file browser
+- Added a textbox to the error notification popup so you can give further information where apropriate
+- Improved the file browser so it remembers the last folder you were in
+
+Bug Fixes
+- Fized bug where you could select blank bible verses
+- Fixed bug that disables internet videos
+- Fixed bug where the preview window was chopped off on small screens
+
+---------------------------------------------------------------------------------
+
+From 3.0.10.115 to 3.0.11.116
+New Features
+- Automatic error reporting
+
+Enhancements
+- Added shortcut key so you can hit "Esc" to exit the basher
+- Simplified the song importer
+
+Bug Fixes
+- Fixed bug where FW would crash if it couldn't find a bible verse
+- Fixed bug that caused FW to crash when switching from videos to images
+
+---------------------------------------------------------------------------------
+
+From 3.0.9.114 to 3.0.10.115
+New Features
+
+Enhancements
+
+Bug Fixes
+- Fixed bug where background videos restarted on every verse
+- Fixed bug where FW would crash unrecoverably when browsing large folders
+
+---------------------------------------------------------------------------------
+
+From 3.0.8.113 to 3.0.9.114
+New Features
+
+Enhancements
+- Improved video performance for users who have video previews disabled
+
+Bug Fixes
+- Fixed bug where the default logo couldn't be changed
+
+---------------------------------------------------------------------------------
+
+From 3.0.7.112 to 3.0.8.113
+New Features
+
+Enhancements
+- Click video thumbnails to set the start and end time to the current time
+
+Bug Fixes
+- Fixed bug with background images not showing when loaded from the database
+
+---------------------------------------------------------------------------------
+
+From 3.0.6.111 to 3.0.7.112
+New Features
+
+Enhancements
+- Added additional textbox for custom song licence in Preferences
+- Added more information to the display selection dropdown
+- Improved video thumbnail generation performance
+
+Bug Fixes
+- Fix bug with opening 'Getting Started Guide' where path was occasionally incorrect
+
+---------------------------------------------------------------------------------
+
+From 3.0.5.110 to 3.0.6.111
+New Features
+
+Enhancements
+- Updated "Getting Started" guide for FreeWorship 3
+- Improved performance of preview videos so they aren't constantly reloaded when using the file browser
+
+Bug Fixes
+- Fixed bug where FreeWorship would close PowerPoint presentations open outside of FreeWorship
+- Fixed bug where copy-pasting a service list item didn't work
+- Fixed bug where text would sometimes wrap differently on the preview screen vs the presentation screen
+- Fixed bug where items containing internet videos wouldn't load
+- Fixed bug where a corrupted settings file disabled background videos and images
+- Fixed bug where a single missing video would prevent the entire service list from being opened
+- Fixed bug where you couldn't open service lists with bible passages if there were no bibles in the database
+- Fixed bug where migrating settings from FW2 to FW3 stops images from working
+- Fixed bug where pasting directories into a file browser caused an Exception
+- Fixed bug where files couldn't be cut from the file browser
+- Fixed bug where pasting files into an empty directory would not then show in that directory
+- Fixed bug where videos wouldn't restart if they were already playing
+
+---------------------------------------------------------------------------------
+
+From 3.0.4.109 to 3.0.5.110
+New Features
+
+Enhancements
+- Made icons load faster in the file browser
+
+Bug Fixes
+- Fixed exception that occurred when trying to delete a Song or Bible from the Database Manager
+- Fixed bug where changing window while style drop downs are open caused them not to be usable
+- Fixed bug where song search results remain visible if another window is selected
+
+---------------------------------------------------------------------------------
+
+From 3.0.3.108 to 3.0.4.109
+New Features
+
+Enhancements
+
+Bug Fixes
+- Fixed bug where PgUp and PgDn shortcuts would scroll through the service list
+- Fixed bug where Ctrl+Down shortcut didn't work when the service list was selected
+- Fixed bug where PgUp shortcut didn't work on PowerPoint slides with multiple animations
+- Fixed bug where old videos stayed loaded and continued to play in the background
+- Fixed bug where setting non full screen size for the stage display would still appear full screen
+- Fixed bug where closing the stage display wasn't reflected in the button on the main control panel
+- Fixed bug where clicking on the title bar caused the window to be resized
+- Fixed exception that occurred when trying to delete or rename Slide Sets
+- Fixed exception that occurred when trying to delete a Song or Bible from the Database Manager
+
+---------------------------------------------------------------------------------
+
+From 3.0.2.107 to 3.0.3.108
+New Features
+- Added Portuguese translation thanks to Lucas Mendes
+
+Enhancements
+
+Bug Fixes
+- Fixed "System.ArgumentException" bug experienced when starting FW on Vista
+- Fixed exception caused by using the OpenSong Song Importer
+- Fixed bug where some computers couldn't open the Facebook, Twitter and YouTube
+- Fixed bug where mp4 background videos only played once and didn't loop
+- Fixed issue with copying service items from right click menu
+- Fixed bug where videos weren't shown on the stage display
+- Fixed bug where video loop button cannot but unselected
+
+---------------------------------------------------------------------------------
+
+From 3.0.1.106 to 3.0.2.107
+New Features
+- Added a Slide Set database page
+- Added an option to rename Slide Sets by right clicking the item in the service list
+- Added a button to the bible manager tab to set a default bible
+
+Enhancements
+- Tweaked the look of scroll bars, checkboxes and other items to better fit with the new design
+- Added thumbnail support for .mp4, .flv, and .mov videos
+
+Bug Fixes
+- Fixed bug which prevented people from opening FW2 service lists
+- Fixed the temperamental PgUp and PgDn keyboard shortcuts
+- Fixed a bug where on certain computers the Getting Started guide couldn't be displayed
+- Fixed the video play/pause button to stop it sticking on play
+
+---------------------------------------------------------------------------------
+
+From 3.0.0.105 to 3.0.1.106
+Enhancements
+- A message is now displayed when FW can't find PowerPoint on your computer
+- Enabled Stage Display screen margins in preferences
+- We added some pretty skins
+
+Bug Fixes
+- Fixed bug causing corruption of service lists containing PowerPoint presentations
+- Fixed bug where the countdown timer counted backwards if you went past midnight
+- Fixed bug in the file browser that occasionally prevented FW from loading folder icons
+- Fixed bug with update checker and an unrecognised saved login
+
+---------------------------------------------------------------------------------
+
+Initial Release FreeWorship 3.0.0
+- The new Background Selector makes it much easier to change backgrounds on the fly
+- Videos just work now. No more faffing around with different video players. Just click play and FW3 dos the hard work for you
+- SlideSets allow you to create simple presentations from right within FreeWorship, no PowerPoint required
+- The Database Manager gives you a view of you entire song library for easy administration
+- For more info check out http://www.freeworship.org.uk/features

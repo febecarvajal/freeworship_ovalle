@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SlideSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Slides>
+    <Slide>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+      <Style xsi:type="SlideStyle">
+        <Margins>
+          <Left>10</Left>
+          <Top>10</Top>
+          <Right>10</Right>
+          <Bottom>10</Bottom>
+        </Margins>
+        <Font>
+          <FontFamily>Century Gothic</FontFamily>
+          <Bold>false</Bold>
+          <Italic>false</Italic>
+          <FontSize>43</FontSize>
+          <FontAlignment>Center</FontAlignment>
+          <FontColour>
+            <A>255</A>
+            <R>255</R>
+            <G>255</G>
+            <B>255</B>
+          </FontColour>
+          <VerticalAlignment>Center</VerticalAlignment>
+          <Outline>
+            <Enabled>true</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>255</R>
+              <G>255</G>
+              <B>255</B>
+            </Colour>
+            <Size>3</Size>
+          </Outline>
+          <Shadow>
+            <Enabled>true</Enabled>
+            <Colour>
+              <A>255</A>
+              <R>0</R>
+              <G>0</G>
+              <B>0</B>
+            </Colour>
+            <Size>3</Size>
+            <Blur>5</Blur>
+            <Direction>-35</Direction>
+          </Shadow>
+        </Font>
+        <AutoSize>true</AutoSize>
+        <Wrap>true</Wrap>
+      </Style>
+      <Text>REUNIÓN DE MINISTERIO</Text>
+      <TimeTicks>120000000</TimeTicks>
+    </Slide>
+  </Slides>
+</SlideSet>

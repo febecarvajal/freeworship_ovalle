@@ -1,0 +1,240 @@
+INFO 2019-05-10 19:52:05,270 [1]
++++++++++++++++++++++++++++++++++++++
+FreeWorship Version: 3.4.2 x64
+Windows OS Version:10 Home Single Language 64-bit
+Sys Mem:3969MB
+
+DEBUG2019-05-10 19:52:05,301 [1]
+Starting new Icon generation thread ThumbGen912
+
+INFO 2019-05-10 19:52:05,924 [1]
+Created Win8.1/Win10 spell checker
+
+INFO 2019-05-10 19:52:17,510 [1]
+Succesfully started PowerPoint 2016
+
+DEBUG2019-05-10 19:52:18,780 [1]
+Presentation window's handle is 67126
+
+INFO 2019-05-10 19:52:26,109 [1]
+Loaded Chrome Embedded Framework
+
+INFO 2019-05-10 19:52:39,977 [1]
+Initialised Chrome Embedded Framework
+
+INFO 2019-05-10 19:52:40,687 [1]
+Failed to load the following font: No se puede convertir FontFamilyConverter desde System.String.
+
+INFO 2019-05-10 19:52:43,615 [1]
+Failed to load the following font:HelveticaNeueLT Std 
+
+INFO 2019-05-10 19:52:43,615 [1]
+Failed to load the following font:HelveticaNeueLT Std Blk 
+
+INFO 2019-05-10 19:52:43,615 [1]
+Failed to load the following font:HelveticaNeueLT Std Cn 
+
+INFO 2019-05-10 19:52:43,615 [1]
+Failed to load the following font:HelveticaNeueLT Std Lt 
+
+INFO 2019-05-10 19:52:44,946 [1]
+Loaded 177 fonts successfully and failed to load the following fonts:
+
+INFO 2019-05-10 19:52:45,034 [1]
+No errors to report
+
+INFO 2019-05-10 19:52:52,329 [1]
+Songs Database loaded with 208 items
+
+INFO 2019-05-10 19:52:53,300 [1]
+Bibles Database loaded with 3 items
+
+INFO 2019-05-10 19:52:53,301 [1]
+Slides Database loaded with 0 items
+
+INFO 2019-05-10 19:53:03,720 [1]
+Checked for updates in 2707 ms
+
+INFO 2019-05-10 19:53:03,720 [1]
+Result was NewUpdate
+
+DEBUG2019-05-10 19:53:36,943 [1]
+Opening folder '' in file browser
+
+DEBUG2019-05-10 19:53:36,945 [1]
+Opening folder '' in file browser
+
+DEBUG2019-05-10 19:53:36,947 [1]
+Opening folder 'C:\Users\Febe\Downloads' in file browser
+
+INFO 2019-05-10 19:53:37,608 [1]
+Notification Added: It looks like you haven't set up your screens correctly. Would you like FreeWorship to do it for you?
+
+DEBUG2019-05-10 19:54:22,153 [1]
+Changed selected service item
+Cleaned old item after 0ms
+New item is of type FreeWorship.ServiceList.BibleServiceItem
+Generated new VM after 35ms
+Set new VM after 36ms
+Set background settings after 42ms
+Finished changing item after 42ms
+
+DEBUG2019-05-10 19:54:22,173 [10]
+Text creation 149 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-05-10 19:54:22,173 [9]
+Text creation 149 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-05-10 19:54:35,068 [1]
+Opening folder '' in file browser
+
+DEBUG2019-05-10 19:54:35,068 [1]
+Opening folder '' in file browser
+
+DEBUG2019-05-10 19:54:35,068 [1]
+Opening folder '...\Bibles' in file browser
+
+INFO 2019-05-10 19:54:37,912 [1]
+Bibles Database loaded with 3 items
+
+INFO 2019-05-10 19:54:38,096 [1]
+Songs Database loaded with 208 items
+
+INFO 2019-05-10 19:54:38,096 [1]
+Bibles Database loaded with 4 items
+
+INFO 2019-05-10 19:54:38,096 [1]
+Slides Database loaded with 0 items
+
+INFO 2019-05-10 19:54:38,101 [1]
+Databases re-indexed
+
+WARN 2019-05-10 19:54:51,750 [1]
+Bible verse has been copied across when they do not match
+
+DEBUG2019-05-10 19:54:51,857 [9]
+Text creation 143 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-05-10 19:54:51,857 [24]
+Text creation 143 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-05-10 19:55:19,883 [24]
+Text creation 23 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-05-10 19:55:19,883 [10]
+Text creation 23 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-05-10 19:55:19,994 [10]
+Text creation 176 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-05-10 19:55:19,999 [6]
+Text creation 23 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-05-10 19:55:19,999 [9]
+Text creation 23 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-05-10 19:55:19,999 [24]
+Text creation 176 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-05-10 19:55:52,807 [25]
+Text creation 151 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-05-10 19:55:52,812 [27]
+Text creation 23 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-05-10 19:55:52,815 [26]
+Text creation 23 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2019-05-10 19:55:52,815 [20]
+Text creation 151 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+WARN 2019-05-10 20:23:46,558 [1]
+Bible verse has been copied across when they do not match
+
+INFO 2019-05-10 23:35:14,321 [1]
+Settings written to disk
+
+INFO 2019-05-10 23:35:14,346 [1]
+View closed
+
+DEBUG2019-05-10 23:35:18,075 [1]
+Closing 0 open presentations
+
+DEBUG2019-05-10 23:35:18,075 [1]
+Finished closing all open presentations
+
+INFO 2019-05-10 23:35:18,419 [1]
+Closing PowerPoint
+
+INFO 2019-05-10 23:35:21,933 [1]
+FreeWorship closed
+-------------------------------------
+
+ERROR2019-05-10 23:35:31,078 [26]
+System.Threading.Tasks.TaskCanceledException: Se canceló una tarea.
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   en System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   en System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   en System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   en System.IO.FileSystemWatcher.OnChanged(FileSystemEventArgs e)
+   en System.IO.FileSystemWatcher.CompletionStatusChanged(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* overlappedPointer)
+   en System.Threading._IOCompletionCallback.PerformIOCompletionCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* pOVERLAP)
+

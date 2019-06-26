@@ -1,0 +1,505 @@
+INFO 2018-10-12 14:23:04,883 [1]
++++++++++++++++++++++++++++++++++++++
+FreeWorship Version: 3.4.2 x64
+Windows OS Version:10 Home Single Language 64-bit
+Sys Mem:3969MB
+
+DEBUG2018-10-12 14:23:04,907 [1]
+Starting new Icon generation thread ThumbGen322
+
+INFO 2018-10-12 14:23:05,385 [1]
+Created Win8.1/Win10 spell checker
+
+INFO 2018-10-12 14:23:57,862 [1]
+Succesfully started PowerPoint 2016
+
+DEBUG2018-10-12 14:23:58,012 [1]
+Presentation window's handle is 525418
+
+INFO 2018-10-12 14:23:58,224 [1]
+New settings file generated
+
+INFO 2018-10-12 14:23:59,642 [1]
+Loaded Chrome Embedded Framework
+
+INFO 2018-10-12 14:24:09,034 [1]
+Initialised Chrome Embedded Framework
+
+INFO 2018-10-12 14:24:09,055 [1]
+Failed to load the following font: No se puede convertir FontFamilyConverter desde System.String.
+
+INFO 2018-10-12 14:24:09,260 [1]
+Failed to load the following font:HelveticaNeueLT Std 
+
+INFO 2018-10-12 14:24:09,260 [1]
+Failed to load the following font:HelveticaNeueLT Std Blk 
+
+INFO 2018-10-12 14:24:09,260 [1]
+Failed to load the following font:HelveticaNeueLT Std Cn 
+
+INFO 2018-10-12 14:24:09,260 [1]
+Failed to load the following font:HelveticaNeueLT Std Lt 
+
+INFO 2018-10-12 14:24:09,499 [1]
+Loaded 171 fonts successfully and failed to load the following fonts:
+
+INFO 2018-10-12 14:24:09,520 [1]
+No errors to report
+
+INFO 2018-10-12 14:24:10,848 [1]
+Songs Database loaded with 208 items
+
+INFO 2018-10-12 14:24:11,174 [1]
+Bibles Database loaded with 2 items
+
+INFO 2018-10-12 14:24:11,176 [1]
+Slides Database loaded with 0 items
+
+WARN 2018-10-12 14:24:16,255 [1]
+Check for updates had an error: Activation key doesn't exist
+
+INFO 2018-10-12 14:24:16,255 [1]
+Could not check for updates
+
+DEBUG2018-10-12 14:24:16,258 [1]
+Ignored Error:System.ArgumentException: No value exists with that name.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   at FreeWorship.ProActivation.UpdateChecker.CheckforUpdates(String activationKey, String language, Version currentVersion, Boolean isPortable, Boolean getDevVersion)
+
+INFO 2018-10-12 14:24:16,258 [1]
+Checked for updates in 2290 ms
+
+INFO 2018-10-12 14:24:16,258 [1]
+Result was Failed
+
+DEBUG2018-10-12 14:24:16,676 [1]
+Opening folder '' in file browser
+
+DEBUG2018-10-12 14:24:16,677 [1]
+Opening folder '' in file browser
+
+DEBUG2018-10-12 14:24:16,679 [1]
+Opening folder '...\Media\Backgrounds\' in file browser
+
+INFO 2018-10-12 14:24:17,041 [1]
+Notification Added: It looks like you haven't set up your screens correctly. Would you like FreeWorship to do it for you?
+
+DEBUG2018-10-12 14:24:28,366 [1]
+BibleVerseTextBox.OnPreviewKeyDown: Pressed R. Current text is ''
+
+DEBUG2018-10-12 14:24:28,376 [1]
+BibleVerseTextBox.inputChar: Pressed r. Current text is ''
+
+DEBUG2018-10-12 14:24:28,483 [1]
+BibleVerseTextBox.OnPreviewKeyDown: Pressed O. Current text is 'Ruth'
+
+DEBUG2018-10-12 14:24:28,488 [1]
+BibleVerseTextBox.inputChar: Pressed o. Current text is 'Ruth'
+
+DEBUG2018-10-12 14:24:28,739 [1]
+BibleVerseTextBox.OnPreviewKeyDown: Pressed M. Current text is 'Romans'
+
+DEBUG2018-10-12 14:24:28,739 [1]
+BibleVerseTextBox.inputChar: Pressed m. Current text is 'Romans'
+
+DEBUG2018-10-12 14:24:29,176 [1]
+BibleVerseTextBox.OnPreviewKeyDown: Pressed A. Current text is 'Romans'
+
+DEBUG2018-10-12 14:24:29,176 [1]
+BibleVerseTextBox.inputChar: Pressed a. Current text is 'Romans'
+
+DEBUG2018-10-12 14:24:29,635 [1]
+BibleVerseTextBox.OnPreviewKeyDown: Pressed Return. Current text is 'Romans'
+
+DEBUG2018-10-12 14:24:29,635 [1]
+BibleVerseTextBox.inputChar: Pressed . Current text is 'Romans'
+
+DEBUG2018-10-12 14:24:30,623 [1]
+BibleVerseTextBox.OnPreviewKeyDown: Pressed Return. Current text is 'Romans'
+
+DEBUG2018-10-12 14:24:30,628 [1]
+BibleVerseTextBox.inputChar: Pressed . Current text is 'Romans'
+
+DEBUG2018-10-12 14:24:31,077 [1]
+BibleVerseTextBox.OnPreviewKeyDown: Pressed Space. Current text is 'Romans'
+
+DEBUG2018-10-12 14:24:31,517 [1]
+BibleVerseTextBox.OnPreviewKeyDown: Pressed Space. Current text is 'Romans 1'
+
+DEBUG2018-10-12 14:24:32,082 [1]
+BibleVerseTextBox.OnPreviewKeyDown: Pressed Return. Current text is 'Romans 1:1'
+
+DEBUG2018-10-12 14:24:32,272 [1]
+Changed selected service item
+Cleaned old item after 0ms
+New item is of type FreeWorship.ServiceList.BibleServiceItem
+Generated new VM after 21ms
+Set new VM after 21ms
+Set background settings after 34ms
+Finished changing item after 34ms
+
+DEBUG2018-10-12 14:24:32,327 [5]
+Text creation 96 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2018-10-12 14:24:32,327 [9]
+Text creation 96 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2018-10-12 14:24:32,327 [10]
+Text creation 14 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2018-10-12 14:24:32,327 [16]
+Text creation 14 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2018-10-12 14:24:43,102 [10]
+Text creation 0 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2018-10-12 14:24:43,102 [9]
+Text creation 0 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+INFO 2018-10-12 14:24:59,374 [1]
+Settings written to disk
+
+INFO 2018-10-12 14:24:59,374 [1]
+View closed
+
+DEBUG2018-10-12 14:24:59,666 [1]
+Closing 0 open presentations
+
+DEBUG2018-10-12 14:24:59,666 [1]
+Finished closing all open presentations
+
+INFO 2018-10-12 14:24:59,666 [1]
+Closing PowerPoint
+
+INFO 2018-10-12 14:24:59,728 [1]
+FreeWorship closed
+-------------------------------------
+
+INFO 2018-10-12 14:26:38,865 [1]
++++++++++++++++++++++++++++++++++++++
+FreeWorship Version: 3.4.2 x64
+Windows OS Version:10 Home Single Language 64-bit
+Sys Mem:3969MB
+
+DEBUG2018-10-12 14:26:38,880 [1]
+Starting new Icon generation thread ThumbGen8542
+
+INFO 2018-10-12 14:26:39,208 [1]
+Created Win8.1/Win10 spell checker
+
+INFO 2018-10-12 14:26:40,096 [1]
+Succesfully started PowerPoint 2016
+
+DEBUG2018-10-12 14:26:40,184 [1]
+Presentation window's handle is 722800
+
+INFO 2018-10-12 14:26:40,658 [1]
+Loaded Chrome Embedded Framework
+
+INFO 2018-10-12 14:26:40,717 [1]
+Initialised Chrome Embedded Framework
+
+INFO 2018-10-12 14:26:40,732 [1]
+Failed to load the following font: No se puede convertir FontFamilyConverter desde System.String.
+
+INFO 2018-10-12 14:26:40,942 [1]
+Failed to load the following font:HelveticaNeueLT Std 
+
+INFO 2018-10-12 14:26:40,942 [1]
+Failed to load the following font:HelveticaNeueLT Std Blk 
+
+INFO 2018-10-12 14:26:40,942 [1]
+Failed to load the following font:HelveticaNeueLT Std Cn 
+
+INFO 2018-10-12 14:26:40,942 [1]
+Failed to load the following font:HelveticaNeueLT Std Lt 
+
+INFO 2018-10-12 14:26:41,199 [1]
+Loaded 171 fonts successfully and failed to load the following fonts:
+
+INFO 2018-10-12 14:26:41,222 [1]
+No errors to report
+
+INFO 2018-10-12 14:26:41,676 [1]
+Songs Database loaded with 208 items
+
+INFO 2018-10-12 14:26:42,063 [1]
+Bibles Database loaded with 2 items
+
+INFO 2018-10-12 14:26:42,065 [1]
+Slides Database loaded with 0 items
+
+WARN 2018-10-12 14:26:47,713 [1]
+Check for updates had an error: Activation key doesn't exist
+
+INFO 2018-10-12 14:26:47,714 [1]
+Could not check for updates
+
+DEBUG2018-10-12 14:26:47,715 [1]
+Ignored Error:System.ArgumentException: No existe ningún valor con ese nombre.
+   en System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   en Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   en FreeWorship.ProActivation.UpdateChecker.CheckforUpdates(String activationKey, String language, Version currentVersion, Boolean isPortable, Boolean getDevVersion)
+
+INFO 2018-10-12 14:26:47,715 [1]
+Checked for updates in 2481 ms
+
+INFO 2018-10-12 14:26:47,715 [1]
+Result was Failed
+
+DEBUG2018-10-12 14:26:48,103 [1]
+Opening folder '' in file browser
+
+DEBUG2018-10-12 14:26:48,104 [1]
+Opening folder '' in file browser
+
+DEBUG2018-10-12 14:26:48,106 [1]
+Opening folder '...\Media\Backgrounds\' in file browser
+
+INFO 2018-10-12 14:26:48,421 [1]
+Notification Added: It looks like you haven't set up your screens correctly. Would you like FreeWorship to do it for you?
+
+DEBUG2018-10-12 14:26:52,794 [1]
+Running EnsureTwoScreens method
+
+INFO 2018-10-12 14:27:02,268 [1]
+Settings written to disk
+
+INFO 2018-10-12 14:27:02,268 [1]
+View closed
+
+DEBUG2018-10-12 14:27:02,556 [1]
+Closing 0 open presentations
+
+DEBUG2018-10-12 14:27:02,556 [1]
+Finished closing all open presentations
+
+INFO 2018-10-12 14:27:02,556 [1]
+Closing PowerPoint
+
+INFO 2018-10-12 14:27:02,603 [1]
+FreeWorship closed
+-------------------------------------
+
+INFO 2018-10-12 14:27:10,744 [1]
++++++++++++++++++++++++++++++++++++++
+FreeWorship Version: 3.4.2 x64
+Windows OS Version:10 Home Single Language 64-bit
+Sys Mem:3969MB
+
+DEBUG2018-10-12 14:27:10,765 [1]
+Starting new Icon generation thread ThumbGen5199
+
+INFO 2018-10-12 14:27:11,093 [1]
+Created Win8.1/Win10 spell checker
+
+INFO 2018-10-12 14:27:11,918 [1]
+Succesfully started PowerPoint 2016
+
+DEBUG2018-10-12 14:27:11,988 [1]
+Presentation window's handle is 395052
+
+INFO 2018-10-12 14:27:12,418 [1]
+Loaded Chrome Embedded Framework
+
+INFO 2018-10-12 14:27:12,479 [1]
+Initialised Chrome Embedded Framework
+
+INFO 2018-10-12 14:27:12,494 [1]
+Failed to load the following font: No se puede convertir FontFamilyConverter desde System.String.
+
+INFO 2018-10-12 14:27:12,816 [1]
+Failed to load the following font:HelveticaNeueLT Std 
+
+INFO 2018-10-12 14:27:12,816 [1]
+Failed to load the following font:HelveticaNeueLT Std Blk 
+
+INFO 2018-10-12 14:27:12,816 [1]
+Failed to load the following font:HelveticaNeueLT Std Cn 
+
+INFO 2018-10-12 14:27:12,816 [1]
+Failed to load the following font:HelveticaNeueLT Std Lt 
+
+INFO 2018-10-12 14:27:13,160 [1]
+Loaded 171 fonts successfully and failed to load the following fonts:
+
+INFO 2018-10-12 14:27:13,181 [1]
+No errors to report
+
+INFO 2018-10-12 14:27:13,636 [1]
+Songs Database loaded with 208 items
+
+INFO 2018-10-12 14:27:13,968 [1]
+Bibles Database loaded with 2 items
+
+INFO 2018-10-12 14:27:13,969 [1]
+Slides Database loaded with 0 items
+
+WARN 2018-10-12 14:27:19,593 [1]
+Check for updates had an error: Activation key doesn't exist
+
+INFO 2018-10-12 14:27:19,593 [1]
+Could not check for updates
+
+DEBUG2018-10-12 14:27:19,594 [1]
+Ignored Error:System.ArgumentException: No existe ningún valor con ese nombre.
+   en System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   en Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   en FreeWorship.ProActivation.UpdateChecker.CheckforUpdates(String activationKey, String language, Version currentVersion, Boolean isPortable, Boolean getDevVersion)
+
+INFO 2018-10-12 14:27:19,594 [1]
+Checked for updates in 2817 ms
+
+INFO 2018-10-12 14:27:19,594 [1]
+Result was Failed
+
+DEBUG2018-10-12 14:27:20,051 [1]
+Opening folder '' in file browser
+
+DEBUG2018-10-12 14:27:20,052 [1]
+Opening folder '' in file browser
+
+DEBUG2018-10-12 14:27:20,054 [1]
+Opening folder '...\Media\Backgrounds\' in file browser
+
+INFO 2018-10-12 14:27:20,348 [1]
+Notification Added: It looks like you haven't set up your screens correctly. Would you like FreeWorship to do it for you?
+
+DEBUG2018-10-12 14:27:27,717 [1]
+BibleVerseTextBox.OnPreviewKeyDown: Pressed P. Current text is ''
+
+DEBUG2018-10-12 14:27:27,727 [1]
+BibleVerseTextBox.inputChar: Pressed p. Current text is ''
+
+DEBUG2018-10-12 14:27:28,735 [1]
+BibleVerseTextBox.OnPreviewKeyDown: Pressed Return. Current text is 'Psalm'
+
+DEBUG2018-10-12 14:27:28,735 [1]
+BibleVerseTextBox.inputChar: Pressed . Current text is 'Psalm'
+
+DEBUG2018-10-12 14:27:29,469 [1]
+BibleVerseTextBox.OnPreviewKeyDown: Pressed Return. Current text is 'Psalm'
+
+DEBUG2018-10-12 14:27:29,469 [1]
+BibleVerseTextBox.inputChar: Pressed . Current text is 'Psalm'
+
+DEBUG2018-10-12 14:27:29,872 [1]
+BibleVerseTextBox.OnPreviewKeyDown: Pressed Space. Current text is 'Psalm'
+
+DEBUG2018-10-12 14:27:30,152 [1]
+BibleVerseTextBox.OnPreviewKeyDown: Pressed Space. Current text is 'Psalm 1'
+
+DEBUG2018-10-12 14:27:30,862 [1]
+BibleVerseTextBox.OnPreviewKeyDown: Pressed Return. Current text is 'Psalm 1:1'
+
+DEBUG2018-10-12 14:27:31,054 [1]
+Changed selected service item
+Cleaned old item after 0ms
+New item is of type FreeWorship.ServiceList.BibleServiceItem
+Generated new VM after 25ms
+Set new VM after 25ms
+Set background settings after 39ms
+Finished changing item after 39ms
+
+DEBUG2018-10-12 14:27:31,064 [16]
+Text creation 13 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2018-10-12 14:27:31,089 [10]
+Text creation 144 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2018-10-12 14:27:31,089 [7]
+Text creation 13 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2018-10-12 14:27:31,089 [9]
+Text creation 144 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+DEBUG2018-10-12 14:27:41,432 [1]
+Opening folder '' in file browser
+
+DEBUG2018-10-12 14:27:41,432 [1]
+Opening folder '' in file browser
+
+DEBUG2018-10-12 14:27:41,432 [1]
+Opening folder 'C:\Users\Febe\Documents' in file browser
+
+DEBUG2018-10-12 14:27:43,526 [1]
+Opening folder 'C:\Users\Febe' in file browser
+
+DEBUG2018-10-12 14:27:52,006 [1]
+Opening folder 'C:\Users\Febe\Documents' in file browser
+
+DEBUG2018-10-12 14:27:53,487 [1]
+Opening folder 'C:\Users\Febe' in file browser
+
+DEBUG2018-10-12 14:27:56,664 [1]
+Opening folder 'C:\Users\Febe\Downloads' in file browser
+
+DEBUG2018-10-12 14:27:58,500 [1]
+Opening folder 'C:\Users\Febe\Downloads\FreeWorshipPortable_3.4.2.171' in file browser
+
+DEBUG2018-10-12 14:28:02,862 [1]
+Opening folder 'C:\Users\Febe\Downloads\FreeWorshipPortable_3.4.2.171\Data' in file browser
+
+DEBUG2018-10-12 14:28:04,596 [1]
+Opening folder '...\Bibles' in file browser
+
+INFO 2018-10-12 14:28:14,689 [1]
+Settings written to disk
+
+INFO 2018-10-12 14:28:14,689 [1]
+View closed
+
+DEBUG2018-10-12 14:28:14,995 [1]
+Closing 0 open presentations
+
+DEBUG2018-10-12 14:28:14,995 [1]
+Finished closing all open presentations
+
+INFO 2018-10-12 14:28:15,010 [1]
+Closing PowerPoint
+
+INFO 2018-10-12 14:28:15,073 [1]
+FreeWorship closed
+-------------------------------------
+

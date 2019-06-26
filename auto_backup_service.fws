@@ -1,0 +1,1131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ServiceItems>
+    <ServiceItem xsi:type="SlidesServiceItem">
+      <Title>ESCUELA DOMINICAL</Title>
+      <Index>ESCUELA DOMINICAL</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SlidesServiceItem">
+      <Title>PREDICACIÓN DEL EVANGELIO</Title>
+      <Index>PREDICACIÓN DEL EVANGELIO</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SlidesServiceItem">
+      <Title>PROXIMAS REUNIONES (Domingo)</Title>
+      <Index>PROXIMAS REUNIONES (Domingo)</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SlidesServiceItem">
+      <Title>REUNIÓN DE MINISTERIO</Title>
+      <Index>REUNIÓN DE MINISTERIO</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SlidesServiceItem">
+      <Title>PROXIMAS REUNIONES (Miercoles)</Title>
+      <Index>PROXIMAS REUNIONES (Miercoles)</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>Header</Title>
+      <Index />
+      <Note>CORARIO JUVENIL</Note>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J01. Mi alma se saciará</Title>
+      <Index>Mi alma se saciará ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J02. Mi corazón se llena de amor</Title>
+      <Index>Mi corazón se llena de amor ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J03. Cristo, nombre glorioso</Title>
+      <Index>Cristo, nombre glorioso ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J04. Tu Hijo vino a salvar</Title>
+      <Index>Tu Hijo vino a salvar ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J05. Soberano</Title>
+      <Index>Soberano ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J06. Alto, escúchame</Title>
+      <Index>Alto, escúchame ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J07. Nunca se apartará de tu boca</Title>
+      <Index>Nunca se apartará de tu boca ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J08. En Egipto esclavo fui</Title>
+      <Index>ESCUELA DOMINICAL ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J09. Que bueno es alabarte</Title>
+      <Index>9. Que bueno es alabarte ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J10. Estoy contento con Jesús</Title>
+      <Index>Estoy contento con Jesús ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J11. En el firmamento</Title>
+      <Index>En el firmamento ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J12. Proclama</Title>
+      <Index>Proclama ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J13. Este pueblo que has formado</Title>
+      <Index>Este pueblo que has formado ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J14. Es el tiempo de la siega</Title>
+      <Index>Es el tiempo de la siega ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J15. Somos un pequeño pueblo</Title>
+      <Index>Somos un pequeño pueblo ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J16. Al abrir mis ojos</Title>
+      <Index>Al abrir mis ojos ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J17. Tu amor por mí</Title>
+      <Index>Tu amor por mi ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J18. ¿Desanimados?</Title>
+      <Index>¿Desanimados ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J19. Que placer</Title>
+      <Index>Que placer ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J20. Busca primero</Title>
+      <Index>Busca primero ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J21. Cuando pienso en tu santidad</Title>
+      <Index>Cuando pienso en tu santidad ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J22. Por lo cual Dios también lo exaltó</Title>
+      <Index>Por lo cual Dios también lo exaltó ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J23. De gloria en gloria</Title>
+      <Index>De gloria en gloria ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J24. Renuévame</Title>
+      <Index>Renuévame ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J25. No hay otro nombre</Title>
+      <Index>No hay otro nombre ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J26. Cada cosa en la vida</Title>
+      <Index>Casa cosa en la vida ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J27. Como el ciervo</Title>
+      <Index>Como el ciervo ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J28. Sin ti Señor</Title>
+      <Index>Sin ti Señor ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J29. Día tan grande</Title>
+      <Index>Día tan grande ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J30. El Señor te bendiga</Title>
+      <Index>El Señor te bendiga ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J31. La ley de Jehová</Title>
+      <Index>La ley de Jehová ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J32. Alzaré mis ojos </Title>
+      <Index>Alzaré mis ojos ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J33. Alzaré mis ojos</Title>
+      <Index>33. Alzaré mis ojos ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J34. Acuérdate de tu Creador</Title>
+      <Index>Acuérdate de tu Creador ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J35. ¡Oh ven!</Title>
+      <Index>¡Oh ven! ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J36. No fijéis los ojos</Title>
+      <Index>No fijéis los ojos ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J37. Yo te alabo Cristo</Title>
+      <Index>Yo te alabo Cristo ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J38. No pongas al Señor</Title>
+      <Index>No pongas al Señor ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J39. Fuerte Dios</Title>
+      <Index>Fuerte Dios ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J40. Entra en la presencia</Title>
+      <Index>Entra en la presencia ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J41. Dad gracias</Title>
+      <Index>Dad gracias ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J42. Jesús vendrá ?????</Title>
+      <Index>42. Jesús vendrá ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J43. Dios es Dios</Title>
+      <Index>43. Dios es Dios ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J44. Yo estoy alegre</Title>
+      <Index>Yo estoy alegre ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J45. Con mis labios</Title>
+      <Index>Con mis labios ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J46. Mirarte solo a ti</Title>
+      <Index>Mirarte solo a ti ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J47. Glorificaremos a el Rey</Title>
+      <Index>Glorificaremos a el Rey ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J48. Porque Tú eres el gozo</Title>
+      <Index>Porque Tú eres el gozo ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J50. Procura con diligencia</Title>
+      <Index>Procura con diligencia ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J49. Vine adorar a Dios</Title>
+      <Index>Vine adorar a Dios ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J51. Soy feliz</Title>
+      <Index>Soy feliz ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J52. Cuando venga el Señor</Title>
+      <Index>Cuando venga el Señor ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J53. Canta Aleluya</Title>
+      <Index>Canta Aleluya ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J54. Dios al mundo amó</Title>
+      <Index>Dios al mundo amó ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J55. Cuan profundo es tu amor</Title>
+      <Index>Cuan profundo es tu amor ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J56. Jesús en tu presencia</Title>
+      <Index>Jesús en tu presencia ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J57. Hay momentos</Title>
+      <Index>Hay momentos ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J58. Felicidad hay en mi alma</Title>
+      <Index>58. Felicidad hay en mi alma ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J59. Mi Cristo, mi Rey</Title>
+      <Index>59. Mi Cristo, mi Rey ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J60. Un hombre que era ciego</Title>
+      <Index>60. Un hombre que era ciego ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J61. Queremos ser un pueblo</Title>
+      <Index>61. Queremos ser un pueblo ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J62. Puedo confiar</Title>
+      <Index>62. Puedo confiar ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J63. Puro y santo</Title>
+      <Index>63. Puro y santo ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J64. Es exaltado</Title>
+      <Index>64. Es exaltado ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J65. En Ti confía mi corazón</Title>
+      <Index>65. En Ti confía mi corazón ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J66. Solamente en Cristo</Title>
+      <Index>66. Solamente en Cristo ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J67. Al comenzar por mí</Title>
+      <Index>67. Al comenzar por mí ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J68. No existe bien para mí</Title>
+      <Index>68. No existe bien para mí ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J69. Encomiendo a ti</Title>
+      <Index>69. Encomiendo a ti ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J70. Hoy estoy alegre</Title>
+      <Index>70. Hoy estoy alegre ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J71. Todos tienen que saber</Title>
+      <Index>71. Todos tienen que saber  ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J72. Tú estás sentado</Title>
+      <Index>72. Tú estás sentado ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J73. Mi fe está puesta en ti</Title>
+      <Index>73. Mi fe está puesta en ti ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J74. Jesús me pastorea</Title>
+      <Index>74. Jesús me pastorea ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J75. Mirad cual amor</Title>
+      <Index>75. Mirad cual amor ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J76. Tú eres mi fuerza y mi poder</Title>
+      <Index>76. Tú eres mi fuerza y mi poder ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J77. Señor puedes convertir</Title>
+      <Index>77. Señor puedes convertir ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J78. Solo a ti Señor</Title>
+      <Index>78. Solo a ti Señor ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J79. Me despierto</Title>
+      <Index>79. Me despierto ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J80. La alegría</Title>
+      <Index>80. La alegría ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J81. Esta es la luz de Cristo</Title>
+      <Index>81. Esta es la luz de Cristo ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J82. Tu nombre levantaré</Title>
+      <Index>82.  ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J83. Al contemplar tu creación</Title>
+      <Index>83. Al contemplar tu creación ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J84. Contad en alta voz</Title>
+      <Index>84. Contad en alta voz ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J85. Bienaventurados</Title>
+      <Index>85. Bienaventurados ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J86. Aunque ruja tempestad</Title>
+      <Index>86. Aunque ruja tempestad ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J87. Estoy contento</Title>
+      <Index>87. Estoy contento ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J88. Vedle nacer</Title>
+      <Index>88. Vedle nacer ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J89. El Salvador Jesús llamándonos está</Title>
+      <Index>89. El Salvador Jesús llamándonos está ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J90. Sublime gracia</Title>
+      <Index>90. Sublime gracia ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J91. Te exaltaré</Title>
+      <Index>91. Te exaltaré ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J92. Oíd bendita historia</Title>
+      <Index>92. Oid bendita historia ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J93. Da lo mejor al Maestro</Title>
+      <Index>93. Da lo mejor al Maestro ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J94. Una mañana Cristo vendrá</Title>
+      <Index>94. Una mañana Cristo vendrá ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>J95. Ya viene Cristo</Title>
+      <Index>95. Ya viene Cristo ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="HeaderServiceItem">
+      <Title>CORARIO PALABRAS DE VIDA</Title>
+      <Index />
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV001. Ama la Biblia</Title>
+      <Index>001. Ama la biblia ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV002. La Biblia es cual roca firme</Title>
+      <Index>PV002. La Biblia es cual roca firme ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV003. En la Escuela Dominical</Title>
+      <Index>PV003. En la Escuela Dominical ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV004. Tengo un grande tesoro</Title>
+      <Index>PV004. Tengo un grande tesoro ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV005. Rebosando</Title>
+      <Index>PV005. Rebosando ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV006. Un soldadito ????</Title>
+      <Index>PV006. Un soldadito  ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV007. Cristo te llama, oh niño</Title>
+      <Index>PV007. Cristo te llama, oh niño ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV008. Cristo me ama</Title>
+      <Index>PV008. Cristo me ama ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV009. Abraham: ¿a dónde andas?</Title>
+      <Index>PV009. Abraham ¿a dónde andas ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV010. Somos un pequeño pueblo</Title>
+      <Index>PV010. Somos un pequeño pueblo ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV011. Aunque soy pequeñuelo</Title>
+      <Index>PV011. Aunque soy pequeñuelo ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV012. Con Cristo en la familia</Title>
+      <Index>PV012. Con Cristo en la familia ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV013. El Salvador Jesús llamandonos está</Title>
+      <Index>PV013. El Salvador Jesús llamandonos está ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV014. Zaqueo</Title>
+      <Index>PV014. Zaqueo ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV015. Por los niños todos Cristo murió</Title>
+      <Index>PV015. Por los niños todos Cristo murió ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV016. Abre mis ojos</Title>
+      <Index>PV016. Abre mis ojos ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV017. En el dulce porvenir</Title>
+      <Index>PV017. En el dulce porvenir ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV018. Festejando del pan de vida</Title>
+      <Index>PV018. Festejando del pan de vida ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV019. Yo tengo gozo</Title>
+      <Index>PV019. Yo tengo gozo ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV020. Gozo la Santa Palabra leer</Title>
+      <Index>PV020. Gozo la Santa Palabra leer ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV021. Ancho cual el oceáno</Title>
+      <Index>PV021. Ancho cual el oceáno ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV022. Sólo Jesucristo salva</Title>
+      <Index>PV022. Sólo Jesucristo salva ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV023. Un niñito se siete</Title>
+      <Index>PV023. Un niñito se siete ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV024. Debes tú amar a Cristo</Title>
+      <Index>PV024. Debes tú amar a Cristo ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV025. Todos los niñas y las niñas</Title>
+      <Index>PV025. Todos los niñas y las niñas ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV026. Cristo dióle agua</Title>
+      <Index>PV026. Cristo dióle agua ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV027. Cuidadito los ojitos</Title>
+      <Index>PV027. Cuidadito los ojitos ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV028. Él quiere, Él sabe</Title>
+      <Index>PV028. Él quiere, Él sabe ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV029. Sólo un jovencito</Title>
+      <Index>PV029. Sólo un jovencito ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV030. Excepto Jesucristo</Title>
+      <Index>PV030. Excepto Jesucristo ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV031.  En la Roca eterna</Title>
+      <Index>PV031.  En la Roca eterna ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV032. Como en la noche oscura</Title>
+      <Index>PV.032 Como en la noche oscura ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV033. Hay perdón</Title>
+      <Index>PV033. Hay perdón ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV034. Muy negro era mi corazón</Title>
+      <Index>PV034. Muy negro era mi corazón ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV035. Felices son los niños</Title>
+      <Index>PV035. Felices son los niños ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV036. Nos vamos al palacio</Title>
+      <Index>PV036. Nos vamos al palacio ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV037. Una sola puerta hay</Title>
+      <Index>PV037. Una sola puerta hay ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV038. Cristo está llamando</Title>
+      <Index>PV038. Cristo está llamando ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV039. Estoy contento</Title>
+      <Index>PV039. Estoy contento ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV040. Grandes cosas hizo Dios</Title>
+      <Index>PV040. Grandes cosas hizo Dios ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV041. Todas las cosas hermosas</Title>
+      <Index>PV041. Todas las cosas hermosas ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV042. Hay un hombre incomparable</Title>
+      <Index>PV042. Hay un hombre incomparable ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV043. Hoy, ayer y por los siglos</Title>
+      <Index>PV043. Hoy, ayer y por los siglos ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV044. Cada día con Cristo</Title>
+      <Index>PV044. Cada día con Cristo ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV045. Admirable es Jesús</Title>
+      <Index>PV045. Admirable es Jesús ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV046. Jesús no vino a condenar</Title>
+      <Index>PV046. Jesús no vino a condenar ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV047. Preciosa Biblia</Title>
+      <Index>PV047. Preciosa Biblia ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV048. Dios mis culpas borró</Title>
+      <Index>PV048. Dios mis culpas borró ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV049. Los pajaritos cantan</Title>
+      <Index>PV049. Los pajaritos cantan ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV050. Perder el dinero</Title>
+      <Index>PV050. Perder el dinero ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV051. Acuérdate niñito</Title>
+      <Index>PV051. Acuérdate niñito ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV052. Dios de tal manera a este mundo amó</Title>
+      <Index>PV052. Dios de tal manera a este mundo amó ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV053. He aquí Jesús a tu puerta está</Title>
+      <Index>PV053. He aquí Jesús a tu puerta está ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV054. Samuel estaba durmiendo</Title>
+      <Index>PV054. Samuel estaba durmiendo ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV055. El camino al cielo</Title>
+      <Index>PV055. El camino al cielo ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV056. Juan tres, dieciséis</Title>
+      <Index>PV056. Juan tres, dieciséis ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV057. Ama el pastor las ovejas</Title>
+      <Index>PV057. Ama el pastor las ovejas ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV058. Tenme brillando</Title>
+      <Index>PV058. Tenme brillando ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV059. Sé de una fuente</Title>
+      <Index>PV059. Sé de una fuente ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+  </ServiceItems>
+  <Version>3.5.1</Version>
+</ServiceList>
