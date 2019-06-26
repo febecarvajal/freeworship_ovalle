@@ -1,4 +1,4 @@
-# instrucciones
+# Instrucciones
 
 - Descargar [Git]{https://git-scm.com/download/win}
 - En la carpeta donde se quiere copiar el FreeWorship, Hacer Click Derecho+SHIT, luego apretar en "Git Bash here"
