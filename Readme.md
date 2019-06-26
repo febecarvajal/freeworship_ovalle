@@ -6,5 +6,5 @@
 
 ## Cuando se hagan cambios
 
-- En la carpeta del FreeWorship, Hacer Click Derecho+SHIT, luego apretar en "Git Bash here"
+- En la carpeta del FreeWorship, Hacer Click Derecho+SHIFT, luego apretar en "Git Bash here"
 - Pegar lo siguiente: `git pull origin master`
