@@ -615,9 +615,9 @@
   <ReportErrorsOnStartup>true</ReportErrorsOnStartup>
   <IncludeErrorScreenshot>true</IncludeErrorScreenshot>
   <ShowPresentationDisplayOnStartup>true</ShowPresentationDisplayOnStartup>
-  <ReportErrors xsi:nil="true" />
-  <ReportErrorsOnly xsi:nil="true" />
-  <ReportAnonymously xsi:nil="true" />
+  <ReportErrors>false</ReportErrors>
+  <ReportErrorsOnly>false</ReportErrorsOnly>
+  <ReportAnonymously>false</ReportAnonymously>
   <MaxLogsToUploadAtOnce>100</MaxLogsToUploadAtOnce>
   <LogUploadPeriodInMiliseconds>30000</LogUploadPeriodInMiliseconds>
 </ApplicationSettings>
