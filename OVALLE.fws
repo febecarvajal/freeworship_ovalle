@@ -863,8 +863,32 @@
       <Index>PV005. Rebosando ().xml</Index>
     </ServiceItem>
     <ServiceItem xsi:type="SongServiceItem">
-      <Title>PV006. Un soldadito ????</Title>
+      <Title>PV006. Un soldadito</Title>
       <Index>PV006. Un soldadito  ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
     </ServiceItem>
     <ServiceItem xsi:type="SongServiceItem">
       <Title>PV007. Cristo te llama, oh niño</Title>
@@ -987,7 +1011,7 @@
       <Index>PV030. Excepto Jesucristo ().xml</Index>
     </ServiceItem>
     <ServiceItem xsi:type="SongServiceItem">
-      <Title>PV031.  En la Roca eterna</Title>
+      <Title>PV031. En la Roca eterna</Title>
       <Index>PV031.  En la Roca eterna ().xml</Index>
     </ServiceItem>
     <ServiceItem xsi:type="SongServiceItem">
@@ -1125,6 +1149,42 @@
           <Y>1</Y>
         </Point2>
       </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV060. En mi corazón</Title>
+      <Index>PV060. En mi corazón ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV061. Es esto que me hace cantar</Title>
+      <Index>PV060.  ().xml</Index>
+    </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>PV062. He aquí</Title>
+      <Index>PV062. He aquí ().xml</Index>
     </ServiceItem>
   </ServiceItems>
   <Version>3.5.1</Version>

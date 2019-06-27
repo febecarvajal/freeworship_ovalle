@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ApplicationSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>3.5.1.183</Version>
-  <RawDatabaseLocation>C:\Users\Febe\Downloads\FreeWorshipPortable_3.4.2.171\Data\</RawDatabaseLocation>
+  <RawDatabaseLocation>C:\Users\Febe\Documents\FreeWorshipPortable_3.4.2.171\Data</RawDatabaseLocation>
   <DisplayMonitor>[0;0;640;340]</DisplayMonitor>
   <StageDisplayMonitor>[0;0;640;340]</StageDisplayMonitor>
   <Songs>

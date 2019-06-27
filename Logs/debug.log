@@ -27791,3 +27791,3484 @@ ERROR2019-06-26 15:08:37,919 [14]
 
 {"Exception":{"ClassName":"System.Threading.Tasks.TaskCanceledException","Message":"Se canceló una tarea.","Data":{},"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)\r\n   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   en System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)\r\n   en System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)\r\n   en System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)\r\n   en System.Windows.Threading.Dispatcher.Invoke(Action callback)\r\n   en System.IO.FileSystemWatcher.OnChanged(FileSystemEventArgs e)\r\n   en System.IO.FileSystemWatcher.CompletionStatusChanged(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* overlappedPointer)\r\n   en System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)\r\n   en System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)\r\n   en System.Threading._IOCompletionCallback.PerformIOCompletionCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* pOVERLAP)","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nThrowForNonSuccess\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.Runtime.CompilerServices.TaskAwaiter\nVoid ThrowForNonSuccess(System.Threading.Tasks.Task)","HResult":-2146233029,"Source":"mscorlib","WatsonBuckets":"AQAAAEMATABSADIAMAByADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYAcgBlAGUAVwBvAHIAcwBoAGkAcAAuAGUAeABlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMALgA5ADkAOQAuADAALgAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADUAYwBiADcAYgAyADEAYwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG0AcwBjAG8AcgBsAGkAYgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQALgA3AC4AMwA0ADEANgAuADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADUAYwBhAGIAZgBhAGEAMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADUAZAAwADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIANgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYATwBQAEwANABNAFkARQBKAEMASABRADQAUQBVAEQATABZADUATQAxAEoARwAxAEUARQAxAEsASgBZAFcAVQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"}}
 
+INFO 2019-06-26 15:32:03,871 [1]
++++++++++++++++++++++++++++++++++++++
+FreeWorship Version: 3.5.1 x64
+Windows OS Version:10 Home Single Language 64-bit
+Sys Mem:3969MB
+{"FWVersion":"3.5.1","Bitness":" x64","WindowsOSVersion":"10 Home Single Language 64-bit","SystemMemory":"3969MB","SessionId":"1fce74aa-02a9-473c-b9ce-d8f43b240be4"}
+
+INFO 2019-06-26 15:32:03,964 [1]
+SessionID: 1fce74aa-02a9-473c-b9ce-d8f43b240be4
+
+
+DEBUG2019-06-26 15:32:03,964 [1]
+Starting new Icon generation thread ThumbGen8050
+
+
+INFO 2019-06-26 15:32:04,371 [1]
+Created Win8.1/Win10 spell checker
+
+
+WARN 2019-06-26 15:32:04,371 [1]
+No spelling dictionaries found in registry
+
+
+INFO 2019-06-26 15:32:05,607 [1]
+Succesfully started PowerPoint 2016
+
+
+DEBUG2019-06-26 15:32:05,692 [1]
+Presentation window's handle is 524566
+
+
+INFO 2019-06-26 15:32:06,312 [1]
+Loaded settings
+{"Settings":{"IsPortable":true,"StorageFolder":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\","TempFolder":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Temp\\","Version":"3.5.1.183","DatabaseLocation":"C:\\Users\\Febe\\Downloads\\FreeWorshipPortable_3.4.2.171\\Data\\","DefaultDatabaseLocation":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Data\\","RawDatabaseLocation":"C:\\Users\\Febe\\Downloads\\FreeWorshipPortable_3.4.2.171\\Data\\","DisplayMonitor":"[0;0;640;340]","DisplayBounds":"0,0,640,340","UsesCustomDisplay":true,"StageDisplayMonitor":"[0;0;640;340]","StageDisplayBounds":"0,0,640,340","UsesCustomStageDisplay":true,"Songs":{"DefaultStyle":{"ShowVerseNumber":false,"ShowChorusName":false,"ShowVerseName":false,"ShowVerseChorusNamesInCaps":false,"ForceChorusInItalics":false,"Font":{"FontFamily":"Century Gothic","Bold":false,"Italic":false,"FontSize":36.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SaveSongOnQuickEdit":true,"Search":{"Titles":true,"Lyrics":false,"Authors":false,"Themes":false,"Songbooks":true,"Web":false},"Licence":{"Number":0,"Type":0,"Custom":""},"CopyrightDisplay":1,"SongCopyrightToken":"","UseVerseOrderForLyricsList":true,"LinkSongTextStyleToLicence":true,"LinkSongMarginStyleToLicence":true,"DefaultSongLicenceStyle":{"ShowVerseNumber":false,"ShowChorusName":false,"ShowVerseName":false,"ShowVerseChorusNamesInCaps":false,"ForceChorusInItalics":false,"Font":{"FontFamily":"Calibri","Bold":false,"Italic":false,"FontSize":12.0,"FontAlignment":1,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":2,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}}},"Bibles":{"DefaultStyle":{"BibleToUse":"BibliaRVR1960.xml","VerseNums":true,"Name":2,"NamePosition":1,"DisplayBibleName":false,"UseShortName":true,"Font":{"FontFamily":"Century Gothic","Bold":false,"Italic":false,"FontSize":36.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":1.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SelectNum":1,"SearchKeywords":false},"Slides":{"DefaultStyle":{"Font":{"FontFamily":"Calibri","Bold":true,"Italic":false,"FontSize":48.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":10.0,"Top":10.0,"Right":10.0,"Bottom":10.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SlideSetOrder":0,"DefaultTime":"00:00:12","DefaultTimeTicks":120000000},"Media":{"DefaultImageStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultImageBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"DefaultVideoStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultVideoBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"DefaultStreamStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultStreamBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"VideoPreviewLevel":2,"BackgroundVideoVolumeEnabled":false},"DefaultTimeStyle":{"Font":{"FontFamily":"Courier New","Bold":false,"Italic":false,"FontSize":96.0,"FontAlignment":2,"FontColour":{"A":255,"R":0,"G":128,"B":0},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":5.0,"Top":5.0,"Right":5.0,"Bottom":5.0}},"DefaultTimeBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"ClockOverlayEnabled":false,"ClockOverlayStyle":{"Font":{"FontFamily":"Lucida Sans Typewriter","Bold":true,"Italic":false,"FontSize":18.0,"FontAlignment":1,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":0,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":4.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}},"DefaultAlertStyle":{"AlertType":0,"AlertColour":0,"Size":3,"CapitalLetters":false},"DefaultTransition":{"ID":0,"Duration":1.0},"FadeToBlack":1.0,"FadeScreen":1.0,"WindowLayout":{"Maximised":true,"TransitionsOpen":true,"BackgroundsOpen":true,"LowPriorityBackgroundsOpen":false,"TransitionsRowHeight":2.0,"ServiceListRowHeight":3.0,"BackgroundRowHeight":268.34666666666669,"ItemDisplayRowHeight":395.69333333333327,"LeftColumnWidth":347.98494117647067,"CentreColumnWidth":521.97741176470583,"RightColumnWidth":480.0376470588235},"FileBrowserStates":{"MediaForeground":{"Folder":"C:\\Users\\Febe\\Downloads","Zoom":75.0},"MediaBackground":{"Folder":"C:\\Users\\Febe\\Downloads","Zoom":77.999999999999972},"Powerpoint":{"Folder":"...\\","Zoom":75.0},"SongImporter":{"Folder":"...\\Songs","Zoom":75.0},"BibleImporter":{"Folder":"...\\Bibles","Zoom":75.0}},"LogoPath":"Default","LogoFillType":3,"DisplayMargins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0},"StageDisplayMargins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0},"Language":"es","LastExportSettings":{"Format":0,"FontSize":12.0,"FullItems":true,"SongVerseNums":false,"SongCopyrightPosition":"Bottom"},"StageDisplayConfiguration":{"Enabled":true,"TopMargin":0.2,"RightMargin":0.3},"BasicMode":{"Enabled":false,"HideTransitions":true,"HideBackgrounds":true,"HideStyling":true,"HideUserManagement":true,"DisablePreferences":false,"TransitionsHidden":false,"BackgroundsHidden":false,"StylingHidden":false,"UserManagementHidden":false,"PreferencesDisabled":false},"AutoApplyPreview":false,"DontSelectNextVerse":false,"DefaultBasherMode":0,"DevelopmentUpdates":false,"Skin":".\\Resources\\Skins\\Beach\\Skin.xaml","ReportErrorsOnStartup":true,"IncludeErrorScreenshot":true,"ShowPresentationDisplayOnStartup":true,"ReportErrors":false,"ReportErrorsOnly":false,"ReportAnonymously":false,"MaxLogsToUploadAtOnce":100,"LogUploadPeriodInMiliseconds":30000,"ErrorReportingNotSet":false}}
+
+INFO 2019-06-26 15:32:06,600 [8]
+Updating licence from server
+
+
+ERROR2019-06-26 15:32:09,191 [14]
+Web error updating licence
+{"ResponseCode":403,"ErrorPayload":"{\"ErrorMessage\":\"activationKey or machineId not found\"}"}
+
+WARN 2019-06-26 15:32:09,197 [14]
+Failed to update licence from server: A web error occured when updating your licence. Please try again
+
+
+INFO 2019-06-26 15:32:09,248 [1]
+Loaded Chrome Embedded Framework
+
+
+INFO 2019-06-26 15:32:09,316 [1]
+Initialised Chrome Embedded Framework
+
+
+INFO 2019-06-26 15:32:09,536 [1]
+Failed to load the following font: No se puede convertir FontFamilyConverter desde System.String.
+{"FailedFont":""}
+
+INFO 2019-06-26 15:32:09,855 [1]
+Failed to load the following font:HelveticaNeueLT Std 
+{"FailedFont":"HelveticaNeueLT Std"}
+
+INFO 2019-06-26 15:32:09,856 [1]
+Failed to load the following font:HelveticaNeueLT Std Blk 
+{"FailedFont":"HelveticaNeueLT Std Blk"}
+
+INFO 2019-06-26 15:32:09,856 [1]
+Failed to load the following font:HelveticaNeueLT Std Cn 
+{"FailedFont":"HelveticaNeueLT Std Cn"}
+
+INFO 2019-06-26 15:32:09,857 [1]
+Failed to load the following font:HelveticaNeueLT Std Lt 
+{"FailedFont":"HelveticaNeueLT Std Lt"}
+
+INFO 2019-06-26 15:32:10,188 [1]
+Loaded 179 fonts successfully
+
+
+WARN 2019-06-26 15:32:10,334 [1]
+Could not load database
+{"databaseLocation:":"C:\\Users\\Febe\\Downloads\\FreeWorshipPortable_3.4.2.171\\Data\\","Exception":{"ClassName":"System.InvalidOperationException","Message":"Error del método con código de error inesperado 3.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.Security.AccessControl.NativeObjectSecurity.CreateInternal(ResourceType resourceType, Boolean isContainer, String name, SafeHandle handle, AccessControlSections includeSections, Boolean createByName, ExceptionFromErrorCode exceptionFromErrorCode, Object exceptionContext)\r\n   en System.Security.AccessControl.FileSystemSecurity..ctor(Boolean isContainer, String name, AccessControlSections includeSections, Boolean isDirectory)\r\n   en System.Security.AccessControl.DirectorySecurity..ctor(String name, AccessControlSections includeSections)\r\n   en FreeWorship.Model.Model.LoadDatabase()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nCreateInternal\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.Security.AccessControl.NativeObjectSecurity\nSystem.Security.AccessControl.CommonSecurityDescriptor CreateInternal(System.Security.AccessControl.ResourceType, Boolean, System.String, System.Runtime.InteropServices.SafeHandle, System.Security.AccessControl.AccessControlSections, Boolean, ExceptionFromErrorCode, System.Object)","HResult":-2146233079,"Source":"mscorlib","WatsonBuckets":null}}
+
+INFO 2019-06-26 15:32:30,867 [1]
++++++++++++++++++++++++++++++++++++++
+FreeWorship Version: 3.5.1 x64
+Windows OS Version:10 Home Single Language 64-bit
+Sys Mem:3969MB
+{"FWVersion":"3.5.1","Bitness":" x64","WindowsOSVersion":"10 Home Single Language 64-bit","SystemMemory":"3969MB","SessionId":"c26189d0-78ee-4a69-8175-aa4b19b53744"}
+
+INFO 2019-06-26 15:32:30,945 [1]
+SessionID: c26189d0-78ee-4a69-8175-aa4b19b53744
+
+
+DEBUG2019-06-26 15:32:30,976 [1]
+Starting new Icon generation thread ThumbGen9297
+
+
+INFO 2019-06-26 15:32:31,383 [1]
+Created Win8.1/Win10 spell checker
+
+
+WARN 2019-06-26 15:32:31,383 [1]
+No spelling dictionaries found in registry
+
+
+INFO 2019-06-26 15:32:32,078 [1]
+Succesfully started PowerPoint 2016
+
+
+DEBUG2019-06-26 15:32:32,173 [1]
+Presentation window's handle is 1377842
+
+
+INFO 2019-06-26 15:32:32,766 [1]
+Loaded settings
+{"Settings":{"IsPortable":true,"StorageFolder":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\","TempFolder":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Temp\\","Version":"3.5.1.183","DatabaseLocation":"C:\\Users\\Febe\\Downloads\\FreeWorshipPortable_3.4.2.171\\Data\\","DefaultDatabaseLocation":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Data\\","RawDatabaseLocation":"C:\\Users\\Febe\\Downloads\\FreeWorshipPortable_3.4.2.171\\Data\\","DisplayMonitor":"[0;0;640;340]","DisplayBounds":"0,0,640,340","UsesCustomDisplay":true,"StageDisplayMonitor":"[0;0;640;340]","StageDisplayBounds":"0,0,640,340","UsesCustomStageDisplay":true,"Songs":{"DefaultStyle":{"ShowVerseNumber":false,"ShowChorusName":false,"ShowVerseName":false,"ShowVerseChorusNamesInCaps":false,"ForceChorusInItalics":false,"Font":{"FontFamily":"Century Gothic","Bold":false,"Italic":false,"FontSize":36.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SaveSongOnQuickEdit":true,"Search":{"Titles":true,"Lyrics":false,"Authors":false,"Themes":false,"Songbooks":true,"Web":false},"Licence":{"Number":0,"Type":0,"Custom":""},"CopyrightDisplay":1,"SongCopyrightToken":"","UseVerseOrderForLyricsList":true,"LinkSongTextStyleToLicence":true,"LinkSongMarginStyleToLicence":true,"DefaultSongLicenceStyle":{"ShowVerseNumber":false,"ShowChorusName":false,"ShowVerseName":false,"ShowVerseChorusNamesInCaps":false,"ForceChorusInItalics":false,"Font":{"FontFamily":"Calibri","Bold":false,"Italic":false,"FontSize":12.0,"FontAlignment":1,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":2,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}}},"Bibles":{"DefaultStyle":{"BibleToUse":"BibliaRVR1960.xml","VerseNums":true,"Name":2,"NamePosition":1,"DisplayBibleName":false,"UseShortName":true,"Font":{"FontFamily":"Century Gothic","Bold":false,"Italic":false,"FontSize":36.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":1.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SelectNum":1,"SearchKeywords":false},"Slides":{"DefaultStyle":{"Font":{"FontFamily":"Calibri","Bold":true,"Italic":false,"FontSize":48.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":10.0,"Top":10.0,"Right":10.0,"Bottom":10.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SlideSetOrder":0,"DefaultTime":"00:00:12","DefaultTimeTicks":120000000},"Media":{"DefaultImageStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultImageBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"DefaultVideoStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultVideoBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"DefaultStreamStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultStreamBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"VideoPreviewLevel":2,"BackgroundVideoVolumeEnabled":false},"DefaultTimeStyle":{"Font":{"FontFamily":"Courier New","Bold":false,"Italic":false,"FontSize":96.0,"FontAlignment":2,"FontColour":{"A":255,"R":0,"G":128,"B":0},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":5.0,"Top":5.0,"Right":5.0,"Bottom":5.0}},"DefaultTimeBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"ClockOverlayEnabled":false,"ClockOverlayStyle":{"Font":{"FontFamily":"Lucida Sans Typewriter","Bold":true,"Italic":false,"FontSize":18.0,"FontAlignment":1,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":0,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":4.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}},"DefaultAlertStyle":{"AlertType":0,"AlertColour":0,"Size":3,"CapitalLetters":false},"DefaultTransition":{"ID":0,"Duration":1.0},"FadeToBlack":1.0,"FadeScreen":1.0,"WindowLayout":{"Maximised":true,"TransitionsOpen":true,"BackgroundsOpen":true,"LowPriorityBackgroundsOpen":false,"TransitionsRowHeight":2.0,"ServiceListRowHeight":3.0,"BackgroundRowHeight":268.34666666666669,"ItemDisplayRowHeight":395.69333333333327,"LeftColumnWidth":347.98494117647067,"CentreColumnWidth":521.97741176470583,"RightColumnWidth":480.0376470588235},"FileBrowserStates":{"MediaForeground":{"Folder":"C:\\Users\\Febe\\Downloads","Zoom":75.0},"MediaBackground":{"Folder":"C:\\Users\\Febe\\Downloads","Zoom":77.999999999999972},"Powerpoint":{"Folder":"...\\","Zoom":75.0},"SongImporter":{"Folder":"...\\Songs","Zoom":75.0},"BibleImporter":{"Folder":"...\\Bibles","Zoom":75.0}},"LogoPath":"Default","LogoFillType":3,"DisplayMargins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0},"StageDisplayMargins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0},"Language":"es","LastExportSettings":{"Format":0,"FontSize":12.0,"FullItems":true,"SongVerseNums":false,"SongCopyrightPosition":"Bottom"},"StageDisplayConfiguration":{"Enabled":true,"TopMargin":0.2,"RightMargin":0.3},"BasicMode":{"Enabled":false,"HideTransitions":true,"HideBackgrounds":true,"HideStyling":true,"HideUserManagement":true,"DisablePreferences":false,"TransitionsHidden":false,"BackgroundsHidden":false,"StylingHidden":false,"UserManagementHidden":false,"PreferencesDisabled":false},"AutoApplyPreview":false,"DontSelectNextVerse":false,"DefaultBasherMode":0,"DevelopmentUpdates":false,"Skin":".\\Resources\\Skins\\Beach\\Skin.xaml","ReportErrorsOnStartup":true,"IncludeErrorScreenshot":true,"ShowPresentationDisplayOnStartup":true,"ReportErrors":false,"ReportErrorsOnly":false,"ReportAnonymously":false,"MaxLogsToUploadAtOnce":100,"LogUploadPeriodInMiliseconds":30000,"ErrorReportingNotSet":false}}
+
+INFO 2019-06-26 15:32:33,070 [8]
+Updating licence from server
+
+
+ERROR2019-06-26 15:32:36,681 [15]
+Web error updating licence
+{"ResponseCode":403,"ErrorPayload":"{\"ErrorMessage\":\"activationKey or machineId not found\"}"}
+
+WARN 2019-06-26 15:32:36,687 [15]
+Failed to update licence from server: A web error occured when updating your licence. Please try again
+
+
+INFO 2019-06-26 15:32:36,737 [1]
+Loaded Chrome Embedded Framework
+
+
+INFO 2019-06-26 15:32:36,800 [1]
+Initialised Chrome Embedded Framework
+
+
+INFO 2019-06-26 15:32:36,824 [1]
+Failed to load the following font: No se puede convertir FontFamilyConverter desde System.String.
+{"FailedFont":""}
+
+INFO 2019-06-26 15:32:37,170 [1]
+Failed to load the following font:HelveticaNeueLT Std 
+{"FailedFont":"HelveticaNeueLT Std"}
+
+INFO 2019-06-26 15:32:37,171 [1]
+Failed to load the following font:HelveticaNeueLT Std Blk 
+{"FailedFont":"HelveticaNeueLT Std Blk"}
+
+INFO 2019-06-26 15:32:37,171 [1]
+Failed to load the following font:HelveticaNeueLT Std Cn 
+{"FailedFont":"HelveticaNeueLT Std Cn"}
+
+INFO 2019-06-26 15:32:37,172 [1]
+Failed to load the following font:HelveticaNeueLT Std Lt 
+{"FailedFont":"HelveticaNeueLT Std Lt"}
+
+INFO 2019-06-26 15:32:37,442 [1]
+Loaded 179 fonts successfully
+
+
+WARN 2019-06-26 15:32:37,512 [1]
+Could not load database
+{"databaseLocation:":"C:\\Users\\Febe\\Downloads\\FreeWorshipPortable_3.4.2.171\\Data\\","Exception":{"ClassName":"System.InvalidOperationException","Message":"Error del método con código de error inesperado 3.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.Security.AccessControl.NativeObjectSecurity.CreateInternal(ResourceType resourceType, Boolean isContainer, String name, SafeHandle handle, AccessControlSections includeSections, Boolean createByName, ExceptionFromErrorCode exceptionFromErrorCode, Object exceptionContext)\r\n   en System.Security.AccessControl.FileSystemSecurity..ctor(Boolean isContainer, String name, AccessControlSections includeSections, Boolean isDirectory)\r\n   en System.Security.AccessControl.DirectorySecurity..ctor(String name, AccessControlSections includeSections)\r\n   en FreeWorship.Model.Model.LoadDatabase()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nCreateInternal\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.Security.AccessControl.NativeObjectSecurity\nSystem.Security.AccessControl.CommonSecurityDescriptor CreateInternal(System.Security.AccessControl.ResourceType, Boolean, System.String, System.Runtime.InteropServices.SafeHandle, System.Security.AccessControl.AccessControlSections, Boolean, ExceptionFromErrorCode, System.Object)","HResult":-2146233079,"Source":"mscorlib","WatsonBuckets":null}}
+
+ERROR2019-06-26 15:33:10,903 [16]
+Web error updating licence
+{"ResponseCode":403,"ErrorPayload":"{\"ErrorMessage\":\"activationKey or machineId not found\"}"}
+
+WARN 2019-06-26 15:33:10,919 [16]
+Failed to update licence from server: A web error occured when updating your licence. Please try again
+
+
+INFO 2019-06-26 15:33:10,969 [1]
+Loaded Chrome Embedded Framework
+
+
+INFO 2019-06-26 15:33:11,038 [1]
+Initialised Chrome Embedded Framework
+
+
+INFO 2019-06-26 15:33:11,075 [1]
+Failed to load the following font: No se puede convertir FontFamilyConverter desde System.String.
+{"FailedFont":""}
+
+INFO 2019-06-26 15:33:11,436 [1]
+Failed to load the following font:HelveticaNeueLT Std 
+{"FailedFont":"HelveticaNeueLT Std"}
+
+INFO 2019-06-26 15:33:11,438 [1]
+Failed to load the following font:HelveticaNeueLT Std Blk 
+{"FailedFont":"HelveticaNeueLT Std Blk"}
+
+INFO 2019-06-26 15:33:11,439 [1]
+Failed to load the following font:HelveticaNeueLT Std Cn 
+{"FailedFont":"HelveticaNeueLT Std Cn"}
+
+INFO 2019-06-26 15:33:11,439 [1]
+Failed to load the following font:HelveticaNeueLT Std Lt 
+{"FailedFont":"HelveticaNeueLT Std Lt"}
+
+INFO 2019-06-26 15:33:11,765 [1]
+Loaded 179 fonts successfully
+
+
+WARN 2019-06-26 15:33:11,843 [1]
+Could not load database
+{"databaseLocation:":"C:\\Users\\Febe\\Downloads\\FreeWorshipPortable_3.4.2.171\\Data\\","Exception":{"ClassName":"System.InvalidOperationException","Message":"Error del método con código de error inesperado 3.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.Security.AccessControl.NativeObjectSecurity.CreateInternal(ResourceType resourceType, Boolean isContainer, String name, SafeHandle handle, AccessControlSections includeSections, Boolean createByName, ExceptionFromErrorCode exceptionFromErrorCode, Object exceptionContext)\r\n   en System.Security.AccessControl.FileSystemSecurity..ctor(Boolean isContainer, String name, AccessControlSections includeSections, Boolean isDirectory)\r\n   en System.Security.AccessControl.DirectorySecurity..ctor(String name, AccessControlSections includeSections)\r\n   en FreeWorship.Model.Model.LoadDatabase()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nCreateInternal\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.Security.AccessControl.NativeObjectSecurity\nSystem.Security.AccessControl.CommonSecurityDescriptor CreateInternal(System.Security.AccessControl.ResourceType, Boolean, System.String, System.Runtime.InteropServices.SafeHandle, System.Security.AccessControl.AccessControlSections, Boolean, ExceptionFromErrorCode, System.Object)","HResult":-2146233079,"Source":"mscorlib","WatsonBuckets":null}}
+
+INFO 2019-06-26 15:33:34,454 [1]
++++++++++++++++++++++++++++++++++++++
+FreeWorship Version: 3.5.1 x64
+Windows OS Version:10 Home Single Language 64-bit
+Sys Mem:3969MB
+{"FWVersion":"3.5.1","Bitness":" x64","WindowsOSVersion":"10 Home Single Language 64-bit","SystemMemory":"3969MB","SessionId":"1d84e757-dc49-4919-9dd8-15f7b30d9b41"}
+
+INFO 2019-06-26 15:33:34,548 [1]
+SessionID: 1d84e757-dc49-4919-9dd8-15f7b30d9b41
+
+
+DEBUG2019-06-26 15:33:34,548 [1]
+Starting new Icon generation thread ThumbGen452
+
+
+INFO 2019-06-26 15:33:34,985 [1]
+Created Win8.1/Win10 spell checker
+
+
+WARN 2019-06-26 15:33:34,985 [1]
+No spelling dictionaries found in registry
+
+
+INFO 2019-06-26 15:33:35,399 [1]
+Succesfully started PowerPoint 2016
+
+
+DEBUG2019-06-26 15:33:35,489 [1]
+Presentation window's handle is 1311480
+
+
+INFO 2019-06-26 15:33:36,162 [1]
+Loaded settings
+{"Settings":{"IsPortable":true,"StorageFolder":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\","TempFolder":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Temp\\","Version":"3.5.1.183","DatabaseLocation":"C:\\Users\\Febe\\Downloads\\FreeWorshipPortable_3.4.2.171\\Data\\","DefaultDatabaseLocation":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Data\\","RawDatabaseLocation":"C:\\Users\\Febe\\Downloads\\FreeWorshipPortable_3.4.2.171\\Data\\","DisplayMonitor":"[0;0;640;340]","DisplayBounds":"0,0,640,340","UsesCustomDisplay":true,"StageDisplayMonitor":"[0;0;640;340]","StageDisplayBounds":"0,0,640,340","UsesCustomStageDisplay":true,"Songs":{"DefaultStyle":{"ShowVerseNumber":false,"ShowChorusName":false,"ShowVerseName":false,"ShowVerseChorusNamesInCaps":false,"ForceChorusInItalics":false,"Font":{"FontFamily":"Century Gothic","Bold":false,"Italic":false,"FontSize":36.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SaveSongOnQuickEdit":true,"Search":{"Titles":true,"Lyrics":false,"Authors":false,"Themes":false,"Songbooks":true,"Web":false},"Licence":{"Number":0,"Type":0,"Custom":""},"CopyrightDisplay":1,"SongCopyrightToken":"","UseVerseOrderForLyricsList":true,"LinkSongTextStyleToLicence":true,"LinkSongMarginStyleToLicence":true,"DefaultSongLicenceStyle":{"ShowVerseNumber":false,"ShowChorusName":false,"ShowVerseName":false,"ShowVerseChorusNamesInCaps":false,"ForceChorusInItalics":false,"Font":{"FontFamily":"Calibri","Bold":false,"Italic":false,"FontSize":12.0,"FontAlignment":1,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":2,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}}},"Bibles":{"DefaultStyle":{"BibleToUse":"BibliaRVR1960.xml","VerseNums":true,"Name":2,"NamePosition":1,"DisplayBibleName":false,"UseShortName":true,"Font":{"FontFamily":"Century Gothic","Bold":false,"Italic":false,"FontSize":36.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":1.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SelectNum":1,"SearchKeywords":false},"Slides":{"DefaultStyle":{"Font":{"FontFamily":"Calibri","Bold":true,"Italic":false,"FontSize":48.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":10.0,"Top":10.0,"Right":10.0,"Bottom":10.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SlideSetOrder":0,"DefaultTime":"00:00:12","DefaultTimeTicks":120000000},"Media":{"DefaultImageStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultImageBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"DefaultVideoStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultVideoBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"DefaultStreamStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultStreamBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"VideoPreviewLevel":2,"BackgroundVideoVolumeEnabled":false},"DefaultTimeStyle":{"Font":{"FontFamily":"Courier New","Bold":false,"Italic":false,"FontSize":96.0,"FontAlignment":2,"FontColour":{"A":255,"R":0,"G":128,"B":0},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":5.0,"Top":5.0,"Right":5.0,"Bottom":5.0}},"DefaultTimeBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"ClockOverlayEnabled":false,"ClockOverlayStyle":{"Font":{"FontFamily":"Lucida Sans Typewriter","Bold":true,"Italic":false,"FontSize":18.0,"FontAlignment":1,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":0,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":4.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}},"DefaultAlertStyle":{"AlertType":0,"AlertColour":0,"Size":3,"CapitalLetters":false},"DefaultTransition":{"ID":0,"Duration":1.0},"FadeToBlack":1.0,"FadeScreen":1.0,"WindowLayout":{"Maximised":true,"TransitionsOpen":true,"BackgroundsOpen":true,"LowPriorityBackgroundsOpen":false,"TransitionsRowHeight":2.0,"ServiceListRowHeight":3.0,"BackgroundRowHeight":268.34666666666669,"ItemDisplayRowHeight":395.69333333333327,"LeftColumnWidth":347.98494117647067,"CentreColumnWidth":521.97741176470583,"RightColumnWidth":480.0376470588235},"FileBrowserStates":{"MediaForeground":{"Folder":"C:\\Users\\Febe\\Downloads","Zoom":75.0},"MediaBackground":{"Folder":"C:\\Users\\Febe\\Downloads","Zoom":77.999999999999972},"Powerpoint":{"Folder":"...\\","Zoom":75.0},"SongImporter":{"Folder":"...\\Songs","Zoom":75.0},"BibleImporter":{"Folder":"...\\Bibles","Zoom":75.0}},"LogoPath":"Default","LogoFillType":3,"DisplayMargins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0},"StageDisplayMargins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0},"Language":"es","LastExportSettings":{"Format":0,"FontSize":12.0,"FullItems":true,"SongVerseNums":false,"SongCopyrightPosition":"Bottom"},"StageDisplayConfiguration":{"Enabled":true,"TopMargin":0.2,"RightMargin":0.3},"BasicMode":{"Enabled":false,"HideTransitions":true,"HideBackgrounds":true,"HideStyling":true,"HideUserManagement":true,"DisablePreferences":false,"TransitionsHidden":false,"BackgroundsHidden":false,"StylingHidden":false,"UserManagementHidden":false,"PreferencesDisabled":false},"AutoApplyPreview":false,"DontSelectNextVerse":false,"DefaultBasherMode":0,"DevelopmentUpdates":false,"Skin":".\\Resources\\Skins\\Beach\\Skin.xaml","ReportErrorsOnStartup":true,"IncludeErrorScreenshot":true,"ShowPresentationDisplayOnStartup":true,"ReportErrors":false,"ReportErrorsOnly":false,"ReportAnonymously":false,"MaxLogsToUploadAtOnce":100,"LogUploadPeriodInMiliseconds":30000,"ErrorReportingNotSet":false}}
+
+INFO 2019-06-26 15:33:36,452 [8]
+Updating licence from server
+
+
+ERROR2019-06-26 15:33:39,093 [16]
+Web error updating licence
+{"ResponseCode":403,"ErrorPayload":"{\"ErrorMessage\":\"activationKey or machineId not found\"}"}
+
+WARN 2019-06-26 15:33:39,099 [16]
+Failed to update licence from server: A web error occured when updating your licence. Please try again
+
+
+INFO 2019-06-26 15:33:39,149 [1]
+Loaded Chrome Embedded Framework
+
+
+INFO 2019-06-26 15:33:39,212 [1]
+Initialised Chrome Embedded Framework
+
+
+INFO 2019-06-26 15:33:39,237 [1]
+Failed to load the following font: No se puede convertir FontFamilyConverter desde System.String.
+{"FailedFont":""}
+
+INFO 2019-06-26 15:33:39,561 [1]
+Failed to load the following font:HelveticaNeueLT Std 
+{"FailedFont":"HelveticaNeueLT Std"}
+
+INFO 2019-06-26 15:33:39,562 [1]
+Failed to load the following font:HelveticaNeueLT Std Blk 
+{"FailedFont":"HelveticaNeueLT Std Blk"}
+
+INFO 2019-06-26 15:33:39,563 [1]
+Failed to load the following font:HelveticaNeueLT Std Cn 
+{"FailedFont":"HelveticaNeueLT Std Cn"}
+
+INFO 2019-06-26 15:33:39,563 [1]
+Failed to load the following font:HelveticaNeueLT Std Lt 
+{"FailedFont":"HelveticaNeueLT Std Lt"}
+
+INFO 2019-06-26 15:33:39,840 [1]
+Loaded 179 fonts successfully
+
+
+WARN 2019-06-26 15:33:39,913 [1]
+Could not load database
+{"databaseLocation:":"C:\\Users\\Febe\\Downloads\\FreeWorshipPortable_3.4.2.171\\Data\\","Exception":{"ClassName":"System.InvalidOperationException","Message":"Error del método con código de error inesperado 3.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.Security.AccessControl.NativeObjectSecurity.CreateInternal(ResourceType resourceType, Boolean isContainer, String name, SafeHandle handle, AccessControlSections includeSections, Boolean createByName, ExceptionFromErrorCode exceptionFromErrorCode, Object exceptionContext)\r\n   en System.Security.AccessControl.FileSystemSecurity..ctor(Boolean isContainer, String name, AccessControlSections includeSections, Boolean isDirectory)\r\n   en System.Security.AccessControl.DirectorySecurity..ctor(String name, AccessControlSections includeSections)\r\n   en FreeWorship.Model.Model.LoadDatabase()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nCreateInternal\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.Security.AccessControl.NativeObjectSecurity\nSystem.Security.AccessControl.CommonSecurityDescriptor CreateInternal(System.Security.AccessControl.ResourceType, Boolean, System.String, System.Runtime.InteropServices.SafeHandle, System.Security.AccessControl.AccessControlSections, Boolean, ExceptionFromErrorCode, System.Object)","HResult":-2146233079,"Source":"mscorlib","WatsonBuckets":null}}
+
+INFO 2019-06-26 15:34:02,701 [1]
++++++++++++++++++++++++++++++++++++++
+FreeWorship Version: 3.5.1 x64
+Windows OS Version:10 Home Single Language 64-bit
+Sys Mem:3969MB
+{"FWVersion":"3.5.1","Bitness":" x64","WindowsOSVersion":"10 Home Single Language 64-bit","SystemMemory":"3969MB","SessionId":"2e2e61be-ce7b-4bba-9a82-e220e976648c"}
+
+INFO 2019-06-26 15:34:02,842 [1]
+SessionID: 2e2e61be-ce7b-4bba-9a82-e220e976648c
+
+
+DEBUG2019-06-26 15:34:02,857 [1]
+Starting new Icon generation thread ThumbGen9506
+
+
+INFO 2019-06-26 15:34:03,264 [1]
+Created Win8.1/Win10 spell checker
+
+
+WARN 2019-06-26 15:34:03,264 [1]
+No spelling dictionaries found in registry
+
+
+WARN 2019-06-26 15:34:34,762 [1]
+Error starting PowerPoint
+
+
+WARN 2019-06-26 15:34:34,837 [1]
+
+{"Exception":{"ClassName":"System.Runtime.InteropServices.COMException","Message":"No se pudo recuperar el generador de clases COM para el componente con CLSID {91493441-5A91-11CF-8700-00AA0060263B} debido al siguiente error: 80080005 Error en la ejecución de servidor (Excepción de HRESULT: 0x80080005 (CO_E_SERVER_EXEC_FAILURE)).","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.Runtime.Remoting.RemotingServices.AllocateUninitializedObject(RuntimeType objectType)\r\n   en System.Runtime.Remoting.Activation.ActivationServices.CreateInstance(RuntimeType serverType)\r\n   en System.Runtime.Remoting.Activation.ActivationServices.IsCurrentContextOK(RuntimeType serverType, Object[] props, Boolean bNewObj)\r\n   en System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)\r\n   en System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)\r\n   en System.Activator.CreateInstance(Type type, Boolean nonPublic)\r\n   en System.Activator.CreateInstance(Type type)\r\n   en NetOffice.COMObject.CreateFromProgId(String progId)\r\n   en NetOffice.COMObject..ctor(String progId)\r\n   en NetOffice.PowerPointApi.Application..ctor()\r\n   en FreeWorship.Libraries.PowerPoint.PowerpointController.StartPowerPointApplication()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nAllocateUninitializedObject\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.Runtime.Remoting.RemotingServices\nSystem.MarshalByRefObject AllocateUninitializedObject(System.RuntimeType)","HResult":-2146959355,"Source":"mscorlib","WatsonBuckets":null}}
+
+DEBUG2019-06-26 15:34:35,071 [1]
+Presentation window's handle is 1311102
+
+
+INFO 2019-06-26 15:34:35,639 [1]
+Loaded settings
+{"Settings":{"IsPortable":true,"StorageFolder":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\","TempFolder":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Temp\\","Version":"3.5.1.183","DatabaseLocation":"C:\\Users\\Febe\\Downloads\\FreeWorshipPortable_3.4.2.171\\Data\\","DefaultDatabaseLocation":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Data\\","RawDatabaseLocation":"C:\\Users\\Febe\\Downloads\\FreeWorshipPortable_3.4.2.171\\Data\\","DisplayMonitor":"[0;0;640;340]","DisplayBounds":"0,0,640,340","UsesCustomDisplay":true,"StageDisplayMonitor":"[0;0;640;340]","StageDisplayBounds":"0,0,640,340","UsesCustomStageDisplay":true,"Songs":{"DefaultStyle":{"ShowVerseNumber":false,"ShowChorusName":false,"ShowVerseName":false,"ShowVerseChorusNamesInCaps":false,"ForceChorusInItalics":false,"Font":{"FontFamily":"Century Gothic","Bold":false,"Italic":false,"FontSize":36.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SaveSongOnQuickEdit":true,"Search":{"Titles":true,"Lyrics":false,"Authors":false,"Themes":false,"Songbooks":true,"Web":false},"Licence":{"Number":0,"Type":0,"Custom":""},"CopyrightDisplay":1,"SongCopyrightToken":"","UseVerseOrderForLyricsList":true,"LinkSongTextStyleToLicence":true,"LinkSongMarginStyleToLicence":true,"DefaultSongLicenceStyle":{"ShowVerseNumber":false,"ShowChorusName":false,"ShowVerseName":false,"ShowVerseChorusNamesInCaps":false,"ForceChorusInItalics":false,"Font":{"FontFamily":"Calibri","Bold":false,"Italic":false,"FontSize":12.0,"FontAlignment":1,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":2,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}}},"Bibles":{"DefaultStyle":{"BibleToUse":"BibliaRVR1960.xml","VerseNums":true,"Name":2,"NamePosition":1,"DisplayBibleName":false,"UseShortName":true,"Font":{"FontFamily":"Century Gothic","Bold":false,"Italic":false,"FontSize":36.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":1.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SelectNum":1,"SearchKeywords":false},"Slides":{"DefaultStyle":{"Font":{"FontFamily":"Calibri","Bold":true,"Italic":false,"FontSize":48.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":10.0,"Top":10.0,"Right":10.0,"Bottom":10.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SlideSetOrder":0,"DefaultTime":"00:00:12","DefaultTimeTicks":120000000},"Media":{"DefaultImageStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultImageBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"DefaultVideoStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultVideoBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"DefaultStreamStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultStreamBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"VideoPreviewLevel":2,"BackgroundVideoVolumeEnabled":false},"DefaultTimeStyle":{"Font":{"FontFamily":"Courier New","Bold":false,"Italic":false,"FontSize":96.0,"FontAlignment":2,"FontColour":{"A":255,"R":0,"G":128,"B":0},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":5.0,"Top":5.0,"Right":5.0,"Bottom":5.0}},"DefaultTimeBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"ClockOverlayEnabled":false,"ClockOverlayStyle":{"Font":{"FontFamily":"Lucida Sans Typewriter","Bold":true,"Italic":false,"FontSize":18.0,"FontAlignment":1,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":0,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":4.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}},"DefaultAlertStyle":{"AlertType":0,"AlertColour":0,"Size":3,"CapitalLetters":false},"DefaultTransition":{"ID":0,"Duration":1.0},"FadeToBlack":1.0,"FadeScreen":1.0,"WindowLayout":{"Maximised":true,"TransitionsOpen":true,"BackgroundsOpen":true,"LowPriorityBackgroundsOpen":false,"TransitionsRowHeight":2.0,"ServiceListRowHeight":3.0,"BackgroundRowHeight":268.34666666666669,"ItemDisplayRowHeight":395.69333333333327,"LeftColumnWidth":347.98494117647067,"CentreColumnWidth":521.97741176470583,"RightColumnWidth":480.0376470588235},"FileBrowserStates":{"MediaForeground":{"Folder":"C:\\Users\\Febe\\Downloads","Zoom":75.0},"MediaBackground":{"Folder":"C:\\Users\\Febe\\Downloads","Zoom":77.999999999999972},"Powerpoint":{"Folder":"...\\","Zoom":75.0},"SongImporter":{"Folder":"...\\Songs","Zoom":75.0},"BibleImporter":{"Folder":"...\\Bibles","Zoom":75.0}},"LogoPath":"Default","LogoFillType":3,"DisplayMargins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0},"StageDisplayMargins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0},"Language":"es","LastExportSettings":{"Format":0,"FontSize":12.0,"FullItems":true,"SongVerseNums":false,"SongCopyrightPosition":"Bottom"},"StageDisplayConfiguration":{"Enabled":true,"TopMargin":0.2,"RightMargin":0.3},"BasicMode":{"Enabled":false,"HideTransitions":true,"HideBackgrounds":true,"HideStyling":true,"HideUserManagement":true,"DisablePreferences":false,"TransitionsHidden":false,"BackgroundsHidden":false,"StylingHidden":false,"UserManagementHidden":false,"PreferencesDisabled":false},"AutoApplyPreview":false,"DontSelectNextVerse":false,"DefaultBasherMode":0,"DevelopmentUpdates":false,"Skin":".\\Resources\\Skins\\Beach\\Skin.xaml","ReportErrorsOnStartup":true,"IncludeErrorScreenshot":true,"ShowPresentationDisplayOnStartup":true,"ReportErrors":false,"ReportErrorsOnly":false,"ReportAnonymously":false,"MaxLogsToUploadAtOnce":100,"LogUploadPeriodInMiliseconds":30000,"ErrorReportingNotSet":false}}
+
+INFO 2019-06-26 15:34:36,033 [9]
+Updating licence from server
+
+
+ERROR2019-06-26 15:34:38,956 [14]
+Web error updating licence
+{"ResponseCode":403,"ErrorPayload":"{\"ErrorMessage\":\"activationKey or machineId not found\"}"}
+
+WARN 2019-06-26 15:34:38,993 [14]
+Failed to update licence from server: A web error occured when updating your licence. Please try again
+
+
+INFO 2019-06-26 15:34:39,069 [1]
+Loaded Chrome Embedded Framework
+
+
+INFO 2019-06-26 15:34:39,224 [1]
+Initialised Chrome Embedded Framework
+
+
+INFO 2019-06-26 15:34:39,275 [1]
+Failed to load the following font: No se puede convertir FontFamilyConverter desde System.String.
+{"FailedFont":""}
+
+INFO 2019-06-26 15:34:39,560 [1]
+Failed to load the following font:HelveticaNeueLT Std 
+{"FailedFont":"HelveticaNeueLT Std"}
+
+INFO 2019-06-26 15:34:39,561 [1]
+Failed to load the following font:HelveticaNeueLT Std Blk 
+{"FailedFont":"HelveticaNeueLT Std Blk"}
+
+INFO 2019-06-26 15:34:39,561 [1]
+Failed to load the following font:HelveticaNeueLT Std Cn 
+{"FailedFont":"HelveticaNeueLT Std Cn"}
+
+INFO 2019-06-26 15:34:39,561 [1]
+Failed to load the following font:HelveticaNeueLT Std Lt 
+{"FailedFont":"HelveticaNeueLT Std Lt"}
+
+INFO 2019-06-26 15:34:39,905 [1]
+Loaded 179 fonts successfully
+
+
+WARN 2019-06-26 15:34:39,963 [1]
+Could not load database
+{"databaseLocation:":"C:\\Users\\Febe\\Downloads\\FreeWorshipPortable_3.4.2.171\\Data\\","Exception":{"ClassName":"System.InvalidOperationException","Message":"Error del método con código de error inesperado 3.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.Security.AccessControl.NativeObjectSecurity.CreateInternal(ResourceType resourceType, Boolean isContainer, String name, SafeHandle handle, AccessControlSections includeSections, Boolean createByName, ExceptionFromErrorCode exceptionFromErrorCode, Object exceptionContext)\r\n   en System.Security.AccessControl.FileSystemSecurity..ctor(Boolean isContainer, String name, AccessControlSections includeSections, Boolean isDirectory)\r\n   en System.Security.AccessControl.DirectorySecurity..ctor(String name, AccessControlSections includeSections)\r\n   en FreeWorship.Model.Model.LoadDatabase()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nCreateInternal\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.Security.AccessControl.NativeObjectSecurity\nSystem.Security.AccessControl.CommonSecurityDescriptor CreateInternal(System.Security.AccessControl.ResourceType, Boolean, System.String, System.Runtime.InteropServices.SafeHandle, System.Security.AccessControl.AccessControlSections, Boolean, ExceptionFromErrorCode, System.Object)","HResult":-2146233079,"Source":"mscorlib","WatsonBuckets":null}}
+
+INFO 2019-06-26 15:34:57,954 [1]
+Songs Database loaded with 728 items
+
+
+DEBUG2019-06-26 15:34:58,069 [1]
+Importing chapters from Genesis
+
+
+DEBUG2019-06-26 15:34:58,079 [1]
+Importing chapters from Exodus
+
+
+DEBUG2019-06-26 15:34:58,084 [1]
+Importing chapters from Leviticus
+
+
+DEBUG2019-06-26 15:34:58,084 [1]
+Importing chapters from Numbers
+
+
+DEBUG2019-06-26 15:34:58,089 [1]
+Importing chapters from Deuteronomy
+
+
+DEBUG2019-06-26 15:34:58,094 [1]
+Importing chapters from Joshua
+
+
+DEBUG2019-06-26 15:34:58,094 [1]
+Importing chapters from Judges
+
+
+DEBUG2019-06-26 15:34:58,094 [1]
+Importing chapters from Ruth
+
+
+DEBUG2019-06-26 15:34:58,099 [1]
+Importing chapters from 1 Samuel
+
+
+DEBUG2019-06-26 15:34:58,099 [1]
+Importing chapters from 2 Samuel
+
+
+DEBUG2019-06-26 15:34:58,104 [1]
+Importing chapters from 1 Kings
+
+
+DEBUG2019-06-26 15:34:58,109 [1]
+Importing chapters from 2 Kings
+
+
+DEBUG2019-06-26 15:34:58,109 [1]
+Importing chapters from 1 Chronicles
+
+
+DEBUG2019-06-26 15:34:58,114 [1]
+Importing chapters from 2 Chronicles
+
+
+DEBUG2019-06-26 15:34:58,114 [1]
+Importing chapters from Ezra
+
+
+DEBUG2019-06-26 15:34:58,129 [1]
+Importing chapters from Nehemiah
+
+
+DEBUG2019-06-26 15:34:58,129 [1]
+Importing chapters from Esther
+
+
+DEBUG2019-06-26 15:34:58,134 [1]
+Importing chapters from Job
+
+
+DEBUG2019-06-26 15:34:58,134 [1]
+Importing chapters from Psalm
+
+
+DEBUG2019-06-26 15:34:58,139 [1]
+Importing chapters from Proverbs
+
+
+DEBUG2019-06-26 15:34:58,139 [1]
+Importing chapters from Ecclesiastes
+
+
+DEBUG2019-06-26 15:34:58,139 [1]
+Importing chapters from Song of Solomon
+
+
+DEBUG2019-06-26 15:34:58,144 [1]
+Importing chapters from Isaiah
+
+
+DEBUG2019-06-26 15:34:58,149 [1]
+Importing chapters from Jeremiah
+
+
+DEBUG2019-06-26 15:34:58,149 [1]
+Importing chapters from Lamentations
+
+
+DEBUG2019-06-26 15:34:58,154 [1]
+Importing chapters from Ezekiel
+
+
+DEBUG2019-06-26 15:34:58,154 [1]
+Importing chapters from Daniel
+
+
+DEBUG2019-06-26 15:34:58,159 [1]
+Importing chapters from Hosea
+
+
+DEBUG2019-06-26 15:34:58,159 [1]
+Importing chapters from Joel
+
+
+DEBUG2019-06-26 15:34:58,159 [1]
+Importing chapters from Amos
+
+
+DEBUG2019-06-26 15:34:58,159 [1]
+Importing chapters from Obadiah
+
+
+DEBUG2019-06-26 15:34:58,159 [1]
+Importing chapters from Jonah
+
+
+DEBUG2019-06-26 15:34:58,159 [1]
+Importing chapters from Micah
+
+
+DEBUG2019-06-26 15:34:58,169 [1]
+Importing chapters from Nahum
+
+
+DEBUG2019-06-26 15:34:58,169 [1]
+Importing chapters from Habakkuk
+
+
+DEBUG2019-06-26 15:34:58,169 [1]
+Importing chapters from Zephaniah
+
+
+DEBUG2019-06-26 15:34:58,194 [1]
+Importing chapters from Haggai
+
+
+DEBUG2019-06-26 15:34:58,194 [1]
+Importing chapters from Zechariah
+
+
+DEBUG2019-06-26 15:34:58,199 [1]
+Importing chapters from Malachi
+
+
+DEBUG2019-06-26 15:34:58,199 [1]
+Importing chapters from Matthew
+
+
+DEBUG2019-06-26 15:34:58,204 [1]
+Importing chapters from Mark
+
+
+DEBUG2019-06-26 15:34:58,204 [1]
+Importing chapters from Luke
+
+
+DEBUG2019-06-26 15:34:58,209 [1]
+Importing chapters from John
+
+
+DEBUG2019-06-26 15:34:58,209 [1]
+Importing chapters from Acts
+
+
+DEBUG2019-06-26 15:34:58,219 [1]
+Importing chapters from Romans
+
+
+DEBUG2019-06-26 15:34:58,219 [1]
+Importing chapters from 1 Corinthians
+
+
+DEBUG2019-06-26 15:34:58,219 [1]
+Importing chapters from 2 Corinthians
+
+
+DEBUG2019-06-26 15:34:58,224 [1]
+Importing chapters from Galatians
+
+
+DEBUG2019-06-26 15:34:58,224 [1]
+Importing chapters from Ephesians
+
+
+DEBUG2019-06-26 15:34:58,224 [1]
+Importing chapters from Philippians
+
+
+DEBUG2019-06-26 15:34:58,224 [1]
+Importing chapters from Colossians
+
+
+DEBUG2019-06-26 15:34:58,224 [1]
+Importing chapters from 1 Thessalonians
+
+
+DEBUG2019-06-26 15:34:58,224 [1]
+Importing chapters from 2 Thessalonians
+
+
+DEBUG2019-06-26 15:34:58,224 [1]
+Importing chapters from 1 Timothy
+
+
+DEBUG2019-06-26 15:34:58,229 [1]
+Importing chapters from 2 Timothy
+
+
+DEBUG2019-06-26 15:34:58,229 [1]
+Importing chapters from Titus
+
+
+DEBUG2019-06-26 15:34:58,234 [1]
+Importing chapters from Philemon
+
+
+DEBUG2019-06-26 15:34:58,234 [1]
+Importing chapters from Hebrews
+
+
+DEBUG2019-06-26 15:34:58,234 [1]
+Importing chapters from James
+
+
+DEBUG2019-06-26 15:34:58,234 [1]
+Importing chapters from 1 Peter
+
+
+DEBUG2019-06-26 15:34:58,234 [1]
+Importing chapters from 2 Peter
+
+
+DEBUG2019-06-26 15:34:58,239 [1]
+Importing chapters from 1 John
+
+
+DEBUG2019-06-26 15:34:58,239 [1]
+Importing chapters from 2 John
+
+
+DEBUG2019-06-26 15:34:58,239 [1]
+Importing chapters from 3 John
+
+
+DEBUG2019-06-26 15:34:58,239 [1]
+Importing chapters from Jude
+
+
+DEBUG2019-06-26 15:34:58,254 [1]
+Importing chapters from Revelation
+
+
+DEBUG2019-06-26 15:34:58,369 [1]
+Importing chapters from Génesis
+
+
+DEBUG2019-06-26 15:34:58,374 [1]
+Importing chapters from Éxodo
+
+
+DEBUG2019-06-26 15:34:58,389 [1]
+Importing chapters from Levítico
+
+
+DEBUG2019-06-26 15:34:58,389 [1]
+Importing chapters from Números
+
+
+DEBUG2019-06-26 15:34:58,394 [1]
+Importing chapters from Deuteronomio
+
+
+DEBUG2019-06-26 15:34:58,394 [1]
+Importing chapters from Josué
+
+
+DEBUG2019-06-26 15:34:58,399 [1]
+Importing chapters from Jueces
+
+
+DEBUG2019-06-26 15:34:58,399 [1]
+Importing chapters from Rut
+
+
+DEBUG2019-06-26 15:34:58,399 [1]
+Importing chapters from 1 Samuel
+
+
+DEBUG2019-06-26 15:34:58,404 [1]
+Importing chapters from 2 Samuel
+
+
+DEBUG2019-06-26 15:34:58,404 [1]
+Importing chapters from 1 Reyes
+
+
+DEBUG2019-06-26 15:34:58,409 [1]
+Importing chapters from 2 Reyes
+
+
+DEBUG2019-06-26 15:34:58,414 [1]
+Importing chapters from 1 Crónicas
+
+
+DEBUG2019-06-26 15:34:58,429 [1]
+Importing chapters from 2 Crónicas
+
+
+DEBUG2019-06-26 15:34:58,429 [1]
+Importing chapters from Esdras
+
+
+DEBUG2019-06-26 15:34:58,434 [1]
+Importing chapters from Nehemías
+
+
+DEBUG2019-06-26 15:34:58,434 [1]
+Importing chapters from Ester
+
+
+DEBUG2019-06-26 15:34:58,434 [1]
+Importing chapters from Job
+
+
+DEBUG2019-06-26 15:34:58,439 [1]
+Importing chapters from Salmos
+
+
+DEBUG2019-06-26 15:34:58,444 [1]
+Importing chapters from Proverbios
+
+
+DEBUG2019-06-26 15:34:58,444 [1]
+Importing chapters from Eclesiastés
+
+
+DEBUG2019-06-26 15:34:58,449 [1]
+Importing chapters from Cantares
+
+
+DEBUG2019-06-26 15:34:58,454 [1]
+Importing chapters from Isaías
+
+
+DEBUG2019-06-26 15:34:58,454 [1]
+Importing chapters from Jeremías
+
+
+DEBUG2019-06-26 15:34:58,459 [1]
+Importing chapters from Lamentaciones
+
+
+DEBUG2019-06-26 15:34:58,459 [1]
+Importing chapters from Ezequiel
+
+
+DEBUG2019-06-26 15:34:58,464 [1]
+Importing chapters from Daniel
+
+
+DEBUG2019-06-26 15:34:58,479 [1]
+Importing chapters from Oseas
+
+
+DEBUG2019-06-26 15:34:58,479 [1]
+Importing chapters from Joel
+
+
+DEBUG2019-06-26 15:34:58,479 [1]
+Importing chapters from Amós
+
+
+DEBUG2019-06-26 15:34:58,479 [1]
+Importing chapters from Abdías
+
+
+DEBUG2019-06-26 15:34:58,484 [1]
+Importing chapters from Jonás
+
+
+DEBUG2019-06-26 15:34:58,484 [1]
+Importing chapters from Miqueas
+
+
+DEBUG2019-06-26 15:34:58,484 [1]
+Importing chapters from Nahúm
+
+
+DEBUG2019-06-26 15:34:58,489 [1]
+Importing chapters from Habacuc
+
+
+DEBUG2019-06-26 15:34:58,489 [1]
+Importing chapters from Sofonías
+
+
+DEBUG2019-06-26 15:34:58,489 [1]
+Importing chapters from Hageo
+
+
+DEBUG2019-06-26 15:34:58,489 [1]
+Importing chapters from Zacarías
+
+
+DEBUG2019-06-26 15:34:58,489 [1]
+Importing chapters from Malaquías
+
+
+DEBUG2019-06-26 15:34:58,489 [1]
+Importing chapters from Mateo
+
+
+DEBUG2019-06-26 15:34:58,493 [1]
+Importing chapters from Marcos
+
+
+DEBUG2019-06-26 15:34:58,493 [1]
+Importing chapters from Lucas
+
+
+DEBUG2019-06-26 15:34:58,498 [1]
+Importing chapters from Juan
+
+
+DEBUG2019-06-26 15:34:58,498 [1]
+Importing chapters from Hechos
+
+
+DEBUG2019-06-26 15:34:58,503 [1]
+Importing chapters from Romanos
+
+
+DEBUG2019-06-26 15:34:58,508 [1]
+Importing chapters from 1 Corintios
+
+
+DEBUG2019-06-26 15:34:58,508 [1]
+Importing chapters from 2 Corintios
+
+
+DEBUG2019-06-26 15:34:58,513 [1]
+Importing chapters from Gálatas
+
+
+DEBUG2019-06-26 15:34:58,513 [1]
+Importing chapters from Efesios
+
+
+DEBUG2019-06-26 15:34:58,513 [1]
+Importing chapters from Filipenses
+
+
+DEBUG2019-06-26 15:34:58,513 [1]
+Importing chapters from Colosenses
+
+
+DEBUG2019-06-26 15:34:58,513 [1]
+Importing chapters from 1 Tesalonicenses
+
+
+DEBUG2019-06-26 15:34:58,518 [1]
+Importing chapters from 2 Tesalonicenses
+
+
+DEBUG2019-06-26 15:34:58,518 [1]
+Importing chapters from 1 Timoteo
+
+
+DEBUG2019-06-26 15:34:58,518 [1]
+Importing chapters from 2 Timoteo
+
+
+DEBUG2019-06-26 15:34:58,534 [1]
+Importing chapters from Tito
+
+
+DEBUG2019-06-26 15:34:58,534 [1]
+Importing chapters from Filemón
+
+
+DEBUG2019-06-26 15:34:58,534 [1]
+Importing chapters from Hebreos
+
+
+DEBUG2019-06-26 15:34:58,539 [1]
+Importing chapters from Santiago
+
+
+DEBUG2019-06-26 15:34:58,539 [1]
+Importing chapters from 1 Pedro
+
+
+DEBUG2019-06-26 15:34:58,539 [1]
+Importing chapters from 2 Pedro
+
+
+DEBUG2019-06-26 15:34:58,539 [1]
+Importing chapters from 1 Juan
+
+
+DEBUG2019-06-26 15:34:58,539 [1]
+Importing chapters from 2 Juan
+
+
+DEBUG2019-06-26 15:34:58,539 [1]
+Importing chapters from 3 Juan
+
+
+DEBUG2019-06-26 15:34:58,539 [1]
+Importing chapters from Judas
+
+
+DEBUG2019-06-26 15:34:58,539 [1]
+Importing chapters from Apocalipsis
+
+
+DEBUG2019-06-26 15:34:58,663 [1]
+Importing chapters from Genesis
+
+
+DEBUG2019-06-26 15:34:58,668 [1]
+Importing chapters from Exodus
+
+
+DEBUG2019-06-26 15:34:58,668 [1]
+Importing chapters from Leviticus
+
+
+DEBUG2019-06-26 15:34:58,673 [1]
+Importing chapters from Numbers
+
+
+DEBUG2019-06-26 15:34:58,673 [1]
+Importing chapters from Deuteronomy
+
+
+DEBUG2019-06-26 15:34:58,678 [1]
+Importing chapters from Joshua
+
+
+DEBUG2019-06-26 15:34:58,678 [1]
+Importing chapters from Judges
+
+
+DEBUG2019-06-26 15:34:58,683 [1]
+Importing chapters from Ruth
+
+
+DEBUG2019-06-26 15:34:58,683 [1]
+Importing chapters from 1 Samuel
+
+
+DEBUG2019-06-26 15:34:58,688 [1]
+Importing chapters from 2 Samuel
+
+
+DEBUG2019-06-26 15:34:58,688 [1]
+Importing chapters from 1 Kings
+
+
+DEBUG2019-06-26 15:34:58,693 [1]
+Importing chapters from 2 Kings
+
+
+DEBUG2019-06-26 15:34:58,698 [1]
+Importing chapters from 1 Chronicles
+
+
+DEBUG2019-06-26 15:34:58,698 [1]
+Importing chapters from 2 Chronicles
+
+
+DEBUG2019-06-26 15:34:58,713 [1]
+Importing chapters from Ezra
+
+
+DEBUG2019-06-26 15:34:58,713 [1]
+Importing chapters from Nehemiah
+
+
+DEBUG2019-06-26 15:34:58,718 [1]
+Importing chapters from Esther
+
+
+DEBUG2019-06-26 15:34:58,718 [1]
+Importing chapters from Job
+
+
+DEBUG2019-06-26 15:34:58,718 [1]
+Importing chapters from Psalm
+
+
+DEBUG2019-06-26 15:34:58,723 [1]
+Importing chapters from Proverbs
+
+
+DEBUG2019-06-26 15:34:58,723 [1]
+Importing chapters from Ecclesiastes
+
+
+DEBUG2019-06-26 15:34:58,723 [1]
+Importing chapters from Song of Solomon
+
+
+DEBUG2019-06-26 15:34:58,728 [1]
+Importing chapters from Isaiah
+
+
+DEBUG2019-06-26 15:34:58,733 [1]
+Importing chapters from Jeremiah
+
+
+DEBUG2019-06-26 15:34:58,738 [1]
+Importing chapters from Lamentations
+
+
+DEBUG2019-06-26 15:34:58,738 [1]
+Importing chapters from Ezekiel
+
+
+DEBUG2019-06-26 15:34:58,738 [1]
+Importing chapters from Daniel
+
+
+DEBUG2019-06-26 15:34:58,743 [1]
+Importing chapters from Hosea
+
+
+DEBUG2019-06-26 15:34:58,743 [1]
+Importing chapters from Joel
+
+
+DEBUG2019-06-26 15:34:58,743 [1]
+Importing chapters from Amos
+
+
+DEBUG2019-06-26 15:34:58,743 [1]
+Importing chapters from Obadiah
+
+
+DEBUG2019-06-26 15:34:58,743 [1]
+Importing chapters from Jonah
+
+
+DEBUG2019-06-26 15:34:58,748 [1]
+Importing chapters from Micah
+
+
+DEBUG2019-06-26 15:34:58,748 [1]
+Importing chapters from Nahum
+
+
+DEBUG2019-06-26 15:34:58,753 [1]
+Importing chapters from Habakkuk
+
+
+DEBUG2019-06-26 15:34:58,753 [1]
+Importing chapters from Zephaniah
+
+
+DEBUG2019-06-26 15:34:58,768 [1]
+Importing chapters from Haggai
+
+
+DEBUG2019-06-26 15:34:58,768 [1]
+Importing chapters from Zechariah
+
+
+DEBUG2019-06-26 15:34:58,768 [1]
+Importing chapters from Malachi
+
+
+DEBUG2019-06-26 15:34:58,768 [1]
+Importing chapters from Matthew
+
+
+DEBUG2019-06-26 15:34:58,773 [1]
+Importing chapters from Mark
+
+
+DEBUG2019-06-26 15:34:58,773 [1]
+Importing chapters from Luke
+
+
+DEBUG2019-06-26 15:34:58,773 [1]
+Importing chapters from John
+
+
+DEBUG2019-06-26 15:34:58,778 [1]
+Importing chapters from Acts
+
+
+DEBUG2019-06-26 15:34:58,783 [1]
+Importing chapters from Romans
+
+
+DEBUG2019-06-26 15:34:58,783 [1]
+Importing chapters from 1 Corinthians
+
+
+DEBUG2019-06-26 15:34:58,788 [1]
+Importing chapters from 2 Corinthians
+
+
+DEBUG2019-06-26 15:34:58,788 [1]
+Importing chapters from Galatians
+
+
+DEBUG2019-06-26 15:34:58,788 [1]
+Importing chapters from Ephesians
+
+
+DEBUG2019-06-26 15:34:58,788 [1]
+Importing chapters from Philippians
+
+
+DEBUG2019-06-26 15:34:58,788 [1]
+Importing chapters from Colossians
+
+
+DEBUG2019-06-26 15:34:58,788 [1]
+Importing chapters from 1 Thessalonians
+
+
+DEBUG2019-06-26 15:34:58,793 [1]
+Importing chapters from 2 Thessalonians
+
+
+DEBUG2019-06-26 15:34:58,793 [1]
+Importing chapters from 1 Timothy
+
+
+DEBUG2019-06-26 15:34:58,793 [1]
+Importing chapters from 2 Timothy
+
+
+DEBUG2019-06-26 15:34:58,798 [1]
+Importing chapters from Titus
+
+
+DEBUG2019-06-26 15:34:58,798 [1]
+Importing chapters from Philemon
+
+
+DEBUG2019-06-26 15:34:58,798 [1]
+Importing chapters from Hebrews
+
+
+DEBUG2019-06-26 15:34:58,798 [1]
+Importing chapters from James
+
+
+DEBUG2019-06-26 15:34:58,803 [1]
+Importing chapters from 1 Peter
+
+
+DEBUG2019-06-26 15:34:58,803 [1]
+Importing chapters from 2 Peter
+
+
+DEBUG2019-06-26 15:34:58,803 [1]
+Importing chapters from 1 John
+
+
+DEBUG2019-06-26 15:34:58,803 [1]
+Importing chapters from 2 John
+
+
+DEBUG2019-06-26 15:34:58,803 [1]
+Importing chapters from 3 John
+
+
+DEBUG2019-06-26 15:34:58,803 [1]
+Importing chapters from Jude
+
+
+DEBUG2019-06-26 15:34:58,818 [1]
+Importing chapters from Revelation
+
+
+INFO 2019-06-26 15:34:58,823 [1]
+Bibles Database loaded with 3 items
+
+
+INFO 2019-06-26 15:34:58,923 [1]
+Slides Database loaded with 5 items
+
+
+INFO 2019-06-26 15:35:03,907 [1]
+Checked for updates in 1959 ms
+
+
+INFO 2019-06-26 15:35:03,907 [1]
+Result was NoUpdate
+
+
+DEBUG2019-06-26 15:35:04,427 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-26 15:35:04,432 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-26 15:35:04,437 [1]
+Opening folder 'C:\Users\Febe\Downloads' in file browser
+
+
+INFO 2019-06-26 15:35:04,742 [1]
+Notification Added: It looks like you haven't set up your screens correctly. Would you like FreeWorship to do it for you?
+
+
+INFO 2019-06-26 15:35:19,136 [1]
+Settings written to disk
+
+
+INFO 2019-06-26 15:35:19,141 [1]
+View closed
+
+
+DEBUG2019-06-26 15:35:19,603 [1]
+Closing 0 open presentations
+
+
+DEBUG2019-06-26 15:35:19,603 [1]
+Finished closing all open presentations
+
+
+INFO 2019-06-26 15:35:19,603 [1]
+Closing PowerPoint
+
+
+INFO 2019-06-26 15:35:19,603 [1]
+FreeWorship closed
+-------------------------------------
+
+
+INFO 2019-06-26 15:37:24,006 [1]
++++++++++++++++++++++++++++++++++++++
+FreeWorship Version: 3.5.1 x64
+Windows OS Version:10 Home Single Language 64-bit
+Sys Mem:3969MB
+{"FWVersion":"3.5.1","Bitness":" x64","WindowsOSVersion":"10 Home Single Language 64-bit","SystemMemory":"3969MB","SessionId":"0745ea58-08af-44c4-a09e-a4ea01920c42"}
+
+INFO 2019-06-26 15:37:24,100 [1]
+SessionID: 0745ea58-08af-44c4-a09e-a4ea01920c42
+
+
+DEBUG2019-06-26 15:37:24,100 [1]
+Starting new Icon generation thread ThumbGen2088
+
+
+INFO 2019-06-26 15:37:24,599 [1]
+Created Win8.1/Win10 spell checker
+
+
+WARN 2019-06-26 15:37:24,599 [1]
+No spelling dictionaries found in registry
+
+
+INFO 2019-06-26 15:37:25,187 [1]
+Succesfully started PowerPoint 2016
+
+
+DEBUG2019-06-26 15:37:25,267 [1]
+Presentation window's handle is 656474
+
+
+INFO 2019-06-26 15:37:26,280 [1]
+Loaded settings
+{"Settings":{"IsPortable":true,"StorageFolder":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\","TempFolder":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Temp\\","Version":"3.5.1.183","DatabaseLocation":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Data","DefaultDatabaseLocation":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Data\\","RawDatabaseLocation":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Data","DisplayMonitor":"[0;0;640;340]","DisplayBounds":"0,0,640,340","UsesCustomDisplay":true,"StageDisplayMonitor":"[0;0;640;340]","StageDisplayBounds":"0,0,640,340","UsesCustomStageDisplay":true,"Songs":{"DefaultStyle":{"ShowVerseNumber":false,"ShowChorusName":false,"ShowVerseName":false,"ShowVerseChorusNamesInCaps":false,"ForceChorusInItalics":false,"Font":{"FontFamily":"Century Gothic","Bold":false,"Italic":false,"FontSize":36.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SaveSongOnQuickEdit":true,"Search":{"Titles":true,"Lyrics":false,"Authors":false,"Themes":false,"Songbooks":true,"Web":false},"Licence":{"Number":0,"Type":0,"Custom":""},"CopyrightDisplay":1,"SongCopyrightToken":"","UseVerseOrderForLyricsList":true,"LinkSongTextStyleToLicence":true,"LinkSongMarginStyleToLicence":true,"DefaultSongLicenceStyle":{"ShowVerseNumber":false,"ShowChorusName":false,"ShowVerseName":false,"ShowVerseChorusNamesInCaps":false,"ForceChorusInItalics":false,"Font":{"FontFamily":"Calibri","Bold":false,"Italic":false,"FontSize":12.0,"FontAlignment":1,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":2,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}}},"Bibles":{"DefaultStyle":{"BibleToUse":"BibliaRVR1960.xml","VerseNums":true,"Name":2,"NamePosition":1,"DisplayBibleName":false,"UseShortName":true,"Font":{"FontFamily":"Century Gothic","Bold":false,"Italic":false,"FontSize":36.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":1.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SelectNum":1,"SearchKeywords":false},"Slides":{"DefaultStyle":{"Font":{"FontFamily":"Calibri","Bold":true,"Italic":false,"FontSize":48.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":10.0,"Top":10.0,"Right":10.0,"Bottom":10.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SlideSetOrder":0,"DefaultTime":"00:00:12","DefaultTimeTicks":120000000},"Media":{"DefaultImageStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultImageBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"DefaultVideoStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultVideoBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"DefaultStreamStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultStreamBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"VideoPreviewLevel":2,"BackgroundVideoVolumeEnabled":false},"DefaultTimeStyle":{"Font":{"FontFamily":"Courier New","Bold":false,"Italic":false,"FontSize":96.0,"FontAlignment":2,"FontColour":{"A":255,"R":0,"G":128,"B":0},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":5.0,"Top":5.0,"Right":5.0,"Bottom":5.0}},"DefaultTimeBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"ClockOverlayEnabled":false,"ClockOverlayStyle":{"Font":{"FontFamily":"Lucida Sans Typewriter","Bold":true,"Italic":false,"FontSize":18.0,"FontAlignment":1,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":0,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":4.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}},"DefaultAlertStyle":{"AlertType":0,"AlertColour":0,"Size":3,"CapitalLetters":false},"DefaultTransition":{"ID":0,"Duration":1.0},"FadeToBlack":1.0,"FadeScreen":1.0,"WindowLayout":{"Maximised":true,"TransitionsOpen":true,"BackgroundsOpen":true,"LowPriorityBackgroundsOpen":false,"TransitionsRowHeight":2.0,"ServiceListRowHeight":3.0,"BackgroundRowHeight":268.34666666666669,"ItemDisplayRowHeight":395.69333333333327,"LeftColumnWidth":347.98494117647067,"CentreColumnWidth":521.97741176470583,"RightColumnWidth":480.0376470588235},"FileBrowserStates":{"MediaForeground":{"Folder":"C:\\Users\\Febe\\Downloads","Zoom":75.0},"MediaBackground":{"Folder":"C:\\Users\\Febe\\Downloads","Zoom":77.999999999999972},"Powerpoint":{"Folder":"...\\","Zoom":75.0},"SongImporter":{"Folder":"...\\Songs","Zoom":75.0},"BibleImporter":{"Folder":"...\\Bibles","Zoom":75.0}},"LogoPath":"Default","LogoFillType":3,"DisplayMargins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0},"StageDisplayMargins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0},"Language":"es","LastExportSettings":{"Format":0,"FontSize":12.0,"FullItems":true,"SongVerseNums":false,"SongCopyrightPosition":"Bottom"},"StageDisplayConfiguration":{"Enabled":true,"TopMargin":0.2,"RightMargin":0.3},"BasicMode":{"Enabled":false,"HideTransitions":true,"HideBackgrounds":true,"HideStyling":true,"HideUserManagement":true,"DisablePreferences":false,"TransitionsHidden":false,"BackgroundsHidden":false,"StylingHidden":false,"UserManagementHidden":false,"PreferencesDisabled":false},"AutoApplyPreview":false,"DontSelectNextVerse":false,"DefaultBasherMode":0,"DevelopmentUpdates":false,"Skin":".\\Resources\\Skins\\Beach\\Skin.xaml","ReportErrorsOnStartup":true,"IncludeErrorScreenshot":true,"ShowPresentationDisplayOnStartup":true,"ReportErrors":false,"ReportErrorsOnly":false,"ReportAnonymously":false,"MaxLogsToUploadAtOnce":100,"LogUploadPeriodInMiliseconds":30000,"ErrorReportingNotSet":false}}
+
+INFO 2019-06-26 15:37:26,793 [11]
+Updating licence from server
+
+
+ERROR2019-06-26 15:37:31,251 [14]
+Web error updating licence
+{"ResponseCode":403,"ErrorPayload":"{\"ErrorMessage\":\"activationKey or machineId not found\"}"}
+
+WARN 2019-06-26 15:37:31,257 [14]
+Failed to update licence from server: A web error occured when updating your licence. Please try again
+
+
+INFO 2019-06-26 15:37:31,308 [1]
+Loaded Chrome Embedded Framework
+
+
+INFO 2019-06-26 15:37:31,373 [1]
+Initialised Chrome Embedded Framework
+
+
+INFO 2019-06-26 15:37:31,389 [1]
+Failed to load the following font: No se puede convertir FontFamilyConverter desde System.String.
+{"FailedFont":""}
+
+INFO 2019-06-26 15:37:31,882 [1]
+Failed to load the following font:HelveticaNeueLT Std 
+{"FailedFont":"HelveticaNeueLT Std"}
+
+INFO 2019-06-26 15:37:31,883 [1]
+Failed to load the following font:HelveticaNeueLT Std Blk 
+{"FailedFont":"HelveticaNeueLT Std Blk"}
+
+INFO 2019-06-26 15:37:31,885 [1]
+Failed to load the following font:HelveticaNeueLT Std Cn 
+{"FailedFont":"HelveticaNeueLT Std Cn"}
+
+INFO 2019-06-26 15:37:31,885 [1]
+Failed to load the following font:HelveticaNeueLT Std Lt 
+{"FailedFont":"HelveticaNeueLT Std Lt"}
+
+INFO 2019-06-26 15:37:32,233 [1]
+Loaded 179 fonts successfully
+
+
+INFO 2019-06-26 15:37:33,319 [1]
+Songs Database loaded with 728 items
+
+
+DEBUG2019-06-26 15:37:33,409 [1]
+Importing chapters from Genesis
+
+
+DEBUG2019-06-26 15:37:33,421 [1]
+Importing chapters from Exodus
+
+
+DEBUG2019-06-26 15:37:33,426 [1]
+Importing chapters from Leviticus
+
+
+DEBUG2019-06-26 15:37:33,429 [1]
+Importing chapters from Numbers
+
+
+DEBUG2019-06-26 15:37:33,432 [1]
+Importing chapters from Deuteronomy
+
+
+DEBUG2019-06-26 15:37:33,434 [1]
+Importing chapters from Joshua
+
+
+DEBUG2019-06-26 15:37:33,436 [1]
+Importing chapters from Judges
+
+
+DEBUG2019-06-26 15:37:33,439 [1]
+Importing chapters from Ruth
+
+
+DEBUG2019-06-26 15:37:33,439 [1]
+Importing chapters from 1 Samuel
+
+
+DEBUG2019-06-26 15:37:33,442 [1]
+Importing chapters from 2 Samuel
+
+
+DEBUG2019-06-26 15:37:33,444 [1]
+Importing chapters from 1 Kings
+
+
+DEBUG2019-06-26 15:37:33,446 [1]
+Importing chapters from 2 Kings
+
+
+DEBUG2019-06-26 15:37:33,448 [1]
+Importing chapters from 1 Chronicles
+
+
+DEBUG2019-06-26 15:37:33,453 [1]
+Importing chapters from 2 Chronicles
+
+
+DEBUG2019-06-26 15:37:33,468 [1]
+Importing chapters from Ezra
+
+
+DEBUG2019-06-26 15:37:33,470 [1]
+Importing chapters from Nehemiah
+
+
+DEBUG2019-06-26 15:37:33,471 [1]
+Importing chapters from Esther
+
+
+DEBUG2019-06-26 15:37:33,472 [1]
+Importing chapters from Job
+
+
+DEBUG2019-06-26 15:37:33,474 [1]
+Importing chapters from Psalm
+
+
+DEBUG2019-06-26 15:37:33,478 [1]
+Importing chapters from Proverbs
+
+
+DEBUG2019-06-26 15:37:33,480 [1]
+Importing chapters from Ecclesiastes
+
+
+DEBUG2019-06-26 15:37:33,481 [1]
+Importing chapters from Song of Solomon
+
+
+DEBUG2019-06-26 15:37:33,482 [1]
+Importing chapters from Isaiah
+
+
+DEBUG2019-06-26 15:37:33,484 [1]
+Importing chapters from Jeremiah
+
+
+DEBUG2019-06-26 15:37:33,491 [1]
+Importing chapters from Lamentations
+
+
+DEBUG2019-06-26 15:37:33,492 [1]
+Importing chapters from Ezekiel
+
+
+DEBUG2019-06-26 15:37:33,495 [1]
+Importing chapters from Daniel
+
+
+DEBUG2019-06-26 15:37:33,497 [1]
+Importing chapters from Hosea
+
+
+DEBUG2019-06-26 15:37:33,498 [1]
+Importing chapters from Joel
+
+
+DEBUG2019-06-26 15:37:33,499 [1]
+Importing chapters from Amos
+
+
+DEBUG2019-06-26 15:37:33,500 [1]
+Importing chapters from Obadiah
+
+
+DEBUG2019-06-26 15:37:33,500 [1]
+Importing chapters from Jonah
+
+
+DEBUG2019-06-26 15:37:33,501 [1]
+Importing chapters from Micah
+
+
+DEBUG2019-06-26 15:37:33,502 [1]
+Importing chapters from Nahum
+
+
+DEBUG2019-06-26 15:37:33,503 [1]
+Importing chapters from Habakkuk
+
+
+DEBUG2019-06-26 15:37:33,522 [1]
+Importing chapters from Zephaniah
+
+
+DEBUG2019-06-26 15:37:33,523 [1]
+Importing chapters from Haggai
+
+
+DEBUG2019-06-26 15:37:33,524 [1]
+Importing chapters from Zechariah
+
+
+DEBUG2019-06-26 15:37:33,525 [1]
+Importing chapters from Malachi
+
+
+DEBUG2019-06-26 15:37:33,526 [1]
+Importing chapters from Matthew
+
+
+DEBUG2019-06-26 15:37:33,528 [1]
+Importing chapters from Mark
+
+
+DEBUG2019-06-26 15:37:33,529 [1]
+Importing chapters from Luke
+
+
+DEBUG2019-06-26 15:37:33,531 [1]
+Importing chapters from John
+
+
+DEBUG2019-06-26 15:37:33,533 [1]
+Importing chapters from Acts
+
+
+DEBUG2019-06-26 15:37:33,535 [1]
+Importing chapters from Romans
+
+
+DEBUG2019-06-26 15:37:33,537 [1]
+Importing chapters from 1 Corinthians
+
+
+DEBUG2019-06-26 15:37:33,541 [1]
+Importing chapters from 2 Corinthians
+
+
+DEBUG2019-06-26 15:37:33,543 [1]
+Importing chapters from Galatians
+
+
+DEBUG2019-06-26 15:37:33,543 [1]
+Importing chapters from Ephesians
+
+
+DEBUG2019-06-26 15:37:33,544 [1]
+Importing chapters from Philippians
+
+
+DEBUG2019-06-26 15:37:33,545 [1]
+Importing chapters from Colossians
+
+
+DEBUG2019-06-26 15:37:33,546 [1]
+Importing chapters from 1 Thessalonians
+
+
+DEBUG2019-06-26 15:37:33,547 [1]
+Importing chapters from 2 Thessalonians
+
+
+DEBUG2019-06-26 15:37:33,547 [1]
+Importing chapters from 1 Timothy
+
+
+DEBUG2019-06-26 15:37:33,548 [1]
+Importing chapters from 2 Timothy
+
+
+DEBUG2019-06-26 15:37:33,549 [1]
+Importing chapters from Titus
+
+
+DEBUG2019-06-26 15:37:33,550 [1]
+Importing chapters from Philemon
+
+
+DEBUG2019-06-26 15:37:33,553 [1]
+Importing chapters from Hebrews
+
+
+DEBUG2019-06-26 15:37:33,555 [1]
+Importing chapters from James
+
+
+DEBUG2019-06-26 15:37:33,556 [1]
+Importing chapters from 1 Peter
+
+
+DEBUG2019-06-26 15:37:33,557 [1]
+Importing chapters from 2 Peter
+
+
+DEBUG2019-06-26 15:37:33,557 [1]
+Importing chapters from 1 John
+
+
+DEBUG2019-06-26 15:37:33,558 [1]
+Importing chapters from 2 John
+
+
+DEBUG2019-06-26 15:37:33,559 [1]
+Importing chapters from 3 John
+
+
+DEBUG2019-06-26 15:37:33,571 [1]
+Importing chapters from Jude
+
+
+DEBUG2019-06-26 15:37:33,572 [1]
+Importing chapters from Revelation
+
+
+DEBUG2019-06-26 15:37:33,663 [1]
+Importing chapters from Génesis
+
+
+DEBUG2019-06-26 15:37:33,667 [1]
+Importing chapters from Éxodo
+
+
+DEBUG2019-06-26 15:37:33,673 [1]
+Importing chapters from Levítico
+
+
+DEBUG2019-06-26 15:37:33,675 [1]
+Importing chapters from Números
+
+
+DEBUG2019-06-26 15:37:33,678 [1]
+Importing chapters from Deuteronomio
+
+
+DEBUG2019-06-26 15:37:33,681 [1]
+Importing chapters from Josué
+
+
+DEBUG2019-06-26 15:37:33,683 [1]
+Importing chapters from Jueces
+
+
+DEBUG2019-06-26 15:37:33,685 [1]
+Importing chapters from Rut
+
+
+DEBUG2019-06-26 15:37:33,686 [1]
+Importing chapters from 1 Samuel
+
+
+DEBUG2019-06-26 15:37:33,689 [1]
+Importing chapters from 2 Samuel
+
+
+DEBUG2019-06-26 15:37:33,691 [1]
+Importing chapters from 1 Reyes
+
+
+DEBUG2019-06-26 15:37:33,693 [1]
+Importing chapters from 2 Reyes
+
+
+DEBUG2019-06-26 15:37:33,696 [1]
+Importing chapters from 1 Crónicas
+
+
+DEBUG2019-06-26 15:37:33,712 [1]
+Importing chapters from 2 Crónicas
+
+
+DEBUG2019-06-26 15:37:33,715 [1]
+Importing chapters from Esdras
+
+
+DEBUG2019-06-26 15:37:33,717 [1]
+Importing chapters from Nehemías
+
+
+DEBUG2019-06-26 15:37:33,719 [1]
+Importing chapters from Ester
+
+
+DEBUG2019-06-26 15:37:33,721 [1]
+Importing chapters from Job
+
+
+DEBUG2019-06-26 15:37:33,725 [1]
+Importing chapters from Salmos
+
+
+DEBUG2019-06-26 15:37:33,731 [1]
+Importing chapters from Proverbios
+
+
+DEBUG2019-06-26 15:37:33,733 [1]
+Importing chapters from Eclesiastés
+
+
+DEBUG2019-06-26 15:37:33,735 [1]
+Importing chapters from Cantares
+
+
+DEBUG2019-06-26 15:37:33,735 [1]
+Importing chapters from Isaías
+
+
+DEBUG2019-06-26 15:37:33,738 [1]
+Importing chapters from Jeremías
+
+
+DEBUG2019-06-26 15:37:33,745 [1]
+Importing chapters from Lamentaciones
+
+
+DEBUG2019-06-26 15:37:33,746 [1]
+Importing chapters from Ezequiel
+
+
+DEBUG2019-06-26 15:37:33,749 [1]
+Importing chapters from Daniel
+
+
+DEBUG2019-06-26 15:37:33,765 [1]
+Importing chapters from Oseas
+
+
+DEBUG2019-06-26 15:37:33,766 [1]
+Importing chapters from Joel
+
+
+DEBUG2019-06-26 15:37:33,767 [1]
+Importing chapters from Amós
+
+
+DEBUG2019-06-26 15:37:33,768 [1]
+Importing chapters from Abdías
+
+
+DEBUG2019-06-26 15:37:33,768 [1]
+Importing chapters from Jonás
+
+
+DEBUG2019-06-26 15:37:33,769 [1]
+Importing chapters from Miqueas
+
+
+DEBUG2019-06-26 15:37:33,770 [1]
+Importing chapters from Nahúm
+
+
+DEBUG2019-06-26 15:37:33,770 [1]
+Importing chapters from Habacuc
+
+
+DEBUG2019-06-26 15:37:33,774 [1]
+Importing chapters from Sofonías
+
+
+DEBUG2019-06-26 15:37:33,775 [1]
+Importing chapters from Hageo
+
+
+DEBUG2019-06-26 15:37:33,776 [1]
+Importing chapters from Zacarías
+
+
+DEBUG2019-06-26 15:37:33,777 [1]
+Importing chapters from Malaquías
+
+
+DEBUG2019-06-26 15:37:33,778 [1]
+Importing chapters from Mateo
+
+
+DEBUG2019-06-26 15:37:33,780 [1]
+Importing chapters from Marcos
+
+
+DEBUG2019-06-26 15:37:33,781 [1]
+Importing chapters from Lucas
+
+
+DEBUG2019-06-26 15:37:33,783 [1]
+Importing chapters from Juan
+
+
+DEBUG2019-06-26 15:37:33,785 [1]
+Importing chapters from Hechos
+
+
+DEBUG2019-06-26 15:37:33,787 [1]
+Importing chapters from Romanos
+
+
+DEBUG2019-06-26 15:37:33,788 [1]
+Importing chapters from 1 Corintios
+
+
+DEBUG2019-06-26 15:37:33,792 [1]
+Importing chapters from 2 Corintios
+
+
+DEBUG2019-06-26 15:37:33,794 [1]
+Importing chapters from Gálatas
+
+
+DEBUG2019-06-26 15:37:33,795 [1]
+Importing chapters from Efesios
+
+
+DEBUG2019-06-26 15:37:33,796 [1]
+Importing chapters from Filipenses
+
+
+DEBUG2019-06-26 15:37:33,797 [1]
+Importing chapters from Colosenses
+
+
+DEBUG2019-06-26 15:37:33,798 [1]
+Importing chapters from 1 Tesalonicenses
+
+
+DEBUG2019-06-26 15:37:33,798 [1]
+Importing chapters from 2 Tesalonicenses
+
+
+DEBUG2019-06-26 15:37:33,799 [1]
+Importing chapters from 1 Timoteo
+
+
+DEBUG2019-06-26 15:37:33,800 [1]
+Importing chapters from 2 Timoteo
+
+
+DEBUG2019-06-26 15:37:33,812 [1]
+Importing chapters from Tito
+
+
+DEBUG2019-06-26 15:37:33,812 [1]
+Importing chapters from Filemón
+
+
+DEBUG2019-06-26 15:37:33,816 [1]
+Importing chapters from Hebreos
+
+
+DEBUG2019-06-26 15:37:33,818 [1]
+Importing chapters from Santiago
+
+
+DEBUG2019-06-26 15:37:33,818 [1]
+Importing chapters from 1 Pedro
+
+
+DEBUG2019-06-26 15:37:33,819 [1]
+Importing chapters from 2 Pedro
+
+
+DEBUG2019-06-26 15:37:33,820 [1]
+Importing chapters from 1 Juan
+
+
+DEBUG2019-06-26 15:37:33,821 [1]
+Importing chapters from 2 Juan
+
+
+DEBUG2019-06-26 15:37:33,821 [1]
+Importing chapters from 3 Juan
+
+
+DEBUG2019-06-26 15:37:33,822 [1]
+Importing chapters from Judas
+
+
+DEBUG2019-06-26 15:37:33,822 [1]
+Importing chapters from Apocalipsis
+
+
+DEBUG2019-06-26 15:37:33,968 [1]
+Importing chapters from Genesis
+
+
+DEBUG2019-06-26 15:37:33,972 [1]
+Importing chapters from Exodus
+
+
+DEBUG2019-06-26 15:37:33,979 [1]
+Importing chapters from Leviticus
+
+
+DEBUG2019-06-26 15:37:33,983 [1]
+Importing chapters from Numbers
+
+
+DEBUG2019-06-26 15:37:33,987 [1]
+Importing chapters from Deuteronomy
+
+
+DEBUG2019-06-26 15:37:33,989 [1]
+Importing chapters from Joshua
+
+
+DEBUG2019-06-26 15:37:33,991 [1]
+Importing chapters from Judges
+
+
+DEBUG2019-06-26 15:37:33,993 [1]
+Importing chapters from Ruth
+
+
+DEBUG2019-06-26 15:37:33,995 [1]
+Importing chapters from 1 Samuel
+
+
+DEBUG2019-06-26 15:37:33,997 [1]
+Importing chapters from 2 Samuel
+
+
+DEBUG2019-06-26 15:37:33,999 [1]
+Importing chapters from 1 Kings
+
+
+DEBUG2019-06-26 15:37:34,002 [1]
+Importing chapters from 2 Kings
+
+
+DEBUG2019-06-26 15:37:34,004 [1]
+Importing chapters from 1 Chronicles
+
+
+DEBUG2019-06-26 15:37:34,010 [1]
+Importing chapters from 2 Chronicles
+
+
+DEBUG2019-06-26 15:37:34,014 [1]
+Importing chapters from Ezra
+
+
+DEBUG2019-06-26 15:37:34,030 [1]
+Importing chapters from Nehemiah
+
+
+DEBUG2019-06-26 15:37:34,032 [1]
+Importing chapters from Esther
+
+
+DEBUG2019-06-26 15:37:34,033 [1]
+Importing chapters from Job
+
+
+DEBUG2019-06-26 15:37:34,035 [1]
+Importing chapters from Psalm
+
+
+DEBUG2019-06-26 15:37:34,039 [1]
+Importing chapters from Proverbs
+
+
+DEBUG2019-06-26 15:37:34,041 [1]
+Importing chapters from Ecclesiastes
+
+
+DEBUG2019-06-26 15:37:34,042 [1]
+Importing chapters from Song of Solomon
+
+
+DEBUG2019-06-26 15:37:34,042 [1]
+Importing chapters from Isaiah
+
+
+DEBUG2019-06-26 15:37:34,045 [1]
+Importing chapters from Jeremiah
+
+
+DEBUG2019-06-26 15:37:34,053 [1]
+Importing chapters from Lamentations
+
+
+DEBUG2019-06-26 15:37:34,055 [1]
+Importing chapters from Ezekiel
+
+
+DEBUG2019-06-26 15:37:34,060 [1]
+Importing chapters from Daniel
+
+
+DEBUG2019-06-26 15:37:34,062 [1]
+Importing chapters from Hosea
+
+
+DEBUG2019-06-26 15:37:34,064 [1]
+Importing chapters from Joel
+
+
+DEBUG2019-06-26 15:37:34,065 [1]
+Importing chapters from Amos
+
+
+DEBUG2019-06-26 15:37:34,067 [1]
+Importing chapters from Obadiah
+
+
+DEBUG2019-06-26 15:37:34,068 [1]
+Importing chapters from Jonah
+
+
+DEBUG2019-06-26 15:37:34,069 [1]
+Importing chapters from Micah
+
+
+DEBUG2019-06-26 15:37:34,070 [1]
+Importing chapters from Nahum
+
+
+DEBUG2019-06-26 15:37:34,071 [1]
+Importing chapters from Habakkuk
+
+
+DEBUG2019-06-26 15:37:34,074 [1]
+Importing chapters from Zephaniah
+
+
+DEBUG2019-06-26 15:37:34,076 [1]
+Importing chapters from Haggai
+
+
+DEBUG2019-06-26 15:37:34,095 [1]
+Importing chapters from Zechariah
+
+
+DEBUG2019-06-26 15:37:34,097 [1]
+Importing chapters from Malachi
+
+
+DEBUG2019-06-26 15:37:34,098 [1]
+Importing chapters from Matthew
+
+
+DEBUG2019-06-26 15:37:34,102 [1]
+Importing chapters from Mark
+
+
+DEBUG2019-06-26 15:37:34,104 [1]
+Importing chapters from Luke
+
+
+DEBUG2019-06-26 15:37:34,108 [1]
+Importing chapters from John
+
+
+DEBUG2019-06-26 15:37:34,111 [1]
+Importing chapters from Acts
+
+
+DEBUG2019-06-26 15:37:34,115 [1]
+Importing chapters from Romans
+
+
+DEBUG2019-06-26 15:37:34,116 [1]
+Importing chapters from 1 Corinthians
+
+
+DEBUG2019-06-26 15:37:34,121 [1]
+Importing chapters from 2 Corinthians
+
+
+DEBUG2019-06-26 15:37:34,123 [1]
+Importing chapters from Galatians
+
+
+DEBUG2019-06-26 15:37:34,124 [1]
+Importing chapters from Ephesians
+
+
+DEBUG2019-06-26 15:37:34,124 [1]
+Importing chapters from Philippians
+
+
+DEBUG2019-06-26 15:37:34,125 [1]
+Importing chapters from Colossians
+
+
+DEBUG2019-06-26 15:37:34,126 [1]
+Importing chapters from 1 Thessalonians
+
+
+DEBUG2019-06-26 15:37:34,127 [1]
+Importing chapters from 2 Thessalonians
+
+
+DEBUG2019-06-26 15:37:34,127 [1]
+Importing chapters from 1 Timothy
+
+
+DEBUG2019-06-26 15:37:34,128 [1]
+Importing chapters from 2 Timothy
+
+
+DEBUG2019-06-26 15:37:34,129 [1]
+Importing chapters from Titus
+
+
+DEBUG2019-06-26 15:37:34,130 [1]
+Importing chapters from Philemon
+
+
+DEBUG2019-06-26 15:37:34,133 [1]
+Importing chapters from Hebrews
+
+
+DEBUG2019-06-26 15:37:34,135 [1]
+Importing chapters from James
+
+
+DEBUG2019-06-26 15:37:34,136 [1]
+Importing chapters from 1 Peter
+
+
+DEBUG2019-06-26 15:37:34,137 [1]
+Importing chapters from 2 Peter
+
+
+DEBUG2019-06-26 15:37:34,138 [1]
+Importing chapters from 1 John
+
+
+DEBUG2019-06-26 15:37:34,138 [1]
+Importing chapters from 2 John
+
+
+DEBUG2019-06-26 15:37:34,139 [1]
+Importing chapters from 3 John
+
+
+DEBUG2019-06-26 15:37:34,140 [1]
+Importing chapters from Jude
+
+
+DEBUG2019-06-26 15:37:34,141 [1]
+Importing chapters from Revelation
+
+
+INFO 2019-06-26 15:37:34,154 [1]
+Bibles Database loaded with 3 items
+
+
+INFO 2019-06-26 15:37:34,260 [1]
+Slides Database loaded with 5 items
+
+
+INFO 2019-06-26 15:37:39,666 [1]
+Checked for updates in 1774 ms
+
+
+INFO 2019-06-26 15:37:39,667 [1]
+Result was NoUpdate
+
+
+DEBUG2019-06-26 15:37:40,171 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-26 15:37:40,175 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-26 15:37:40,178 [1]
+Opening folder 'C:\Users\Febe\Downloads' in file browser
+
+
+INFO 2019-06-26 15:37:40,530 [1]
+Notification Added: It looks like you haven't set up your screens correctly. Would you like FreeWorship to do it for you?
+
+
+INFO 2019-06-26 15:37:44,614 [1]
+Settings written to disk
+
+
+INFO 2019-06-26 15:37:44,620 [1]
+View closed
+
+
+DEBUG2019-06-26 15:37:45,009 [1]
+Closing 0 open presentations
+
+
+DEBUG2019-06-26 15:37:45,010 [1]
+Finished closing all open presentations
+
+
+INFO 2019-06-26 15:37:45,012 [1]
+Closing PowerPoint
+
+
+INFO 2019-06-26 15:37:45,047 [1]
+FreeWorship closed
+-------------------------------------
+
+
+INFO 2019-06-26 23:35:55,155 [1]
++++++++++++++++++++++++++++++++++++++
+FreeWorship Version: 3.5.1 x64
+Windows OS Version:10 Home Single Language 64-bit
+Sys Mem:3969MB
+{"FWVersion":"3.5.1","Bitness":" x64","WindowsOSVersion":"10 Home Single Language 64-bit","SystemMemory":"3969MB","SessionId":"80bf51c3-db7f-4936-a409-c4f57fcf780d"}
+
+INFO 2019-06-26 23:35:55,403 [1]
+SessionID: 80bf51c3-db7f-4936-a409-c4f57fcf780d
+
+
+DEBUG2019-06-26 23:35:55,411 [1]
+Starting new Icon generation thread ThumbGen4012
+
+
+INFO 2019-06-26 23:35:56,347 [1]
+Created Win8.1/Win10 spell checker
+
+
+WARN 2019-06-26 23:35:56,359 [1]
+No spelling dictionaries found in registry
+
+
+INFO 2019-06-26 23:36:02,590 [1]
+Succesfully started PowerPoint 2016
+
+
+DEBUG2019-06-26 23:36:02,953 [1]
+Presentation window's handle is 853330
+
+
+INFO 2019-06-26 23:36:06,653 [1]
+Loaded settings
+{"Settings":{"IsPortable":true,"StorageFolder":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\","TempFolder":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Temp\\","Version":"3.5.1.183","DatabaseLocation":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Data","DefaultDatabaseLocation":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Data\\","RawDatabaseLocation":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Data","DisplayMonitor":"[0;0;640;340]","DisplayBounds":"0,0,640,340","UsesCustomDisplay":true,"StageDisplayMonitor":"[0;0;640;340]","StageDisplayBounds":"0,0,640,340","UsesCustomStageDisplay":true,"Songs":{"DefaultStyle":{"ShowVerseNumber":false,"ShowChorusName":false,"ShowVerseName":false,"ShowVerseChorusNamesInCaps":false,"ForceChorusInItalics":false,"Font":{"FontFamily":"Century Gothic","Bold":false,"Italic":false,"FontSize":36.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SaveSongOnQuickEdit":true,"Search":{"Titles":true,"Lyrics":false,"Authors":false,"Themes":false,"Songbooks":true,"Web":false},"Licence":{"Number":0,"Type":0,"Custom":""},"CopyrightDisplay":1,"SongCopyrightToken":"","UseVerseOrderForLyricsList":true,"LinkSongTextStyleToLicence":true,"LinkSongMarginStyleToLicence":true,"DefaultSongLicenceStyle":{"ShowVerseNumber":false,"ShowChorusName":false,"ShowVerseName":false,"ShowVerseChorusNamesInCaps":false,"ForceChorusInItalics":false,"Font":{"FontFamily":"Calibri","Bold":false,"Italic":false,"FontSize":12.0,"FontAlignment":1,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":2,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}}},"Bibles":{"DefaultStyle":{"BibleToUse":"BibliaRVR1960.xml","VerseNums":true,"Name":2,"NamePosition":1,"DisplayBibleName":false,"UseShortName":true,"Font":{"FontFamily":"Century Gothic","Bold":false,"Italic":false,"FontSize":36.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":1.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SelectNum":1,"SearchKeywords":false},"Slides":{"DefaultStyle":{"Font":{"FontFamily":"Calibri","Bold":true,"Italic":false,"FontSize":48.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":10.0,"Top":10.0,"Right":10.0,"Bottom":10.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SlideSetOrder":0,"DefaultTime":"00:00:12","DefaultTimeTicks":120000000},"Media":{"DefaultImageStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultImageBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"DefaultVideoStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultVideoBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"DefaultStreamStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultStreamBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"VideoPreviewLevel":2,"BackgroundVideoVolumeEnabled":false},"DefaultTimeStyle":{"Font":{"FontFamily":"Courier New","Bold":false,"Italic":false,"FontSize":96.0,"FontAlignment":2,"FontColour":{"A":255,"R":0,"G":128,"B":0},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":5.0,"Top":5.0,"Right":5.0,"Bottom":5.0}},"DefaultTimeBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"ClockOverlayEnabled":false,"ClockOverlayStyle":{"Font":{"FontFamily":"Lucida Sans Typewriter","Bold":true,"Italic":false,"FontSize":18.0,"FontAlignment":1,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":0,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":4.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}},"DefaultAlertStyle":{"AlertType":0,"AlertColour":0,"Size":3,"CapitalLetters":false},"DefaultTransition":{"ID":0,"Duration":1.0},"FadeToBlack":1.0,"FadeScreen":1.0,"WindowLayout":{"Maximised":true,"TransitionsOpen":true,"BackgroundsOpen":true,"LowPriorityBackgroundsOpen":false,"TransitionsRowHeight":2.0,"ServiceListRowHeight":3.0,"BackgroundRowHeight":268.34666666666669,"ItemDisplayRowHeight":395.69333333333327,"LeftColumnWidth":347.98494117647067,"CentreColumnWidth":521.97741176470583,"RightColumnWidth":480.0376470588235},"FileBrowserStates":{"MediaForeground":{"Folder":"C:\\Users\\Febe\\Downloads","Zoom":75.0},"MediaBackground":{"Folder":"C:\\Users\\Febe\\Downloads","Zoom":77.999999999999972},"Powerpoint":{"Folder":"...\\","Zoom":75.0},"SongImporter":{"Folder":"...\\Songs","Zoom":75.0},"BibleImporter":{"Folder":"...\\Bibles","Zoom":75.0}},"LogoPath":"Default","LogoFillType":3,"DisplayMargins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0},"StageDisplayMargins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0},"Language":"es","LastExportSettings":{"Format":0,"FontSize":12.0,"FullItems":true,"SongVerseNums":false,"SongCopyrightPosition":"Bottom"},"StageDisplayConfiguration":{"Enabled":true,"TopMargin":0.2,"RightMargin":0.3},"BasicMode":{"Enabled":false,"HideTransitions":true,"HideBackgrounds":true,"HideStyling":true,"HideUserManagement":true,"DisablePreferences":false,"TransitionsHidden":false,"BackgroundsHidden":false,"StylingHidden":false,"UserManagementHidden":false,"PreferencesDisabled":false},"AutoApplyPreview":false,"DontSelectNextVerse":false,"DefaultBasherMode":0,"DevelopmentUpdates":false,"Skin":".\\Resources\\Skins\\Beach\\Skin.xaml","ReportErrorsOnStartup":true,"IncludeErrorScreenshot":true,"ShowPresentationDisplayOnStartup":true,"ReportErrors":false,"ReportErrorsOnly":false,"ReportAnonymously":false,"MaxLogsToUploadAtOnce":100,"LogUploadPeriodInMiliseconds":30000,"ErrorReportingNotSet":false}}
+
+INFO 2019-06-26 23:36:07,635 [11]
+Updating licence from server
+
+
+ERROR2019-06-26 23:36:12,724 [15]
+Web error updating licence
+{"ResponseCode":403,"ErrorPayload":"{\"ErrorMessage\":\"activationKey or machineId not found\"}"}
+
+WARN 2019-06-26 23:36:12,882 [15]
+Failed to update licence from server: A web error occured when updating your licence. Please try again
+
+
+INFO 2019-06-26 23:36:13,658 [1]
+Loaded Chrome Embedded Framework
+
+
+INFO 2019-06-26 23:36:21,193 [1]
+Initialised Chrome Embedded Framework
+
+
+INFO 2019-06-26 23:36:22,815 [1]
+Failed to load the following font: No se puede convertir FontFamilyConverter desde System.String.
+{"FailedFont":""}
+
+INFO 2019-06-26 23:36:24,190 [1]
+Failed to load the following font:HelveticaNeueLT Std 
+{"FailedFont":"HelveticaNeueLT Std"}
+
+INFO 2019-06-26 23:36:24,191 [1]
+Failed to load the following font:HelveticaNeueLT Std Blk 
+{"FailedFont":"HelveticaNeueLT Std Blk"}
+
+INFO 2019-06-26 23:36:24,191 [1]
+Failed to load the following font:HelveticaNeueLT Std Cn 
+{"FailedFont":"HelveticaNeueLT Std Cn"}
+
+INFO 2019-06-26 23:36:24,192 [1]
+Failed to load the following font:HelveticaNeueLT Std Lt 
+{"FailedFont":"HelveticaNeueLT Std Lt"}
+
+INFO 2019-06-26 23:36:24,696 [1]
+Loaded 179 fonts successfully
+
+
+INFO 2019-06-26 23:36:31,874 [1]
+Songs Database loaded with 728 items
+
+
+DEBUG2019-06-26 23:36:32,495 [1]
+Importing chapters from Genesis
+
+
+DEBUG2019-06-26 23:36:32,506 [1]
+Importing chapters from Exodus
+
+
+DEBUG2019-06-26 23:36:32,513 [1]
+Importing chapters from Leviticus
+
+
+DEBUG2019-06-26 23:36:32,515 [1]
+Importing chapters from Numbers
+
+
+DEBUG2019-06-26 23:36:32,518 [1]
+Importing chapters from Deuteronomy
+
+
+DEBUG2019-06-26 23:36:32,521 [1]
+Importing chapters from Joshua
+
+
+DEBUG2019-06-26 23:36:32,523 [1]
+Importing chapters from Judges
+
+
+DEBUG2019-06-26 23:36:32,525 [1]
+Importing chapters from Ruth
+
+
+DEBUG2019-06-26 23:36:32,526 [1]
+Importing chapters from 1 Samuel
+
+
+DEBUG2019-06-26 23:36:32,528 [1]
+Importing chapters from 2 Samuel
+
+
+DEBUG2019-06-26 23:36:32,530 [1]
+Importing chapters from 1 Kings
+
+
+DEBUG2019-06-26 23:36:32,532 [1]
+Importing chapters from 2 Kings
+
+
+DEBUG2019-06-26 23:36:32,535 [1]
+Importing chapters from 1 Chronicles
+
+
+DEBUG2019-06-26 23:36:32,540 [1]
+Importing chapters from 2 Chronicles
+
+
+DEBUG2019-06-26 23:36:32,544 [1]
+Importing chapters from Ezra
+
+
+DEBUG2019-06-26 23:36:32,560 [1]
+Importing chapters from Nehemiah
+
+
+DEBUG2019-06-26 23:36:32,561 [1]
+Importing chapters from Esther
+
+
+DEBUG2019-06-26 23:36:32,562 [1]
+Importing chapters from Job
+
+
+DEBUG2019-06-26 23:36:32,564 [1]
+Importing chapters from Psalm
+
+
+DEBUG2019-06-26 23:36:32,568 [1]
+Importing chapters from Proverbs
+
+
+DEBUG2019-06-26 23:36:32,570 [1]
+Importing chapters from Ecclesiastes
+
+
+DEBUG2019-06-26 23:36:32,571 [1]
+Importing chapters from Song of Solomon
+
+
+DEBUG2019-06-26 23:36:32,572 [1]
+Importing chapters from Isaiah
+
+
+DEBUG2019-06-26 23:36:32,575 [1]
+Importing chapters from Jeremiah
+
+
+DEBUG2019-06-26 23:36:32,581 [1]
+Importing chapters from Lamentations
+
+
+DEBUG2019-06-26 23:36:32,582 [1]
+Importing chapters from Ezekiel
+
+
+DEBUG2019-06-26 23:36:32,585 [1]
+Importing chapters from Daniel
+
+
+DEBUG2019-06-26 23:36:32,587 [1]
+Importing chapters from Hosea
+
+
+DEBUG2019-06-26 23:36:32,588 [1]
+Importing chapters from Joel
+
+
+DEBUG2019-06-26 23:36:32,589 [1]
+Importing chapters from Amos
+
+
+DEBUG2019-06-26 23:36:32,590 [1]
+Importing chapters from Obadiah
+
+
+DEBUG2019-06-26 23:36:32,590 [1]
+Importing chapters from Jonah
+
+
+DEBUG2019-06-26 23:36:32,591 [1]
+Importing chapters from Micah
+
+
+DEBUG2019-06-26 23:36:32,592 [1]
+Importing chapters from Nahum
+
+
+DEBUG2019-06-26 23:36:32,593 [1]
+Importing chapters from Habakkuk
+
+
+DEBUG2019-06-26 23:36:32,596 [1]
+Importing chapters from Zephaniah
+
+
+DEBUG2019-06-26 23:36:32,610 [1]
+Importing chapters from Haggai
+
+
+DEBUG2019-06-26 23:36:32,610 [1]
+Importing chapters from Zechariah
+
+
+DEBUG2019-06-26 23:36:32,611 [1]
+Importing chapters from Malachi
+
+
+DEBUG2019-06-26 23:36:32,612 [1]
+Importing chapters from Matthew
+
+
+DEBUG2019-06-26 23:36:32,614 [1]
+Importing chapters from Mark
+
+
+DEBUG2019-06-26 23:36:32,616 [1]
+Importing chapters from Luke
+
+
+DEBUG2019-06-26 23:36:32,618 [1]
+Importing chapters from John
+
+
+DEBUG2019-06-26 23:36:32,620 [1]
+Importing chapters from Acts
+
+
+DEBUG2019-06-26 23:36:32,622 [1]
+Importing chapters from Romans
+
+
+DEBUG2019-06-26 23:36:32,623 [1]
+Importing chapters from 1 Corinthians
+
+
+DEBUG2019-06-26 23:36:32,628 [1]
+Importing chapters from 2 Corinthians
+
+
+DEBUG2019-06-26 23:36:32,629 [1]
+Importing chapters from Galatians
+
+
+DEBUG2019-06-26 23:36:32,630 [1]
+Importing chapters from Ephesians
+
+
+DEBUG2019-06-26 23:36:32,631 [1]
+Importing chapters from Philippians
+
+
+DEBUG2019-06-26 23:36:32,632 [1]
+Importing chapters from Colossians
+
+
+DEBUG2019-06-26 23:36:32,632 [1]
+Importing chapters from 1 Thessalonians
+
+
+DEBUG2019-06-26 23:36:32,633 [1]
+Importing chapters from 2 Thessalonians
+
+
+DEBUG2019-06-26 23:36:32,634 [1]
+Importing chapters from 1 Timothy
+
+
+DEBUG2019-06-26 23:36:32,635 [1]
+Importing chapters from 2 Timothy
+
+
+DEBUG2019-06-26 23:36:32,635 [1]
+Importing chapters from Titus
+
+
+DEBUG2019-06-26 23:36:32,636 [1]
+Importing chapters from Philemon
+
+
+DEBUG2019-06-26 23:36:32,640 [1]
+Importing chapters from Hebrews
+
+
+DEBUG2019-06-26 23:36:32,642 [1]
+Importing chapters from James
+
+
+DEBUG2019-06-26 23:36:32,643 [1]
+Importing chapters from 1 Peter
+
+
+DEBUG2019-06-26 23:36:32,643 [1]
+Importing chapters from 2 Peter
+
+
+DEBUG2019-06-26 23:36:32,644 [1]
+Importing chapters from 1 John
+
+
+DEBUG2019-06-26 23:36:32,645 [1]
+Importing chapters from 2 John
+
+
+DEBUG2019-06-26 23:36:32,646 [1]
+Importing chapters from 3 John
+
+
+DEBUG2019-06-26 23:36:32,647 [1]
+Importing chapters from Jude
+
+
+DEBUG2019-06-26 23:36:32,659 [1]
+Importing chapters from Revelation
+
+
+DEBUG2019-06-26 23:36:33,089 [1]
+Importing chapters from Génesis
+
+
+DEBUG2019-06-26 23:36:33,093 [1]
+Importing chapters from Éxodo
+
+
+DEBUG2019-06-26 23:36:33,104 [1]
+Importing chapters from Levítico
+
+
+DEBUG2019-06-26 23:36:33,110 [1]
+Importing chapters from Números
+
+
+DEBUG2019-06-26 23:36:33,113 [1]
+Importing chapters from Deuteronomio
+
+
+DEBUG2019-06-26 23:36:33,116 [1]
+Importing chapters from Josué
+
+
+DEBUG2019-06-26 23:36:33,118 [1]
+Importing chapters from Jueces
+
+
+DEBUG2019-06-26 23:36:33,120 [1]
+Importing chapters from Rut
+
+
+DEBUG2019-06-26 23:36:33,121 [1]
+Importing chapters from 1 Samuel
+
+
+DEBUG2019-06-26 23:36:33,123 [1]
+Importing chapters from 2 Samuel
+
+
+DEBUG2019-06-26 23:36:33,126 [1]
+Importing chapters from 1 Reyes
+
+
+DEBUG2019-06-26 23:36:33,128 [1]
+Importing chapters from 2 Reyes
+
+
+DEBUG2019-06-26 23:36:33,130 [1]
+Importing chapters from 1 Crónicas
+
+
+DEBUG2019-06-26 23:36:33,147 [1]
+Importing chapters from 2 Crónicas
+
+
+DEBUG2019-06-26 23:36:33,150 [1]
+Importing chapters from Esdras
+
+
+DEBUG2019-06-26 23:36:33,151 [1]
+Importing chapters from Nehemías
+
+
+DEBUG2019-06-26 23:36:33,152 [1]
+Importing chapters from Ester
+
+
+DEBUG2019-06-26 23:36:33,153 [1]
+Importing chapters from Job
+
+
+DEBUG2019-06-26 23:36:33,155 [1]
+Importing chapters from Salmos
+
+
+DEBUG2019-06-26 23:36:33,159 [1]
+Importing chapters from Proverbios
+
+
+DEBUG2019-06-26 23:36:33,162 [1]
+Importing chapters from Eclesiastés
+
+
+DEBUG2019-06-26 23:36:33,163 [1]
+Importing chapters from Cantares
+
+
+DEBUG2019-06-26 23:36:33,164 [1]
+Importing chapters from Isaías
+
+
+DEBUG2019-06-26 23:36:33,167 [1]
+Importing chapters from Jeremías
+
+
+DEBUG2019-06-26 23:36:33,174 [1]
+Importing chapters from Lamentaciones
+
+
+DEBUG2019-06-26 23:36:33,175 [1]
+Importing chapters from Ezequiel
+
+
+DEBUG2019-06-26 23:36:33,178 [1]
+Importing chapters from Daniel
+
+
+DEBUG2019-06-26 23:36:33,195 [1]
+Importing chapters from Oseas
+
+
+DEBUG2019-06-26 23:36:33,196 [1]
+Importing chapters from Joel
+
+
+DEBUG2019-06-26 23:36:33,197 [1]
+Importing chapters from Amós
+
+
+DEBUG2019-06-26 23:36:33,198 [1]
+Importing chapters from Abdías
+
+
+DEBUG2019-06-26 23:36:33,198 [1]
+Importing chapters from Jonás
+
+
+DEBUG2019-06-26 23:36:33,199 [1]
+Importing chapters from Miqueas
+
+
+DEBUG2019-06-26 23:36:33,200 [1]
+Importing chapters from Nahúm
+
+
+DEBUG2019-06-26 23:36:33,200 [1]
+Importing chapters from Habacuc
+
+
+DEBUG2019-06-26 23:36:33,205 [1]
+Importing chapters from Sofonías
+
+
+DEBUG2019-06-26 23:36:33,206 [1]
+Importing chapters from Hageo
+
+
+DEBUG2019-06-26 23:36:33,206 [1]
+Importing chapters from Zacarías
+
+
+DEBUG2019-06-26 23:36:33,207 [1]
+Importing chapters from Malaquías
+
+
+DEBUG2019-06-26 23:36:33,208 [1]
+Importing chapters from Mateo
+
+
+DEBUG2019-06-26 23:36:33,210 [1]
+Importing chapters from Marcos
+
+
+DEBUG2019-06-26 23:36:33,212 [1]
+Importing chapters from Lucas
+
+
+DEBUG2019-06-26 23:36:33,214 [1]
+Importing chapters from Juan
+
+
+DEBUG2019-06-26 23:36:33,216 [1]
+Importing chapters from Hechos
+
+
+DEBUG2019-06-26 23:36:33,219 [1]
+Importing chapters from Romanos
+
+
+DEBUG2019-06-26 23:36:33,220 [1]
+Importing chapters from 1 Corintios
+
+
+DEBUG2019-06-26 23:36:33,225 [1]
+Importing chapters from 2 Corintios
+
+
+DEBUG2019-06-26 23:36:33,226 [1]
+Importing chapters from Gálatas
+
+
+DEBUG2019-06-26 23:36:33,227 [1]
+Importing chapters from Efesios
+
+
+DEBUG2019-06-26 23:36:33,228 [1]
+Importing chapters from Filipenses
+
+
+DEBUG2019-06-26 23:36:33,229 [1]
+Importing chapters from Colosenses
+
+
+DEBUG2019-06-26 23:36:33,230 [1]
+Importing chapters from 1 Tesalonicenses
+
+
+DEBUG2019-06-26 23:36:33,231 [1]
+Importing chapters from 2 Tesalonicenses
+
+
+DEBUG2019-06-26 23:36:33,232 [1]
+Importing chapters from 1 Timoteo
+
+
+DEBUG2019-06-26 23:36:33,232 [1]
+Importing chapters from 2 Timoteo
+
+
+DEBUG2019-06-26 23:36:33,244 [1]
+Importing chapters from Tito
+
+
+DEBUG2019-06-26 23:36:33,245 [1]
+Importing chapters from Filemón
+
+
+DEBUG2019-06-26 23:36:33,251 [1]
+Importing chapters from Hebreos
+
+
+DEBUG2019-06-26 23:36:33,252 [1]
+Importing chapters from Santiago
+
+
+DEBUG2019-06-26 23:36:33,253 [1]
+Importing chapters from 1 Pedro
+
+
+DEBUG2019-06-26 23:36:33,253 [1]
+Importing chapters from 2 Pedro
+
+
+DEBUG2019-06-26 23:36:33,253 [1]
+Importing chapters from 1 Juan
+
+
+DEBUG2019-06-26 23:36:33,254 [1]
+Importing chapters from 2 Juan
+
+
+DEBUG2019-06-26 23:36:33,254 [1]
+Importing chapters from 3 Juan
+
+
+DEBUG2019-06-26 23:36:33,255 [1]
+Importing chapters from Judas
+
+
+DEBUG2019-06-26 23:36:33,256 [1]
+Importing chapters from Apocalipsis
+
+
+DEBUG2019-06-26 23:36:33,431 [1]
+Importing chapters from Genesis
+
+
+DEBUG2019-06-26 23:36:33,435 [1]
+Importing chapters from Exodus
+
+
+DEBUG2019-06-26 23:36:33,442 [1]
+Importing chapters from Leviticus
+
+
+DEBUG2019-06-26 23:36:33,444 [1]
+Importing chapters from Numbers
+
+
+DEBUG2019-06-26 23:36:33,447 [1]
+Importing chapters from Deuteronomy
+
+
+DEBUG2019-06-26 23:36:33,450 [1]
+Importing chapters from Joshua
+
+
+DEBUG2019-06-26 23:36:33,452 [1]
+Importing chapters from Judges
+
+
+DEBUG2019-06-26 23:36:33,454 [1]
+Importing chapters from Ruth
+
+
+DEBUG2019-06-26 23:36:33,455 [1]
+Importing chapters from 1 Samuel
+
+
+DEBUG2019-06-26 23:36:33,457 [1]
+Importing chapters from 2 Samuel
+
+
+DEBUG2019-06-26 23:36:33,459 [1]
+Importing chapters from 1 Kings
+
+
+DEBUG2019-06-26 23:36:33,462 [1]
+Importing chapters from 2 Kings
+
+
+DEBUG2019-06-26 23:36:33,464 [1]
+Importing chapters from 1 Chronicles
+
+
+DEBUG2019-06-26 23:36:33,469 [1]
+Importing chapters from 2 Chronicles
+
+
+DEBUG2019-06-26 23:36:33,472 [1]
+Importing chapters from Ezra
+
+
+DEBUG2019-06-26 23:36:33,486 [1]
+Importing chapters from Nehemiah
+
+
+DEBUG2019-06-26 23:36:33,487 [1]
+Importing chapters from Esther
+
+
+DEBUG2019-06-26 23:36:33,488 [1]
+Importing chapters from Job
+
+
+DEBUG2019-06-26 23:36:33,490 [1]
+Importing chapters from Psalm
+
+
+DEBUG2019-06-26 23:36:33,494 [1]
+Importing chapters from Proverbs
+
+
+DEBUG2019-06-26 23:36:33,496 [1]
+Importing chapters from Ecclesiastes
+
+
+DEBUG2019-06-26 23:36:33,497 [1]
+Importing chapters from Song of Solomon
+
+
+DEBUG2019-06-26 23:36:33,498 [1]
+Importing chapters from Isaiah
+
+
+DEBUG2019-06-26 23:36:33,500 [1]
+Importing chapters from Jeremiah
+
+
+DEBUG2019-06-26 23:36:33,507 [1]
+Importing chapters from Lamentations
+
+
+DEBUG2019-06-26 23:36:33,508 [1]
+Importing chapters from Ezekiel
+
+
+DEBUG2019-06-26 23:36:33,511 [1]
+Importing chapters from Daniel
+
+
+DEBUG2019-06-26 23:36:33,513 [1]
+Importing chapters from Hosea
+
+
+DEBUG2019-06-26 23:36:33,514 [1]
+Importing chapters from Joel
+
+
+DEBUG2019-06-26 23:36:33,515 [1]
+Importing chapters from Amos
+
+
+DEBUG2019-06-26 23:36:33,517 [1]
+Importing chapters from Obadiah
+
+
+DEBUG2019-06-26 23:36:33,517 [1]
+Importing chapters from Jonah
+
+
+DEBUG2019-06-26 23:36:33,518 [1]
+Importing chapters from Micah
+
+
+DEBUG2019-06-26 23:36:33,519 [1]
+Importing chapters from Nahum
+
+
+DEBUG2019-06-26 23:36:33,520 [1]
+Importing chapters from Habakkuk
+
+
+DEBUG2019-06-26 23:36:33,524 [1]
+Importing chapters from Zephaniah
+
+
+DEBUG2019-06-26 23:36:33,525 [1]
+Importing chapters from Haggai
+
+
+DEBUG2019-06-26 23:36:33,526 [1]
+Importing chapters from Zechariah
+
+
+DEBUG2019-06-26 23:36:33,542 [1]
+Importing chapters from Malachi
+
+
+DEBUG2019-06-26 23:36:33,543 [1]
+Importing chapters from Matthew
+
+
+DEBUG2019-06-26 23:36:33,545 [1]
+Importing chapters from Mark
+
+
+DEBUG2019-06-26 23:36:33,547 [1]
+Importing chapters from Luke
+
+
+DEBUG2019-06-26 23:36:33,549 [1]
+Importing chapters from John
+
+
+DEBUG2019-06-26 23:36:33,551 [1]
+Importing chapters from Acts
+
+
+DEBUG2019-06-26 23:36:33,553 [1]
+Importing chapters from Romans
+
+
+DEBUG2019-06-26 23:36:33,554 [1]
+Importing chapters from 1 Corinthians
+
+
+DEBUG2019-06-26 23:36:33,558 [1]
+Importing chapters from 2 Corinthians
+
+
+DEBUG2019-06-26 23:36:33,559 [1]
+Importing chapters from Galatians
+
+
+DEBUG2019-06-26 23:36:33,560 [1]
+Importing chapters from Ephesians
+
+
+DEBUG2019-06-26 23:36:33,561 [1]
+Importing chapters from Philippians
+
+
+DEBUG2019-06-26 23:36:33,562 [1]
+Importing chapters from Colossians
+
+
+DEBUG2019-06-26 23:36:33,562 [1]
+Importing chapters from 1 Thessalonians
+
+
+DEBUG2019-06-26 23:36:33,563 [1]
+Importing chapters from 2 Thessalonians
+
+
+DEBUG2019-06-26 23:36:33,564 [1]
+Importing chapters from 1 Timothy
+
+
+DEBUG2019-06-26 23:36:33,564 [1]
+Importing chapters from 2 Timothy
+
+
+DEBUG2019-06-26 23:36:33,565 [1]
+Importing chapters from Titus
+
+
+DEBUG2019-06-26 23:36:33,566 [1]
+Importing chapters from Philemon
+
+
+DEBUG2019-06-26 23:36:33,570 [1]
+Importing chapters from Hebrews
+
+
+DEBUG2019-06-26 23:36:33,571 [1]
+Importing chapters from James
+
+
+DEBUG2019-06-26 23:36:33,572 [1]
+Importing chapters from 1 Peter
+
+
+DEBUG2019-06-26 23:36:33,573 [1]
+Importing chapters from 2 Peter
+
+
+DEBUG2019-06-26 23:36:33,574 [1]
+Importing chapters from 1 John
+
+
+DEBUG2019-06-26 23:36:33,575 [1]
+Importing chapters from 2 John
+
+
+DEBUG2019-06-26 23:36:33,575 [1]
+Importing chapters from 3 John
+
+
+DEBUG2019-06-26 23:36:33,576 [1]
+Importing chapters from Jude
+
+
+DEBUG2019-06-26 23:36:33,577 [1]
+Importing chapters from Revelation
+
+
+INFO 2019-06-26 23:36:33,590 [1]
+Bibles Database loaded with 3 items
+
+
+INFO 2019-06-26 23:36:33,890 [1]
+Slides Database loaded with 5 items
+
+
+DEBUG2019-06-26 23:36:45,581 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-26 23:36:45,701 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-26 23:36:45,704 [1]
+Opening folder 'C:\Users\Febe\Downloads' in file browser
+
+
+INFO 2019-06-26 23:36:46,641 [1]
+Notification Added: It looks like you haven't set up your screens correctly. Would you like FreeWorship to do it for you?
+
+
+DEBUG2019-06-26 23:41:18,990 [21]
+Text creation 26 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:41:18,991 [14]
+Text creation 131 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:41:18,991 [13]
+Text creation 131 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:41:18,990 [20]
+Text creation 26 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+INFO 2019-06-26 23:41:19,147 [1]
+UserEvent: Selected Song Service Item
+{"ServiceItemIndex":"PV006. Un soldadito  ().xml","ServiceItemType":"SongServiceItem"}
+
+DEBUG2019-06-26 23:42:16,408 [11]
+Text creation 21 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:42:16,412 [19]
+Text creation 21 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+INFO 2019-06-26 23:42:22,136 [1]
+UserEvent: Selected Song Service Item
+{"ServiceItemIndex":"PV031.  En la Roca eterna ().xml","ServiceItemType":"SongServiceItem"}
+
+DEBUG2019-06-26 23:42:22,160 [25]
+Text creation 27 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:42:22,164 [24]
+Text creation 155 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:42:22,164 [23]
+Text creation 27 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:42:22,168 [11]
+Text creation 155 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:42:29,231 [11]
+Text creation 26 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:42:29,235 [25]
+Text creation 26 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+INFO 2019-06-26 23:42:40,157 [1]
+UserEvent: Selected Song Service Item
+{"ServiceItemIndex":"PV059. Sé de una fuente ().xml","ServiceItemType":"SongServiceItem"}
+
+DEBUG2019-06-26 23:42:40,169 [25]
+Text creation 25 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:42:40,177 [23]
+Text creation 25 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:42:40,267 [24]
+Text creation 159 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:42:40,267 [11]
+Text creation 159 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+INFO 2019-06-26 23:43:27,783 [1]
+UserEvent: Selected Song Service Item
+{"ServiceItemIndex":"PV060.  ().xml","ServiceItemType":"SongServiceItem"}
+
+DEBUG2019-06-26 23:43:27,823 [29]
+Text creation 11 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:43:27,823 [30]
+Text creation 9 characters 472,037647058823x250,77
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:43:27,826 [28]
+Text creation 11 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:43:27,823 [27]
+Text creation 9 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:43:29,055 [30]
+Text creation 9 characters 324,094935076253x172,166059259259
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:43:29,055 [27]
+Text creation 11 characters 324,094935076253x172,166059259259
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:43:29,167 [28]
+Text creation 11 characters 323,383768191721x171,788251851852
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:43:29,171 [31]
+Text creation 9 characters 323,383768191721x171,788251851852
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:43:33,378 [30]
+Text creation 9 characters 228,442989106754x121,350962962963
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:43:33,378 [27]
+Text creation 11 characters 228,442989106754x121,350962962963
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:44:59,538 [32]
+Text creation 0 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:44:59,542 [22]
+Text creation 35 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:44:59,542 [33]
+Text creation 0 characters 228,462989106754x121,370962962963
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:44:59,542 [34]
+Text creation 35 characters 228,462989106754x121,370962962963
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:45:01,519 [33]
+Text creation 25 characters 228,462989106754x121,370962962963
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+INFO 2019-06-26 23:45:01,519 [1]
+UserEvent: Selected Song Service Item
+{"ServiceItemIndex":"PV059. Sé de una fuente ().xml","ServiceItemType":"SongServiceItem"}
+
+DEBUG2019-06-26 23:45:01,523 [34]
+Text creation 159 characters 228,462989106754x121,370962962963
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+INFO 2019-06-26 23:45:18,201 [1]
+UserEvent: Selected Song Service Item
+{"ServiceItemIndex":"PV060. En mi corazón ().xml","ServiceItemType":"SongServiceItem"}
+
+DEBUG2019-06-26 23:45:18,215 [34]
+Text creation 128 characters 228,462989106754x121,370962962963
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:45:18,216 [32]
+Text creation 22 characters 228,462989106754x121,370962962963
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:45:18,216 [26]
+Text creation 22 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:45:18,217 [31]
+Text creation 128 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+INFO 2019-06-26 23:45:30,490 [1]
+UserEvent: Selected Song Service Item
+{"ServiceItemIndex":"PV060.  ().xml","ServiceItemType":"SongServiceItem"}
+
+DEBUG2019-06-26 23:48:01,639 [26]
+Text creation 132 characters 228,462989106754x121,370962962963
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:48:01,639 [33]
+Text creation 132 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:48:07,646 [30]
+Text creation 130 characters 228,462989106754x121,370962962963
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:48:07,646 [31]
+Text creation 130 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+INFO 2019-06-26 23:48:07,744 [1]
+SlideView: Song
+{"serviceItemType":"Song","serviceItemIndex":"PV060.  ().xml","serviceSubItemIndex":"FreeWorship.ViewModel.SongVerseDisplayVM"}
+
+INFO 2019-06-26 23:53:57,867 [1]
+UserEvent: Selected Song Service Item
+{"ServiceItemIndex":"PV062. He aquí ().xml","ServiceItemType":"SongServiceItem"}
+
+DEBUG2019-06-26 23:53:57,875 [31]
+Text creation 98 characters 228,462989106754x121,370962962963
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:53:57,875 [22]
+Text creation 16 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:53:57,875 [26]
+Text creation 98 characters 640x340
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+DEBUG2019-06-26 23:53:57,875 [27]
+Text creation 16 characters 228,462989106754x121,370962962963
+Create text after 0ms
+Wrapped text after 0ms
+Drawn text after 0ms
+
+
+
+INFO 2019-06-27 00:13:43,313 [1]
+Saving service list to C:\Users\Febe\Documents\FreeWorshipPortable_3.4.2.171\OVALLE.fws
+
+
+INFO 2019-06-27 00:13:43,471 [1]
+Settings written to disk
+
+
+INFO 2019-06-27 00:13:43,479 [1]
+View closed
+
+
+DEBUG2019-06-27 00:13:44,578 [1]
+Closing 0 open presentations
+
+
+DEBUG2019-06-27 00:13:44,610 [1]
+Finished closing all open presentations
+
+
+INFO 2019-06-27 00:13:44,689 [1]
+Closing PowerPoint
+
+
+INFO 2019-06-27 00:13:47,674 [1]
+FreeWorship closed
+-------------------------------------
+
+
