@@ -538,16 +538,16 @@
   <FadeToBlack>1</FadeToBlack>
   <FadeScreen>1</FadeScreen>
   <WindowLayout>
-    <Maximised>false</Maximised>
+    <Maximised>true</Maximised>
     <TransitionsOpen>true</TransitionsOpen>
     <BackgroundsOpen>true</BackgroundsOpen>
     <LowPriorityBackgroundsOpen>false</LowPriorityBackgroundsOpen>
     <TransitionsRowHeight>2</TransitionsRowHeight>
     <ServiceListRowHeight>3</ServiceListRowHeight>
-    <BackgroundRowHeight>268.34666666666669</BackgroundRowHeight>
-    <ItemDisplayRowHeight>395.69333333333327</ItemDisplayRowHeight>
-    <LeftColumnWidth>347.98494117647067</LeftColumnWidth>
-    <CentreColumnWidth>521.97741176470583</CentreColumnWidth>
+    <BackgroundRowHeight>168.34666666666675</BackgroundRowHeight>
+    <ItemDisplayRowHeight>495.69333333333321</ItemDisplayRowHeight>
+    <LeftColumnWidth>391.300698805838</LeftColumnWidth>
+    <CentreColumnWidth>478.66165413533849</CentreColumnWidth>
     <RightColumnWidth>480.0376470588235</RightColumnWidth>
   </WindowLayout>
   <FileBrowserStates>
