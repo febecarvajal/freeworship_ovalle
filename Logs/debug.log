@@ -64799,3 +64799,1031 @@ FreeWorship closed
 -------------------------------------
 
 
+INFO 2019-06-28 22:23:30,833 [1]
++++++++++++++++++++++++++++++++++++++
+FreeWorship Version: 3.5.1 x64
+Windows OS Version:10 Home Single Language 64-bit
+Sys Mem:3969MB
+{"FWVersion":"3.5.1","Bitness":" x64","WindowsOSVersion":"10 Home Single Language 64-bit","SystemMemory":"3969MB","SessionId":"bc216017-fa8b-4b63-bfe8-38d926143f47"}
+
+INFO 2019-06-28 22:23:30,989 [1]
+SessionID: bc216017-fa8b-4b63-bfe8-38d926143f47
+
+
+DEBUG2019-06-28 22:23:31,005 [1]
+Starting new Icon generation thread ThumbGen236
+
+
+INFO 2019-06-28 22:23:31,804 [1]
+Created Win8.1/Win10 spell checker
+
+
+WARN 2019-06-28 22:23:31,835 [1]
+No spelling dictionaries found in registry
+
+
+INFO 2019-06-28 22:23:41,798 [1]
+Succesfully started PowerPoint 2016
+
+
+DEBUG2019-06-28 22:23:46,446 [1]
+Presentation window's handle is 4523328
+
+
+INFO 2019-06-28 22:23:55,544 [1]
+Loaded settings
+{"Settings":{"IsPortable":true,"StorageFolder":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\","TempFolder":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Temp\\","Version":"3.5.1.183","DatabaseLocation":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Data","DefaultDatabaseLocation":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Data\\","RawDatabaseLocation":"C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Data","DisplayMonitor":"[0;0;640;340]","DisplayBounds":"0,0,640,340","UsesCustomDisplay":true,"StageDisplayMonitor":"[0;0;640;340]","StageDisplayBounds":"0,0,640,340","UsesCustomStageDisplay":true,"Songs":{"DefaultStyle":{"ShowVerseNumber":false,"ShowChorusName":false,"ShowVerseName":false,"ShowVerseChorusNamesInCaps":false,"ForceChorusInItalics":false,"Font":{"FontFamily":"Century Gothic","Bold":false,"Italic":false,"FontSize":36.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SaveSongOnQuickEdit":true,"Search":{"Titles":true,"Lyrics":false,"Authors":false,"Themes":false,"Songbooks":true,"Web":false},"Licence":{"Number":0,"Type":0,"Custom":""},"CopyrightDisplay":1,"SongCopyrightToken":"","UseVerseOrderForLyricsList":true,"LinkSongTextStyleToLicence":true,"LinkSongMarginStyleToLicence":true,"DefaultSongLicenceStyle":{"ShowVerseNumber":false,"ShowChorusName":false,"ShowVerseName":false,"ShowVerseChorusNamesInCaps":false,"ForceChorusInItalics":false,"Font":{"FontFamily":"Calibri","Bold":false,"Italic":false,"FontSize":12.0,"FontAlignment":1,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":2,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}}},"Bibles":{"DefaultStyle":{"BibleToUse":"BibliaRVR1960.xml","VerseNums":true,"Name":2,"NamePosition":1,"DisplayBibleName":false,"UseShortName":true,"Font":{"FontFamily":"Century Gothic","Bold":false,"Italic":false,"FontSize":36.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":1.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":255,"G":255,"B":255},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SelectNum":1,"SearchKeywords":false},"Slides":{"DefaultStyle":{"Font":{"FontFamily":"Calibri","Bold":true,"Italic":false,"FontSize":48.0,"FontAlignment":2,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":10.0,"Top":10.0,"Right":10.0,"Bottom":10.0}},"DefaultBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"SlideSetOrder":0,"DefaultTime":"00:00:12","DefaultTimeTicks":120000000},"Media":{"DefaultImageStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultImageBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"DefaultVideoStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultVideoBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"DefaultStreamStyle":{"FillType":0,"Margins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0}},"DefaultStreamBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"VideoPreviewLevel":2,"BackgroundVideoVolumeEnabled":false},"DefaultTimeStyle":{"Font":{"FontFamily":"Courier New","Bold":false,"Italic":false,"FontSize":96.0,"FontAlignment":2,"FontColour":{"A":255,"R":0,"G":128,"B":0},"VerticalAlignment":1,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0},"Shadow":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":5.0,"Top":5.0,"Right":5.0,"Bottom":5.0}},"DefaultTimeBackground":{"Colour1":{"A":255,"R":0,"G":0,"B":0},"Colour2":{"A":255,"R":0,"G":29,"B":81},"TypeOfGradient":0,"Reflected":false,"Point1":"0.5,0","Point2":"0.5,1"},"ClockOverlayEnabled":false,"ClockOverlayStyle":{"Font":{"FontFamily":"Lucida Sans Typewriter","Bold":true,"Italic":false,"FontSize":18.0,"FontAlignment":1,"FontColour":{"A":255,"R":255,"G":255,"B":255},"VerticalAlignment":0,"Outline":{"Enabled":true,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":4.0},"Shadow":{"Enabled":false,"Colour":{"A":255,"R":0,"G":0,"B":0},"Size":3.0,"Blur":5.0,"Direction":-35}},"AutoSize":true,"Wrap":true,"Margins":{"Left":2.0,"Top":2.0,"Right":2.0,"Bottom":2.0}},"DefaultAlertStyle":{"AlertType":0,"AlertColour":0,"Size":3,"CapitalLetters":false},"DefaultTransition":{"ID":0,"Duration":1.0},"FadeToBlack":1.0,"FadeScreen":1.0,"WindowLayout":{"Maximised":true,"TransitionsOpen":true,"BackgroundsOpen":true,"LowPriorityBackgroundsOpen":false,"TransitionsRowHeight":2.0,"ServiceListRowHeight":3.0,"BackgroundRowHeight":168.34666666666675,"ItemDisplayRowHeight":495.69333333333321,"LeftColumnWidth":391.300698805838,"CentreColumnWidth":478.66165413533849,"RightColumnWidth":480.0376470588235},"FileBrowserStates":{"MediaForeground":{"Folder":"C:\\Users\\Febe\\Downloads","Zoom":75.0},"MediaBackground":{"Folder":"C:\\Users\\Febe\\Downloads","Zoom":77.999999999999972},"Powerpoint":{"Folder":"...\\","Zoom":75.0},"SongImporter":{"Folder":"...\\Songs","Zoom":75.0},"BibleImporter":{"Folder":"...\\Bibles","Zoom":75.0}},"LogoPath":"Default","LogoFillType":3,"DisplayMargins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0},"StageDisplayMargins":{"Left":0.0,"Top":0.0,"Right":0.0,"Bottom":0.0},"Language":"es","LastExportSettings":{"Format":0,"FontSize":12.0,"FullItems":true,"SongVerseNums":false,"SongCopyrightPosition":"Bottom"},"StageDisplayConfiguration":{"Enabled":true,"TopMargin":0.2,"RightMargin":0.3},"BasicMode":{"Enabled":false,"HideTransitions":true,"HideBackgrounds":true,"HideStyling":true,"HideUserManagement":true,"DisablePreferences":false,"TransitionsHidden":false,"BackgroundsHidden":false,"StylingHidden":false,"UserManagementHidden":false,"PreferencesDisabled":false},"AutoApplyPreview":false,"DontSelectNextVerse":false,"DefaultBasherMode":0,"DevelopmentUpdates":false,"Skin":".\\Resources\\Skins\\Beach\\Skin.xaml","ReportErrorsOnStartup":true,"IncludeErrorScreenshot":true,"ShowPresentationDisplayOnStartup":true,"ReportErrors":false,"ReportErrorsOnly":false,"ReportAnonymously":false,"MaxLogsToUploadAtOnce":100,"LogUploadPeriodInMiliseconds":30000,"ErrorReportingNotSet":false}}
+
+INFO 2019-06-28 22:23:57,451 [12]
+Updating licence from server
+
+
+ERROR2019-06-28 22:24:02,820 [17]
+Web error updating licence
+{"ResponseCode":403,"ErrorPayload":"{\"ErrorMessage\":\"activationKey or machineId not found\"}"}
+
+WARN 2019-06-28 22:24:03,418 [17]
+Failed to update licence from server: A web error occured when updating your licence. Please try again
+
+
+INFO 2019-06-28 22:24:05,694 [1]
+Loaded Chrome Embedded Framework
+
+
+INFO 2019-06-28 22:24:14,689 [1]
+Initialised Chrome Embedded Framework
+
+
+INFO 2019-06-28 22:24:16,329 [1]
+Failed to load the following font: No se puede convertir FontFamilyConverter desde System.String.
+{"FailedFont":""}
+
+INFO 2019-06-28 22:24:17,317 [1]
+Failed to load the following font:HelveticaNeueLT Std 
+{"FailedFont":"HelveticaNeueLT Std"}
+
+INFO 2019-06-28 22:24:17,318 [1]
+Failed to load the following font:HelveticaNeueLT Std Blk 
+{"FailedFont":"HelveticaNeueLT Std Blk"}
+
+INFO 2019-06-28 22:24:17,319 [1]
+Failed to load the following font:HelveticaNeueLT Std Cn 
+{"FailedFont":"HelveticaNeueLT Std Cn"}
+
+INFO 2019-06-28 22:24:17,319 [1]
+Failed to load the following font:HelveticaNeueLT Std Lt 
+{"FailedFont":"HelveticaNeueLT Std Lt"}
+
+INFO 2019-06-28 22:24:17,790 [1]
+Loaded 179 fonts successfully
+
+
+INFO 2019-06-28 22:24:26,860 [1]
+Songs Database loaded with 843 items
+
+
+DEBUG2019-06-28 22:24:27,497 [1]
+Importing chapters from Genesis
+
+
+DEBUG2019-06-28 22:24:27,509 [1]
+Importing chapters from Exodus
+
+
+DEBUG2019-06-28 22:24:27,516 [1]
+Importing chapters from Leviticus
+
+
+DEBUG2019-06-28 22:24:27,518 [1]
+Importing chapters from Numbers
+
+
+DEBUG2019-06-28 22:24:27,521 [1]
+Importing chapters from Deuteronomy
+
+
+DEBUG2019-06-28 22:24:27,524 [1]
+Importing chapters from Joshua
+
+
+DEBUG2019-06-28 22:24:27,526 [1]
+Importing chapters from Judges
+
+
+DEBUG2019-06-28 22:24:27,528 [1]
+Importing chapters from Ruth
+
+
+DEBUG2019-06-28 22:24:27,529 [1]
+Importing chapters from 1 Samuel
+
+
+DEBUG2019-06-28 22:24:27,532 [1]
+Importing chapters from 2 Samuel
+
+
+DEBUG2019-06-28 22:24:27,534 [1]
+Importing chapters from 1 Kings
+
+
+DEBUG2019-06-28 22:24:27,536 [1]
+Importing chapters from 2 Kings
+
+
+DEBUG2019-06-28 22:24:27,538 [1]
+Importing chapters from 1 Chronicles
+
+
+DEBUG2019-06-28 22:24:27,544 [1]
+Importing chapters from 2 Chronicles
+
+
+DEBUG2019-06-28 22:24:27,559 [1]
+Importing chapters from Ezra
+
+
+DEBUG2019-06-28 22:24:27,560 [1]
+Importing chapters from Nehemiah
+
+
+DEBUG2019-06-28 22:24:27,561 [1]
+Importing chapters from Esther
+
+
+DEBUG2019-06-28 22:24:27,562 [1]
+Importing chapters from Job
+
+
+DEBUG2019-06-28 22:24:27,564 [1]
+Importing chapters from Psalm
+
+
+DEBUG2019-06-28 22:24:27,568 [1]
+Importing chapters from Proverbs
+
+
+DEBUG2019-06-28 22:24:27,570 [1]
+Importing chapters from Ecclesiastes
+
+
+DEBUG2019-06-28 22:24:27,571 [1]
+Importing chapters from Song of Solomon
+
+
+DEBUG2019-06-28 22:24:27,572 [1]
+Importing chapters from Isaiah
+
+
+DEBUG2019-06-28 22:24:27,575 [1]
+Importing chapters from Jeremiah
+
+
+DEBUG2019-06-28 22:24:27,581 [1]
+Importing chapters from Lamentations
+
+
+DEBUG2019-06-28 22:24:27,582 [1]
+Importing chapters from Ezekiel
+
+
+DEBUG2019-06-28 22:24:27,586 [1]
+Importing chapters from Daniel
+
+
+DEBUG2019-06-28 22:24:27,587 [1]
+Importing chapters from Hosea
+
+
+DEBUG2019-06-28 22:24:27,588 [1]
+Importing chapters from Joel
+
+
+DEBUG2019-06-28 22:24:27,589 [1]
+Importing chapters from Amos
+
+
+DEBUG2019-06-28 22:24:27,590 [1]
+Importing chapters from Obadiah
+
+
+DEBUG2019-06-28 22:24:27,591 [1]
+Importing chapters from Jonah
+
+
+DEBUG2019-06-28 22:24:27,591 [1]
+Importing chapters from Micah
+
+
+DEBUG2019-06-28 22:24:27,605 [1]
+Importing chapters from Nahum
+
+
+DEBUG2019-06-28 22:24:27,607 [1]
+Importing chapters from Habakkuk
+
+
+DEBUG2019-06-28 22:24:27,610 [1]
+Importing chapters from Zephaniah
+
+
+DEBUG2019-06-28 22:24:27,611 [1]
+Importing chapters from Haggai
+
+
+DEBUG2019-06-28 22:24:27,612 [1]
+Importing chapters from Zechariah
+
+
+DEBUG2019-06-28 22:24:27,613 [1]
+Importing chapters from Malachi
+
+
+DEBUG2019-06-28 22:24:27,614 [1]
+Importing chapters from Matthew
+
+
+DEBUG2019-06-28 22:24:27,616 [1]
+Importing chapters from Mark
+
+
+DEBUG2019-06-28 22:24:27,618 [1]
+Importing chapters from Luke
+
+
+DEBUG2019-06-28 22:24:27,621 [1]
+Importing chapters from John
+
+
+DEBUG2019-06-28 22:24:27,623 [1]
+Importing chapters from Acts
+
+
+DEBUG2019-06-28 22:24:27,626 [1]
+Importing chapters from Romans
+
+
+DEBUG2019-06-28 22:24:27,627 [1]
+Importing chapters from 1 Corinthians
+
+
+DEBUG2019-06-28 22:24:27,631 [1]
+Importing chapters from 2 Corinthians
+
+
+DEBUG2019-06-28 22:24:27,633 [1]
+Importing chapters from Galatians
+
+
+DEBUG2019-06-28 22:24:27,634 [1]
+Importing chapters from Ephesians
+
+
+DEBUG2019-06-28 22:24:27,635 [1]
+Importing chapters from Philippians
+
+
+DEBUG2019-06-28 22:24:27,636 [1]
+Importing chapters from Colossians
+
+
+DEBUG2019-06-28 22:24:27,636 [1]
+Importing chapters from 1 Thessalonians
+
+
+DEBUG2019-06-28 22:24:27,637 [1]
+Importing chapters from 2 Thessalonians
+
+
+DEBUG2019-06-28 22:24:27,638 [1]
+Importing chapters from 1 Timothy
+
+
+DEBUG2019-06-28 22:24:27,639 [1]
+Importing chapters from 2 Timothy
+
+
+DEBUG2019-06-28 22:24:27,640 [1]
+Importing chapters from Titus
+
+
+DEBUG2019-06-28 22:24:27,640 [1]
+Importing chapters from Philemon
+
+
+DEBUG2019-06-28 22:24:27,644 [1]
+Importing chapters from Hebrews
+
+
+DEBUG2019-06-28 22:24:27,645 [1]
+Importing chapters from James
+
+
+DEBUG2019-06-28 22:24:27,646 [1]
+Importing chapters from 1 Peter
+
+
+DEBUG2019-06-28 22:24:27,647 [1]
+Importing chapters from 2 Peter
+
+
+DEBUG2019-06-28 22:24:27,648 [1]
+Importing chapters from 1 John
+
+
+DEBUG2019-06-28 22:24:27,660 [1]
+Importing chapters from 2 John
+
+
+DEBUG2019-06-28 22:24:27,661 [1]
+Importing chapters from 3 John
+
+
+DEBUG2019-06-28 22:24:27,661 [1]
+Importing chapters from Jude
+
+
+DEBUG2019-06-28 22:24:27,662 [1]
+Importing chapters from Revelation
+
+
+DEBUG2019-06-28 22:24:28,089 [1]
+Importing chapters from Génesis
+
+
+DEBUG2019-06-28 22:24:28,098 [1]
+Importing chapters from Éxodo
+
+
+DEBUG2019-06-28 22:24:28,127 [1]
+Importing chapters from Levítico
+
+
+DEBUG2019-06-28 22:24:28,129 [1]
+Importing chapters from Números
+
+
+DEBUG2019-06-28 22:24:28,132 [1]
+Importing chapters from Deuteronomio
+
+
+DEBUG2019-06-28 22:24:28,135 [1]
+Importing chapters from Josué
+
+
+DEBUG2019-06-28 22:24:28,137 [1]
+Importing chapters from Jueces
+
+
+DEBUG2019-06-28 22:24:28,139 [1]
+Importing chapters from Rut
+
+
+DEBUG2019-06-28 22:24:28,140 [1]
+Importing chapters from 1 Samuel
+
+
+DEBUG2019-06-28 22:24:28,142 [1]
+Importing chapters from 2 Samuel
+
+
+DEBUG2019-06-28 22:24:28,144 [1]
+Importing chapters from 1 Reyes
+
+
+DEBUG2019-06-28 22:24:28,147 [1]
+Importing chapters from 2 Reyes
+
+
+DEBUG2019-06-28 22:24:28,159 [1]
+Importing chapters from 1 Crónicas
+
+
+DEBUG2019-06-28 22:24:28,163 [1]
+Importing chapters from 2 Crónicas
+
+
+DEBUG2019-06-28 22:24:28,166 [1]
+Importing chapters from Esdras
+
+
+DEBUG2019-06-28 22:24:28,167 [1]
+Importing chapters from Nehemías
+
+
+DEBUG2019-06-28 22:24:28,168 [1]
+Importing chapters from Ester
+
+
+DEBUG2019-06-28 22:24:28,169 [1]
+Importing chapters from Job
+
+
+DEBUG2019-06-28 22:24:28,172 [1]
+Importing chapters from Salmos
+
+
+DEBUG2019-06-28 22:24:28,177 [1]
+Importing chapters from Proverbios
+
+
+DEBUG2019-06-28 22:24:28,180 [1]
+Importing chapters from Eclesiastés
+
+
+DEBUG2019-06-28 22:24:28,181 [1]
+Importing chapters from Cantares
+
+
+DEBUG2019-06-28 22:24:28,182 [1]
+Importing chapters from Isaías
+
+
+DEBUG2019-06-28 22:24:28,185 [1]
+Importing chapters from Jeremías
+
+
+DEBUG2019-06-28 22:24:28,192 [1]
+Importing chapters from Lamentaciones
+
+
+DEBUG2019-06-28 22:24:28,193 [1]
+Importing chapters from Ezequiel
+
+
+DEBUG2019-06-28 22:24:28,210 [1]
+Importing chapters from Daniel
+
+
+DEBUG2019-06-28 22:24:28,212 [1]
+Importing chapters from Oseas
+
+
+DEBUG2019-06-28 22:24:28,213 [1]
+Importing chapters from Joel
+
+
+DEBUG2019-06-28 22:24:28,214 [1]
+Importing chapters from Amós
+
+
+DEBUG2019-06-28 22:24:28,214 [1]
+Importing chapters from Abdías
+
+
+DEBUG2019-06-28 22:24:28,215 [1]
+Importing chapters from Jonás
+
+
+DEBUG2019-06-28 22:24:28,216 [1]
+Importing chapters from Miqueas
+
+
+DEBUG2019-06-28 22:24:28,216 [1]
+Importing chapters from Nahúm
+
+
+DEBUG2019-06-28 22:24:28,217 [1]
+Importing chapters from Habacuc
+
+
+DEBUG2019-06-28 22:24:28,220 [1]
+Importing chapters from Sofonías
+
+
+DEBUG2019-06-28 22:24:28,221 [1]
+Importing chapters from Hageo
+
+
+DEBUG2019-06-28 22:24:28,222 [1]
+Importing chapters from Zacarías
+
+
+DEBUG2019-06-28 22:24:28,223 [1]
+Importing chapters from Malaquías
+
+
+DEBUG2019-06-28 22:24:28,223 [1]
+Importing chapters from Mateo
+
+
+DEBUG2019-06-28 22:24:28,225 [1]
+Importing chapters from Marcos
+
+
+DEBUG2019-06-28 22:24:28,227 [1]
+Importing chapters from Lucas
+
+
+DEBUG2019-06-28 22:24:28,229 [1]
+Importing chapters from Juan
+
+
+DEBUG2019-06-28 22:24:28,231 [1]
+Importing chapters from Hechos
+
+
+DEBUG2019-06-28 22:24:28,233 [1]
+Importing chapters from Romanos
+
+
+DEBUG2019-06-28 22:24:28,235 [1]
+Importing chapters from 1 Corintios
+
+
+DEBUG2019-06-28 22:24:28,240 [1]
+Importing chapters from 2 Corintios
+
+
+DEBUG2019-06-28 22:24:28,241 [1]
+Importing chapters from Gálatas
+
+
+DEBUG2019-06-28 22:24:28,242 [1]
+Importing chapters from Efesios
+
+
+DEBUG2019-06-28 22:24:28,243 [1]
+Importing chapters from Filipenses
+
+
+DEBUG2019-06-28 22:24:28,244 [1]
+Importing chapters from Colosenses
+
+
+DEBUG2019-06-28 22:24:28,245 [1]
+Importing chapters from 1 Tesalonicenses
+
+
+DEBUG2019-06-28 22:24:28,246 [1]
+Importing chapters from 2 Tesalonicenses
+
+
+DEBUG2019-06-28 22:24:28,258 [1]
+Importing chapters from 1 Timoteo
+
+
+DEBUG2019-06-28 22:24:28,258 [1]
+Importing chapters from 2 Timoteo
+
+
+DEBUG2019-06-28 22:24:28,259 [1]
+Importing chapters from Tito
+
+
+DEBUG2019-06-28 22:24:28,260 [1]
+Importing chapters from Filemón
+
+
+DEBUG2019-06-28 22:24:28,344 [1]
+Importing chapters from Hebreos
+
+
+DEBUG2019-06-28 22:24:28,345 [1]
+Importing chapters from Santiago
+
+
+DEBUG2019-06-28 22:24:28,346 [1]
+Importing chapters from 1 Pedro
+
+
+DEBUG2019-06-28 22:24:28,347 [1]
+Importing chapters from 2 Pedro
+
+
+DEBUG2019-06-28 22:24:28,347 [1]
+Importing chapters from 1 Juan
+
+
+DEBUG2019-06-28 22:24:28,348 [1]
+Importing chapters from 2 Juan
+
+
+DEBUG2019-06-28 22:24:28,349 [1]
+Importing chapters from 3 Juan
+
+
+DEBUG2019-06-28 22:24:28,349 [1]
+Importing chapters from Judas
+
+
+DEBUG2019-06-28 22:24:28,350 [1]
+Importing chapters from Apocalipsis
+
+
+DEBUG2019-06-28 22:24:28,860 [1]
+Importing chapters from Genesis
+
+
+DEBUG2019-06-28 22:24:28,867 [1]
+Importing chapters from Exodus
+
+
+DEBUG2019-06-28 22:24:28,873 [1]
+Importing chapters from Leviticus
+
+
+DEBUG2019-06-28 22:24:28,875 [1]
+Importing chapters from Numbers
+
+
+DEBUG2019-06-28 22:24:28,879 [1]
+Importing chapters from Deuteronomy
+
+
+DEBUG2019-06-28 22:24:28,882 [1]
+Importing chapters from Joshua
+
+
+DEBUG2019-06-28 22:24:28,884 [1]
+Importing chapters from Judges
+
+
+DEBUG2019-06-28 22:24:28,886 [1]
+Importing chapters from Ruth
+
+
+DEBUG2019-06-28 22:24:28,887 [1]
+Importing chapters from 1 Samuel
+
+
+DEBUG2019-06-28 22:24:28,889 [1]
+Importing chapters from 2 Samuel
+
+
+DEBUG2019-06-28 22:24:28,892 [1]
+Importing chapters from 1 Kings
+
+
+DEBUG2019-06-28 22:24:28,894 [1]
+Importing chapters from 2 Kings
+
+
+DEBUG2019-06-28 22:24:28,897 [1]
+Importing chapters from 1 Chronicles
+
+
+DEBUG2019-06-28 22:24:28,915 [1]
+Importing chapters from 2 Chronicles
+
+
+DEBUG2019-06-28 22:24:28,918 [1]
+Importing chapters from Ezra
+
+
+DEBUG2019-06-28 22:24:28,919 [1]
+Importing chapters from Nehemiah
+
+
+DEBUG2019-06-28 22:24:28,920 [1]
+Importing chapters from Esther
+
+
+DEBUG2019-06-28 22:24:28,921 [1]
+Importing chapters from Job
+
+
+DEBUG2019-06-28 22:24:28,923 [1]
+Importing chapters from Psalm
+
+
+DEBUG2019-06-28 22:24:28,927 [1]
+Importing chapters from Proverbs
+
+
+DEBUG2019-06-28 22:24:28,929 [1]
+Importing chapters from Ecclesiastes
+
+
+DEBUG2019-06-28 22:24:28,930 [1]
+Importing chapters from Song of Solomon
+
+
+DEBUG2019-06-28 22:24:28,931 [1]
+Importing chapters from Isaiah
+
+
+DEBUG2019-06-28 22:24:28,934 [1]
+Importing chapters from Jeremiah
+
+
+DEBUG2019-06-28 22:24:28,944 [1]
+Importing chapters from Lamentations
+
+
+DEBUG2019-06-28 22:24:28,946 [1]
+Importing chapters from Ezekiel
+
+
+DEBUG2019-06-28 22:24:28,952 [1]
+Importing chapters from Daniel
+
+
+DEBUG2019-06-28 22:24:28,955 [1]
+Importing chapters from Hosea
+
+
+DEBUG2019-06-28 22:24:28,957 [1]
+Importing chapters from Joel
+
+
+DEBUG2019-06-28 22:24:28,959 [1]
+Importing chapters from Amos
+
+
+DEBUG2019-06-28 22:24:28,960 [1]
+Importing chapters from Obadiah
+
+
+DEBUG2019-06-28 22:24:28,962 [1]
+Importing chapters from Jonah
+
+
+DEBUG2019-06-28 22:24:28,963 [1]
+Importing chapters from Micah
+
+
+DEBUG2019-06-28 22:24:28,965 [1]
+Importing chapters from Nahum
+
+
+DEBUG2019-06-28 22:24:28,967 [1]
+Importing chapters from Habakkuk
+
+
+DEBUG2019-06-28 22:24:28,993 [1]
+Importing chapters from Zephaniah
+
+
+DEBUG2019-06-28 22:24:28,994 [1]
+Importing chapters from Haggai
+
+
+DEBUG2019-06-28 22:24:28,995 [1]
+Importing chapters from Zechariah
+
+
+DEBUG2019-06-28 22:24:28,997 [1]
+Importing chapters from Malachi
+
+
+DEBUG2019-06-28 22:24:28,998 [1]
+Importing chapters from Matthew
+
+
+DEBUG2019-06-28 22:24:29,002 [1]
+Importing chapters from Mark
+
+
+DEBUG2019-06-28 22:24:29,004 [1]
+Importing chapters from Luke
+
+
+DEBUG2019-06-28 22:24:29,008 [1]
+Importing chapters from John
+
+
+DEBUG2019-06-28 22:24:29,010 [1]
+Importing chapters from Acts
+
+
+DEBUG2019-06-28 22:24:29,012 [1]
+Importing chapters from Romans
+
+
+DEBUG2019-06-28 22:24:29,013 [1]
+Importing chapters from 1 Corinthians
+
+
+DEBUG2019-06-28 22:24:29,018 [1]
+Importing chapters from 2 Corinthians
+
+
+DEBUG2019-06-28 22:24:29,020 [1]
+Importing chapters from Galatians
+
+
+DEBUG2019-06-28 22:24:29,022 [1]
+Importing chapters from Ephesians
+
+
+DEBUG2019-06-28 22:24:29,023 [1]
+Importing chapters from Philippians
+
+
+DEBUG2019-06-28 22:24:29,023 [1]
+Importing chapters from Colossians
+
+
+DEBUG2019-06-28 22:24:29,024 [1]
+Importing chapters from 1 Thessalonians
+
+
+DEBUG2019-06-28 22:24:29,025 [1]
+Importing chapters from 2 Thessalonians
+
+
+DEBUG2019-06-28 22:24:29,026 [1]
+Importing chapters from 1 Timothy
+
+
+DEBUG2019-06-28 22:24:29,027 [1]
+Importing chapters from 2 Timothy
+
+
+DEBUG2019-06-28 22:24:29,028 [1]
+Importing chapters from Titus
+
+
+DEBUG2019-06-28 22:24:29,029 [1]
+Importing chapters from Philemon
+
+
+DEBUG2019-06-28 22:24:29,034 [1]
+Importing chapters from Hebrews
+
+
+DEBUG2019-06-28 22:24:29,036 [1]
+Importing chapters from James
+
+
+DEBUG2019-06-28 22:24:29,038 [1]
+Importing chapters from 1 Peter
+
+
+DEBUG2019-06-28 22:24:29,039 [1]
+Importing chapters from 2 Peter
+
+
+DEBUG2019-06-28 22:24:29,041 [1]
+Importing chapters from 1 John
+
+
+DEBUG2019-06-28 22:24:29,042 [1]
+Importing chapters from 2 John
+
+
+DEBUG2019-06-28 22:24:29,044 [1]
+Importing chapters from 3 John
+
+
+DEBUG2019-06-28 22:24:29,060 [1]
+Importing chapters from Jude
+
+
+DEBUG2019-06-28 22:24:29,061 [1]
+Importing chapters from Revelation
+
+
+INFO 2019-06-28 22:24:29,063 [1]
+Bibles Database loaded with 3 items
+
+
+INFO 2019-06-28 22:24:29,555 [1]
+Slides Database loaded with 6 items
+
+
+INFO 2019-06-28 22:24:39,397 [1]
+Checked for updates in 2143 ms
+
+
+INFO 2019-06-28 22:24:39,406 [1]
+Result was NoUpdate
+
+
+DEBUG2019-06-28 22:24:41,874 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-28 22:24:42,038 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-28 22:24:42,042 [1]
+Opening folder 'C:\Users\Febe\Downloads' in file browser
+
+
+INFO 2019-06-28 22:24:43,187 [1]
+Notification Added: It looks like you haven't set up your screens correctly. Would you like FreeWorship to do it for you?
+
+
+INFO 2019-06-28 22:26:52,664 [1]
+Settings written to disk
+
+
+INFO 2019-06-28 22:26:52,899 [1]
+View closed
+
+
+DEBUG2019-06-28 22:26:53,749 [1]
+Closing 0 open presentations
+
+
+DEBUG2019-06-28 22:26:53,769 [1]
+Finished closing all open presentations
+
+
+INFO 2019-06-28 22:26:53,794 [1]
+Closing PowerPoint
+
+
+INFO 2019-06-28 22:26:54,069 [1]
+FreeWorship closed
+-------------------------------------
+
+
+INFO 2019-06-28 22:27:18,849 [1]
+UserEvent: Opening Preferences
+
+
+DEBUG2019-06-28 22:27:19,256 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-28 22:27:19,256 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-28 22:27:19,256 [1]
+Opening folder '...\Media\' in file browser
+
+
+DEBUG2019-06-28 22:27:25,260 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-28 22:27:25,315 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-28 22:27:25,315 [1]
+Opening folder 'C:\Users\Febe\Downloads' in file browser
+
+
+DEBUG2019-06-28 22:27:38,201 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-28 22:27:38,211 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-28 22:27:38,211 [1]
+Opening folder 'C:\Users\Febe\Downloads' in file browser
+
+
+DEBUG2019-06-28 22:27:42,312 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-28 22:27:42,317 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-28 22:27:42,317 [1]
+Opening folder 'C:\Users\Febe\Downloads' in file browser
+
+
+DEBUG2019-06-28 22:27:45,825 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-28 22:27:45,825 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-28 22:27:45,825 [1]
+Opening folder 'C:\Users\Febe\Downloads' in file browser
+
+
+DEBUG2019-06-28 22:27:52,727 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-28 22:27:52,747 [1]
+Opening folder '' in file browser
+
+
+DEBUG2019-06-28 22:27:52,747 [1]
+Opening folder '...\Media\' in file browser
+
+
+INFO 2019-06-28 22:28:05,718 [1]
+Settings written to disk
+
+
+INFO 2019-06-28 22:28:11,090 [1]
+Settings written to disk
+
+
+INFO 2019-06-28 22:28:11,155 [1]
+View closed
+
+
+ERROR2019-06-28 22:28:11,867 [1]
+
+{"Exception":{"ClassName":"System.IO.DirectoryNotFoundException","Message":"No se puede encontrar una parte de la ruta de acceso 'C:\\Users\\Febe\\Documents\\FreeWorshipPortable_3.4.2.171\\Temp'.","Data":{"System.Object":null},"InnerException":null,"HelpURL":null,"StackTraceString":"   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)\r\n   en System.IO.FileSystemEnumerableIterator`1.CommonInit()\r\n   en System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)\r\n   en System.IO.Directory.GetDirectories(String path)\r\n   en FreeWorship.Core.Utilities.FileSystemUtilities.DeleteTempFolderSafe(String folder)\r\n   en FreeWorship.FreeWorshipApp.OnExit(ExitEventArgs e)\r\n   en System.Windows.Application.DoShutdown()\r\n   en System.Windows.Application.ShutdownImpl()\r\n   en System.Windows.Application.ShutdownCallback(Object arg)\r\n   en System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)\r\n   en System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":"8\nWinIOError\nmscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089\nSystem.IO.__Error\nVoid WinIOError(Int32, System.String)","HResult":-2147024893,"Source":"mscorlib","WatsonBuckets":null}}
+
+INFO 2019-06-28 22:28:11,867 [1]
+Notification Added: The following error occurred - "No se puede encontrar una parte de la ruta de acceso 'C:\Users\Febe\Documents\FreeWorshipPortable_3.4.2.171\Temp'."
+
+

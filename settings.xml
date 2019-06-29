@@ -611,7 +611,7 @@
   <DontSelectNextVerse>false</DontSelectNextVerse>
   <DefaultBasherMode>Bible</DefaultBasherMode>
   <DevelopmentUpdates>false</DevelopmentUpdates>
-  <Skin>.\Resources\Skins\Beach\Skin.xaml</Skin>
+  <Skin>.\Resources\Skins\Seafoam\Skin.xaml</Skin>
   <ReportErrorsOnStartup>true</ReportErrorsOnStartup>
   <IncludeErrorScreenshot>true</IncludeErrorScreenshot>
   <ShowPresentationDisplayOnStartup>true</ShowPresentationDisplayOnStartup>
