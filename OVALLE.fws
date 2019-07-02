@@ -26,6 +26,34 @@
       <Title>PROXIMAS REUNIONES (Miercoles)</Title>
       <Index>PROXIMAS REUNIONES (Miercoles)</Index>
     </ServiceItem>
+    <ServiceItem xsi:type="SongServiceItem">
+      <Title>La Bienvenida</Title>
+      <Index>La Bienvenida ().xml</Index>
+      <Background xsi:type="GradientBackgroundSettings">
+        <Colour1>
+          <A>255</A>
+          <R>0</R>
+          <G>0</G>
+          <B>0</B>
+        </Colour1>
+        <Colour2>
+          <A>255</A>
+          <R>0</R>
+          <G>29</G>
+          <B>81</B>
+        </Colour2>
+        <TypeOfGradient>Solid</TypeOfGradient>
+        <Reflected>false</Reflected>
+        <Point1>
+          <X>0.5</X>
+          <Y>0</Y>
+        </Point1>
+        <Point2>
+          <X>0.5</X>
+          <Y>1</Y>
+        </Point2>
+      </Background>
+    </ServiceItem>
   </ServiceItems>
   <Version>3.5.1</Version>
 </ServiceList>
